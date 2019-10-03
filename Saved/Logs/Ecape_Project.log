@@ -910,3 +910,15 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.03-19.03.10:090][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/Score]
 [2019.10.03-19.03.10:101][512]LogSavePackage: Moving '../../../../../../Users/fbarroso/Documents/Unreal Projects/Escape_Project/Saved/Score_Auto518769C5C467A846D0DA1009EF562270B.tmp' to '../../../../../../Users/fbarroso/Documents/Unreal Projects/Escape_Project/Saved/Autosaves/Game/Widgets/Score_Auto5.uasset'
 [2019.10.03-19.03.10:102][512]LogFileHelpers: Auto-saving content packages took 0.046
+[2019.10.03-19.12.46:822][834]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.03-19.12.56:904][365]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.03-19.12.58:242][520]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2019.10.03-19.12.58:247][520]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.03-19.12.58:290][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2019.10.03-19.12.58:533][520]LogSavePackage: Moving '../../../../../../Users/fbarroso/Documents/Unreal Projects/Escape_Project/Saved/FirstPersonExampleMap5BF29FD94AA1B80B29FBC78B632DA74D.tmp' to '../../../../../../Users/fbarroso/Documents/Unreal Projects/Escape_Project/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.10.03-19.12.58:544][520]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.292
+[2019.10.03-19.12.58:617][520]LogSavePackage: Moving '../../../../../../Users/fbarroso/Documents/Unreal Projects/Escape_Project/Saved/FirstPersonCharacter8D57B46F467382BB33FCE5881EBCB37C.tmp' to '../../../../../../Users/fbarroso/Documents/Unreal Projects/Escape_Project/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.10.03-19.12.58:622][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Target" FILE="../../../../../../Users/fbarroso/Documents/Unreal Projects/Escape_Project/Content/Blueprints/BP_Target.uasset" SILENT=true
+[2019.10.03-19.12.58:636][520]LogSavePackage: Moving '../../../../../../Users/fbarroso/Documents/Unreal Projects/Escape_Project/Saved/BP_Target4E7EED1F41B2A0E1C35757834C085ACB.tmp' to '../../../../../../Users/fbarroso/Documents/Unreal Projects/Escape_Project/Content/Blueprints/BP_Target.uasset'
+[2019.10.03-19.12.58:641][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Score" FILE="../../../../../../Users/fbarroso/Documents/Unreal Projects/Escape_Project/Content/Widgets/Score.uasset" SILENT=true
+[2019.10.03-19.12.58:654][520]LogSavePackage: Moving '../../../../../../Users/fbarroso/Documents/Unreal Projects/Escape_Project/Saved/Score61A7A9454214AAE6AB9BC79E583B5E98.tmp' to '../../../../../../Users/fbarroso/Documents/Unreal Projects/Escape_Project/Content/Widgets/Score.uasset'
