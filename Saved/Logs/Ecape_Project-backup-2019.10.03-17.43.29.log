@@ -1,0 +1,1260 @@
+﻿Log file open, 10/03/19 00:42:24
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Ecape_Project
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.476952
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i7-6820HQ CPU @ 2.70GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.10.02-22.42.25:246][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.10.02-22.42.25:246][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.10.02-22.42.25:246][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/fbcim/OneDrive/Documentos/Unreal Projects/Escape_Project/Saved/Config/Windows/Engine.ini]
+[2019.10.02-22.42.25:246][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.10.02-22.42.25:246][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/fbcim/OneDrive/Documentos/Unreal Projects/Escape_Project/Saved/Config/Windows/Engine.ini]
+[2019.10.02-22.42.25:247][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/fbcim/OneDrive/Documentos/Unreal Projects/Escape_Project/Saved/Config/Windows/Engine.ini]
+[2019.10.02-22.42.25:247][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.10.02-22.42.25:247][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.10.02-22.42.25:247][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.10.02-22.42.25:247][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.10.02-22.42.25:247][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.10.02-22.42.25:247][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.10.02-22.42.25:247][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.10.02-22.42.25:247][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.10.02-22.42.25:247][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.10.02-22.42.25:247][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.10.02-22.42.25:247][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.10.02-22.42.25:247][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.10.02-22.42.25:247][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.10.02-22.42.25:247][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/fbcim/OneDrive/Documentos/Unreal Projects/Escape_Project/Saved/Config/Windows/Engine.ini]
+[2019.10.02-22.42.25:247][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.10.02-22.42.25:247][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.10.02-22.42.25:247][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.10.02-22.42.25:247][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.10.02-22.42.25:247][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.10.02-22.42.25:247][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.10.02-22.42.25:247][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.10.02-22.42.25:247][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.10.02-22.42.25:247][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.10.02-22.42.25:247][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.10.02-22.42.25:247][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.10.02-22.42.25:247][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.10.02-22.42.25:247][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.10.02-22.42.25:247][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/fbcim/OneDrive/Documentos/Unreal Projects/Escape_Project/Saved/Config/Windows/Engine.ini]
+[2019.10.02-22.42.25:247][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/fbcim/OneDrive/Documentos/Unreal Projects/Escape_Project/Saved/Config/Windows/Engine.ini]
+[2019.10.02-22.42.25:252][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/fbcim/OneDrive/Documentos/Unreal Projects/Escape_Project/Saved/Config/Windows/Scalability.ini]
+[2019.10.02-22.42.25:252][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.02-22.42.25:252][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.02-22.42.25:252][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/fbcim/OneDrive/Documentos/Unreal Projects/Escape_Project/Saved/Config/Windows/Scalability.ini]
+[2019.10.02-22.42.25:252][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.02-22.42.25:252][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/fbcim/OneDrive/Documentos/Unreal Projects/Escape_Project/Saved/Config/Windows/Scalability.ini]
+[2019.10.02-22.42.25:252][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.02-22.42.25:252][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.02-22.42.25:252][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.02-22.42.25:252][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.02-22.42.25:252][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.02-22.42.25:252][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.02-22.42.25:252][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.02-22.42.25:252][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.02-22.42.25:252][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.02-22.42.25:252][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.02-22.42.25:252][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.02-22.42.25:252][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.02-22.42.25:252][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.02-22.42.25:252][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.02-22.42.25:252][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.02-22.42.25:252][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.02-22.42.25:252][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.02-22.42.25:252][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.02-22.42.25:252][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/fbcim/OneDrive/Documentos/Unreal Projects/Escape_Project/Saved/Config/Windows/Scalability.ini]
+[2019.10.02-22.42.25:252][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.02-22.42.25:252][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.02-22.42.25:252][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.02-22.42.25:252][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.02-22.42.25:252][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.02-22.42.25:252][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.02-22.42.25:252][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.02-22.42.25:252][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.02-22.42.25:252][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.02-22.42.25:252][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.02-22.42.25:252][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.02-22.42.25:252][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.02-22.42.25:252][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.02-22.42.25:252][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.02-22.42.25:252][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.02-22.42.25:252][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.02-22.42.25:252][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.02-22.42.25:252][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.02-22.42.25:252][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.02-22.42.25:252][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.02-22.42.25:252][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.02-22.42.25:252][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.02-22.42.25:252][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.02-22.42.25:252][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.02-22.42.25:252][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.02-22.42.25:252][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.02-22.42.25:252][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.02-22.42.25:252][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.02-22.42.25:252][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.02-22.42.25:252][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.02-22.42.25:252][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/fbcim/OneDrive/Documentos/Unreal Projects/Escape_Project/Saved/Config/Windows/Scalability.ini]
+[2019.10.02-22.42.25:252][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.02-22.42.25:252][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.02-22.42.25:253][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.02-22.42.25:253][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.02-22.42.25:253][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.02-22.42.25:253][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.02-22.42.25:253][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.02-22.42.25:253][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.02-22.42.25:253][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/fbcim/OneDrive/Documentos/Unreal Projects/Escape_Project/Saved/Config/Windows/Scalability.ini]
+[2019.10.02-22.42.25:253][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.02-22.42.25:253][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.02-22.42.25:253][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.02-22.42.25:253][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.02-22.42.25:253][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.02-22.42.25:253][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.02-22.42.25:253][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.02-22.42.25:253][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.02-22.42.25:253][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.02-22.42.25:253][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.02-22.42.25:253][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.02-22.42.25:253][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.02-22.42.25:253][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.02-22.42.25:253][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/fbcim/OneDrive/Documentos/Unreal Projects/Escape_Project/Saved/Config/Windows/Scalability.ini]
+[2019.10.02-22.42.25:253][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.02-22.42.25:253][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.02-22.42.25:253][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.02-22.42.25:254][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.02-22.42.25:262][  0]LogHAL: Display: Platform has ~ 16 GB [17021825024 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.02-22.42.25:262][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.02-22.42.25:262][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/fbcim/OneDrive/Documentos/Unreal Projects/Escape_Project/Saved/Config/Windows/Scalability.ini]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/fbcim/OneDrive/Documentos/Unreal Projects/Escape_Project/Saved/Config/Windows/Scalability.ini]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/fbcim/OneDrive/Documentos/Unreal Projects/Escape_Project/Saved/Config/Windows/Scalability.ini]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/fbcim/OneDrive/Documentos/Unreal Projects/Escape_Project/Saved/Config/Windows/Scalability.ini]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/fbcim/OneDrive/Documentos/Unreal Projects/Escape_Project/Saved/Config/Windows/Scalability.ini]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/fbcim/OneDrive/Documentos/Unreal Projects/Escape_Project/Saved/Config/Windows/Scalability.ini]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.02-22.42.25:263][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.02-22.42.25:264][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.02-22.42.25:264][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.02-22.42.25:264][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.02-22.42.25:264][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.02-22.42.25:264][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.02-22.42.25:264][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.02-22.42.25:264][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.02-22.42.25:264][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.02-22.42.25:264][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.02-22.42.25:264][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/fbcim/OneDrive/Documentos/Unreal Projects/Escape_Project/Saved/Config/Windows/Scalability.ini]
+[2019.10.02-22.42.25:264][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.02-22.42.25:264][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.02-22.42.25:264][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.10.02-22.42.25:268][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.10.02-22.42.25:268][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.10.02-22.42.25:269][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/fbcim/OneDrive/Documentos/Unreal Projects/Escape_Project/Saved/Config/Windows/Engine.ini]
+[2019.10.02-22.42.25:269][  0]LogInit: Computer: DESKTOP-J29AVPL
+[2019.10.02-22.42.25:269][  0]LogInit: User: fbcim
+[2019.10.02-22.42.25:269][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.10.02-22.42.25:269][  0]LogInit: High frequency timer resolution =2.648435 MHz
+[2019.10.02-22.42.25:269][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.10.02-22.42.25:269][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.02-22.42.25:269][  0]LogMemory: Process Physical Memory: 99.86 MB used, 99.86 MB peak
+[2019.10.02-22.42.25:269][  0]LogMemory: Process Virtual Memory: 88.91 MB used, 88.91 MB peak
+[2019.10.02-22.42.25:269][  0]LogMemory: Physical Memory: 7423.58 MB used,  8809.70 MB free, 16233.28 MB total
+[2019.10.02-22.42.25:269][  0]LogMemory: Virtual Memory: 4673.80 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2019.10.02-22.42.25:283][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.10.02-22.42.25:562][  0]LogInit: Overriding language with editor language configuration option (en).
+[2019.10.02-22.42.25:562][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2019.10.02-22.42.25:960][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.02-22.42.26:053][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.02-22.42.26:053][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.02-22.42.29:378][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.02-22.42.29:378][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.02-22.42.29:510][  0]LogD3D11RHI:    0. 'NVIDIA Quadro M1000M' (Feature Level 11_0)
+[2019.10.02-22.42.29:510][  0]LogD3D11RHI:       2010/0/8116 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.10.02-22.42.29:537][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2019.10.02-22.42.29:537][  0]LogD3D11RHI:       128/0/8116 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.10.02-22.42.29:541][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.02-22.42.29:541][  0]LogD3D11RHI:       0/0/8116 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.02-22.42.29:541][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.02-22.42.29:622][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.02-22.42.29:622][  0]LogD3D11RHI:     GPU DeviceId: 0x13b1 (for the marketing name, search the web for "GPU Device Id")
+[2019.10.02-22.42.29:622][  0]LogWindows: EnumDisplayDevices:
+[2019.10.02-22.42.29:622][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2019.10.02-22.42.29:623][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.10.02-22.42.29:623][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.10.02-22.42.29:623][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.10.02-22.42.29:623][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro M1000M
+[2019.10.02-22.42.29:624][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.10.02-22.42.29:624][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.10.02-22.42.29:624][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2019.10.02-22.42.29:697][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.02-22.42.29:725][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.10.02-22.42.30:498][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.10.02-22.42.30:513][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.10.02-22.42.30:528][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.10.02-22.42.30:544][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.10.02-22.42.30:569][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.10.02-22.42.30:585][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.10.02-22.42.30:601][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.10.02-22.42.30:616][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.10.02-22.42.30:624][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.10.02-22.42.30:693][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.10.02-22.42.30:693][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.10.02-22.42.30:693][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.10.02-22.42.30:693][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.10.02-22.42.30:693][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.10.02-22.42.30:693][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.10.02-22.42.30:693][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.10.02-22.42.30:693][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.10.02-22.42.30:693][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.10.02-22.42.30:693][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.10.02-22.42.30:693][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.10.02-22.42.30:693][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.10.02-22.42.30:693][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.10.02-22.42.30:693][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.10.02-22.42.30:693][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.10.02-22.42.30:693][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.10.02-22.42.30:693][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.10.02-22.42.30:694][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.10.02-22.42.30:698][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.10.02-22.42.30:742][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.10.02-22.42.30:742][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.10.02-22.42.30:764][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.10.02-22.42.30:764][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.10.02-22.42.30:776][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.10.02-22.42.30:787][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.10.02-22.42.30:799][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.10.02-22.42.30:821][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.10.02-22.42.30:865][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.10.02-22.42.30:865][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.10.02-22.42.30:865][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.02-22.42.30:928][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.10.02-22.42.31:102][  0]LogShaderCompilers: Guid format shader working directory is -34 characters bigger than the processId version (../../../../../../Users/fbcim/OneDrive/Documentos/Unreal Projects/Escape_Project/Intermediate/Shaders/WorkingDirectory/8104/).
+[2019.10.02-22.42.31:102][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/fbcim/AppData/Local/Temp/UnrealShaderWorkingDir/D81F3DFE4AF009DCDF04C99C656A467F/'.
+[2019.10.02-22.42.31:107][  0]LogXGEController: Cleaning working directory: C:/Users/fbcim/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.10.02-22.42.31:107][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.02-22.42.31:108][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.02-22.42.31:108][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.02-22.42.34:094][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.02-22.42.34:094][  0]LogDerivedDataCache: Display: Starting with empty Boot cache
+[2019.10.02-22.42.34:095][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/fbcim/OneDrive/Documentos/Unreal Projects/Escape_Project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.02-22.42.34:095][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.02-22.42.34:095][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/fbcim/OneDrive/Documentos/Unreal Projects/Escape_Project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.02-22.42.34:095][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.02-22.42.34:120][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.02-22.42.34:121][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.02-22.42.34:121][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.10.02-22.42.34:123][  0]LogDerivedDataCache: Using Local data cache path C:/Users/fbcim/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.02-22.42.34:123][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.02-22.42.34:123][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.02-22.42.34:169][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.02-22.42.34:179][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.02-22.42.34:194][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.02-22.42.34:551][  0]LogAssetRegistry: FAssetRegistry took 0.0055 seconds to start up
+[2019.10.02-22.42.35:191][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.02-22.42.35:725][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.02-22.42.35:725][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.10.02-22.42.35:725][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.02-22.42.35:725][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.10.02-22.42.35:726][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.10.02-22.42.35:808][  0]LogNetVersion: Ecape_Project 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 306378981)
+[2019.10.02-22.42.38:101][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.170831 seconds
+[2019.10.02-22.42.38:121][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.10.02-22.42.38:121][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.10.02-22.42.38:121][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.02-22.42.43:443][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.02-22.42.43:451][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.02-22.42.43:596][  0]SourceControl: Source control is disabled
+[2019.10.02-22.42.43:597][  0]SourceControl: Source control is disabled
+[2019.10.02-22.42.43:607][  0]SourceControl: Source control is disabled
+[2019.10.02-22.42.43:612][  0]SourceControl: Source control is disabled
+[2019.10.02-22.42.43:930][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.02-22.42.44:296][  0]LogOcInput: OculusInput pre-init called
+[2019.10.02-22.42.44:314][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.10.02-22.42.44:314][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.10.02-22.42.44:519][  0]LogEngine: Initializing Engine...
+[2019.10.02-22.42.44:523][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.02-22.42.44:528][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.002 s
+[2019.10.02-22.42.45:205][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.02-22.42.45:272][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.02-22.42.45:333][  0]LogInit: XAudio2 using 'Altavoces / Auriculares (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.02-22.42.45:602][  0]LogInit: FAudioDevice initialized.
+[2019.10.02-22.42.45:603][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.02-22.42.45:774][  0]LogDerivedDataCache: Saved boot cache 0.17s 74MB C:/Users/fbcim/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.02-22.42.45:782][  0]LogInit: Texture streaming: Enabled
+[2019.10.02-22.42.45:819][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.02-22.42.45:925][  0]LogInit: Transaction tracking system initialized
+[2019.10.02-22.42.46:009][  0]BlueprintLog: New page: Editor Load
+[2019.10.02-22.42.46:215][  0]LocalizationService: Localization service is disabled
+[2019.10.02-22.42.46:316][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2019.10.02-22.42.46:316][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2019.10.02-22.42.46:316][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2019.10.02-22.42.46:686][  0]LogFileCache: Scanning file cache for directory 'C:/Users/fbcim/OneDrive/Documentos/Unreal Projects/Escape_Project/Content/' took 0.01s
+[2019.10.02-22.42.46:686][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.02-22.42.46:686][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.02-22.42.47:335][  0]SourceControl: Source control is disabled
+[2019.10.02-22.42.47:338][  0]Cmd: MAP LOAD FILE="../../../../../../Users/fbcim/OneDrive/Documentos/Unreal Projects/Escape_Project/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.02-22.42.47:347][  0]LightingResults: New page: Lighting Build
+[2019.10.02-22.42.47:362][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.10.02-22.42.47:367][  0]MapCheck: New page: Map Check
+[2019.10.02-22.42.47:367][  0]LightingResults: New page: Lighting Build
+[2019.10.02-22.42.47:429][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2019.10.02-22.42.48:423][  0]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 64X64)
+[2019.10.02-22.42.48:423][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 2048X2048)
+[2019.10.02-22.42.48:423][  0]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 2048X2048)
+[2019.10.02-22.42.48:424][  0]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 2048X2048)
+[2019.10.02-22.42.48:424][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 2048X2048)
+[2019.10.02-22.42.48:424][  0]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 2048X2048)
+[2019.10.02-22.42.48:424][  0]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 2048X2048)
+[2019.10.02-22.42.52:671][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 2048X2048)
+[2019.10.02-22.42.52:672][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 2048X2048)
+[2019.10.02-22.42.52:672][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 64X64)
+[2019.10.02-22.42.52:672][  0]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 2048X1024)
+[2019.10.02-22.42.52:672][  0]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 2048X1024)
+[2019.10.02-22.42.52:672][  0]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 2048X1024)
+[2019.10.02-22.42.52:672][  0]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 64X32)
+[2019.10.02-22.42.52:672][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 1024X1024)
+[2019.10.02-22.42.52:672][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 1024X1024)
+[2019.10.02-22.42.52:672][  0]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 2048X1024)
+[2019.10.02-22.42.52:672][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 1024X1024)
+[2019.10.02-22.42.52:672][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 1024X1024)
+[2019.10.02-22.42.52:672][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 1024X1024)
+[2019.10.02-22.42.52:672][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 32X32)
+[2019.10.02-22.42.52:672][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 1024X1024)
+[2019.10.02-22.42.52:672][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 1024X1024)
+[2019.10.02-22.42.52:675][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.02-22.42.52:773][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.02-22.42.52:866][  0]LogUObjectHash: Compacting FUObjectHashTables data took   6.33ms
+[2019.10.02-22.42.52:867][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.02-22.42.52:868][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.983ms to complete.
+[2019.10.02-22.42.52:868][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 5.531
+[2019.10.02-22.42.53:194][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.02-22.42.53:214][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.02-22.42.53:233][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.02-22.42.53:249][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.02-22.42.53:280][  0]LogCollectionManager: Loaded 0 collections in 0.003554 seconds
+[2019.10.02-22.42.53:311][  0]LogFileCache: Scanning file cache for directory 'C:/Users/fbcim/OneDrive/Documentos/Unreal Projects/Escape_Project/Saved/Collections/' took 0.00s
+[2019.10.02-22.42.53:311][  0]LogFileCache: Scanning file cache for directory 'C:/Users/fbcim/OneDrive/Documentos/Unreal Projects/Escape_Project/Content/Developers/fbcim/Collections/' took 0.00s
+[2019.10.02-22.42.53:311][  0]LogFileCache: Scanning file cache for directory 'C:/Users/fbcim/OneDrive/Documentos/Unreal Projects/Escape_Project/Content/Collections/' took 0.00s
+[2019.10.02-22.42.53:311][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000003 seconds
+[2019.10.02-22.42.53:331][  0]LogContentBrowser: Native class hierarchy populated in 0.0181 seconds. Added 2863 classes and 680 folders.
+[2019.10.02-22.42.53:352][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.10.02-22.42.53:511][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.10.02-22.42.53:527][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.10.02-22.42.53:605][  0]LogSlate: Took 0.011162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.02-22.42.53:621][  0]LogSlate: Took 0.009859 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.02-22.42.53:643][  0]LogSlate: Took 0.010272 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.02-22.42.53:829][  0]LogRenderer: Reallocating scene render targets to support 964x484 Format 10 NumSamples 1 (Frame:1).
+[2019.10.02-22.42.54:284][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.10.02-22.42.54:284][  0]LogLoad: (Engine Initialization) Total time: 33.48 seconds
+[2019.10.02-22.42.54:284][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.02-22.42.54:364][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.02-22.42.54:405][  0]LogSlate: Took 0.009092 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.02-22.42.54:455][  1]LogAssetRegistry: Asset discovery search completed in 19.9055 seconds
+[2019.10.02-22.42.54:461][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000008 seconds (found 0 objects)
+[2019.10.02-22.42.54:462][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000128 seconds (updated 0 objects)
+[2019.10.02-22.43.00:426][375]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-22.43.00:517][386]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.02-22.43.00:531][386]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.02-22.43.00:532][386]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.02-22.43.00:535][386]PIE: New page: PIE session: FirstPersonExampleMap (Oct 3, 2019, 2:43:00 AM)
+[2019.10.02-22.43.00:538][386]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.10.02-22.43.00:540][386]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.02-22.43.00:562][386]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021754s)
+[2019.10.02-22.43.00:563][386]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.02-22.43.00:564][386]LogPlayLevel: PIE: World Init took: (0.001955s)
+[2019.10.02-22.43.00:564][386]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.024547s)
+[2019.10.02-22.43.00:608][386]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2019.10.02-22.43.00:617][386]LogInit: XAudio2 using 'Altavoces / Auriculares (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.02-22.43.00:654][386]LogInit: FAudioDevice initialized.
+[2019.10.02-22.43.00:668][386]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.02-22.43.00:675][386]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.03-00.43.00
+[2019.10.02-22.43.00:678][386]LogWorld: Bringing up level for play took: 0.006267
+[2019.10.02-22.43.00:679][386]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2019.10.02-22.43.00:699][386]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.10.02-22.43.00:700][386]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.996
+[2019.10.02-22.43.00:701][386]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.02-22.43.12:838][763]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.02-22.43.12:839][763]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.02-22.43.12:839][763]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.02-22.43.12:839][763]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.02-22.43.12:851][763]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.02-22.43.12:851][763]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.02-22.43.12:906][763]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.02-22.43.12:914][763]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2019.10.02-22.43.12:945][765]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.10.02-22.43.25:196][196]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-22.43.25:255][203]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.02-22.43.25:273][203]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.02-22.43.25:273][203]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.02-22.43.25:273][203]PIE: New page: PIE session: FirstPersonExampleMap (Oct 3, 2019, 2:43:25 AM)
+[2019.10.02-22.43.25:273][203]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.02-22.43.25:295][203]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022056s)
+[2019.10.02-22.43.25:297][203]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.02-22.43.25:298][203]LogPlayLevel: PIE: World Init took: (0.002246s)
+[2019.10.02-22.43.25:298][203]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.024558s)
+[2019.10.02-22.43.25:349][203]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2019.10.02-22.43.25:358][203]LogInit: XAudio2 using 'Altavoces / Auriculares (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.02-22.43.25:399][203]LogInit: FAudioDevice initialized.
+[2019.10.02-22.43.25:411][203]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.02-22.43.25:414][203]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.03-00.43.25
+[2019.10.02-22.43.25:414][203]LogWorld: Bringing up level for play took: 0.002063
+[2019.10.02-22.43.25:415][203]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2019.10.02-22.43.25:417][203]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.288
+[2019.10.02-22.43.25:417][203]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.02-22.43.28:841][607]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.02-22.43.28:842][607]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.02-22.43.28:842][607]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.02-22.43.28:842][607]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.02-22.43.28:853][607]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.02-22.43.28:853][607]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.02-22.43.28:913][607]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.02-22.43.28:918][607]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2019.10.02-22.43.28:940][608]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.10.02-22.43.30:445][778]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-22.43.30:520][786]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.02-22.43.30:541][786]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.02-22.43.30:541][786]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.02-22.43.30:541][786]PIE: New page: PIE session: FirstPersonExampleMap (Oct 3, 2019, 2:43:30 AM)
+[2019.10.02-22.43.30:542][786]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.02-22.43.30:564][786]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022522s)
+[2019.10.02-22.43.30:566][786]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.02-22.43.30:566][786]LogPlayLevel: PIE: World Init took: (0.002035s)
+[2019.10.02-22.43.30:567][786]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.024818s)
+[2019.10.02-22.43.30:628][786]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2019.10.02-22.43.30:640][786]LogInit: XAudio2 using 'Altavoces / Auriculares (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.02-22.43.30:693][786]LogInit: FAudioDevice initialized.
+[2019.10.02-22.43.30:706][786]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.02-22.43.30:710][786]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.03-00.43.30
+[2019.10.02-22.43.30:710][786]LogWorld: Bringing up level for play took: 0.002709
+[2019.10.02-22.43.30:710][786]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2019.10.02-22.43.30:713][786]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1.008
+[2019.10.02-22.43.30:714][786]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.02-22.43.39:950][868]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.02-22.43.39:950][868]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.02-22.43.39:950][868]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.02-22.43.39:950][868]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.02-22.43.39:964][868]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.02-22.43.39:964][868]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.02-22.43.40:032][868]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.02-22.43.40:036][868]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2019.10.02-22.43.40:060][869]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.10.02-22.44.21:759][111]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-22.44.40:138][994]LogActorFactory: Actor Factory created Sphere
+[2019.10.02-22.44.40:530][ 17]LogActorFactory: Actor Factory created Sphere
+[2019.10.02-22.44.51:731][484]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-22.45.00:095][855]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-22.45.00:156][857]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.02-22.45.00:196][857]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.02-22.45.00:196][857]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.02-22.45.00:196][857]PIE: New page: PIE session: FirstPersonExampleMap (Oct 3, 2019, 2:45:00 AM)
+[2019.10.02-22.45.00:196][857]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.02-22.45.00:248][857]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051309s)
+[2019.10.02-22.45.00:254][857]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.02-22.45.00:255][857]LogPlayLevel: PIE: World Init took: (0.007186s)
+[2019.10.02-22.45.00:255][857]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.059227s)
+[2019.10.02-22.45.00:370][857]LogUObjectHash: Compacting FUObjectHashTables data took   6.44ms
+[2019.10.02-22.45.00:392][857]LogInit: XAudio2 using 'Altavoces / Auriculares (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.02-22.45.00:491][857]LogInit: FAudioDevice initialized.
+[2019.10.02-22.45.00:508][857]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.02-22.45.00:515][857]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.03-00.45.00
+[2019.10.02-22.45.00:516][857]LogWorld: Bringing up level for play took: 0.005115
+[2019.10.02-22.45.00:516][857]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2019.10.02-22.45.00:523][857]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.818
+[2019.10.02-22.45.00:523][857]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.02-22.45.33:206][608]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.02-22.45.33:207][608]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.02-22.45.33:207][608]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.02-22.45.33:207][608]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.02-22.45.33:233][608]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.02-22.45.33:234][608]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.02-22.45.33:350][608]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.02-22.45.33:363][608]LogUObjectHash: Compacting FUObjectHashTables data took   8.94ms
+[2019.10.02-22.45.33:409][609]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.10.02-22.45.35:064][685]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.10.02-22.45.42:699][  8]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-22.45.54:149][417]LogSlate: Took 0.000512 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.02-22.46.00:226][417]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.10.02-22.46.25:503][450]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Diana.BP_Diana
+[2019.10.02-22.46.26:424][450]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0014 seconds. Added 121 classes and 0 folders.
+[2019.10.02-22.46.28:273][450]LogRenderer: Reallocating scene render targets to support 964x684 Format 10 NumSamples 1 (Frame:1).
+[2019.10.02-22.46.37:972][716]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.02-22.46.49:192][  1]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.02-22.46.58:280][274]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-22.47.07:122][481]LogSlate: Took 0.017394 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.02-22.47.07:457][486]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-22.47.12:523][615]LogSlate: Took 0.016053 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.10.02-22.47.20:190][836]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.02-22.48.12:150][984]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-22.48.13:537][ 27]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Door.BP_Door
+[2019.10.02-22.48.40:473][504]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-22.48.40:555][506]LogSlate: Window 'BP_Door' being destroyed
+[2019.10.02-22.48.40:594][506]LogSlate: Window 'BP_Door' being destroyed
+[2019.10.02-22.48.40:673][506]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2019.10.02-22.48.40:818][506]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.10.02-22.48.40:818][506]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2019.10.02-22.48.43:415][592]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Diana.BP_Diana
+[2019.10.02-22.49.09:047][262]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-22.49.30:711][796]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-22.49.36:050][935]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-22.52.28:628][629]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.02-22.52.54:058][522]Cmd: TRANSACTION UNDO
+[2019.10.02-22.52.54:058][522]LogEditorTransaction: Undo Move Actors
+[2019.10.02-22.53.01:253][835]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.02-22.53.06:548][114]Cmd: TRANSACTION UNDO
+[2019.10.02-22.53.06:549][114]LogEditorTransaction: Undo Move Actors
+[2019.10.02-22.53.07:656][168]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall2)
+[2019.10.02-22.53.21:677][831]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-22.53.37:782][580]Cmd: TRANSACTION UNDO
+[2019.10.02-22.53.37:782][580]LogEditorTransaction: Undo Scale Actors
+[2019.10.02-22.53.46:429][991]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall2)
+[2019.10.02-22.54.19:076][585]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.02-22.54.20:096][635]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.02-22.54.20:314][635]LogUObjectHash: Compacting FUObjectHashTables data took  15.30ms
+[2019.10.02-22.54.20:919][635]LogSavePackage: Moving '../../../../../../Users/fbcim/OneDrive/Documentos/Unreal Projects/Escape_Project/Saved/FirstPersonExampleMap_Auto1403C4C5041CC71A76127FBBAE0A388FF.tmp' to '../../../../../../Users/fbcim/OneDrive/Documentos/Unreal Projects/Escape_Project/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2019.10.02-22.54.20:936][635]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.774
+[2019.10.02-22.54.20:936][635]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.774
+[2019.10.02-22.54.20:940][635]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Diana] ([1] browsable assets)...
+[2019.10.02-22.54.20:969][635]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Diana.BP_Diana]
+[2019.10.02-22.54.20:969][635]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Diana]
+[2019.10.02-22.54.21:019][635]LogSavePackage: Moving '../../../../../../Users/fbcim/OneDrive/Documentos/Unreal Projects/Escape_Project/Saved/BP_Diana_Auto1D5001810433E1A4FDE18B8A05654B35D.tmp' to '../../../../../../Users/fbcim/OneDrive/Documentos/Unreal Projects/Escape_Project/Saved/Autosaves/Game/Blueprints/BP_Diana_Auto1.uasset'
+[2019.10.02-22.54.21:022][635]LogFileHelpers: Auto-saving content packages took 0.083
+[2019.10.02-22.54.25:510][866]Cmd: TRANSACTION UNDO
+[2019.10.02-22.54.25:510][866]LogEditorTransaction: Undo Scale Actors
+[2019.10.02-22.54.28:650][964]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-22.54.44:694][592]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2019.10.02-22.54.51:546][893]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-22.54.54:386][980]LogHttp: Warning: 00000228045956C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC61B5195-435C-0EEC-A139-F294128EDC0F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=35cb03a9492b4a8477e64290f9200041%7C6037bc51425c4c8f92bfdd7520e9cf70%7Cd46a51d6-7f2b-483d-8fa4-5e80c8e274ef&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.02-22.54.54:386][980]LogHttp: Warning: 00000228045956C0: request failed, libcurl error: 0 (No error)
+[2019.10.02-22.54.54:386][980]LogHttp: Warning: 00000228045956C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x227d2e33f70 [can pipeline])
+[2019.10.02-22.54.54:386][980]LogHttp: Warning: 00000228045956C0: libcurl info message cache 1 (Re-using existing connection! (#5) with host datarouter.ol.epicgames.com)
+[2019.10.02-22.54.54:386][980]LogHttp: Warning: 00000228045956C0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.71.108.254) port 443 (#5))
+[2019.10.02-22.54.54:386][980]LogHttp: Warning: 00000228045956C0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.02-22.54.54:386][980]LogHttp: Warning: 00000228045956C0: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.02-22.54.54:386][980]LogHttp: Warning: 00000228045956C0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.02-22.54.54:387][980]LogHttp: Warning: 00000228045956C0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.02-22.54.54:387][980]LogHttp: Warning: 00000228045956C0: libcurl info message cache 7 (Closing connection 5)
+[2019.10.02-22.54.54:387][980]LogHttp: Warning: 00000228045956C0: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.02-22.54.54:387][980]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC61B5195-435C-0EEC-A139-F294128EDC0F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=35cb03a9492b4a8477e64290f9200041%7C6037bc51425c4c8f92bfdd7520e9cf70%7Cd46a51d6-7f2b-483d-8fa4-5e80c8e274ef&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.02-22.54.57:763][129]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-22.55.03:260][390]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.02-22.55.04:042][421]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.02-22.55.04:710][450]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall2)
+[2019.10.02-22.55.07:377][555]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-22.55.14:915][884]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.02-22.55.16:870][980]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall4)
+[2019.10.02-22.55.18:219][ 32]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-22.55.25:560][315]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2019.10.02-22.55.26:631][356]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.02-22.55.27:665][407]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall1)
+[2019.10.02-22.55.33:839][627]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-22.55.40:065][802]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall2)
+[2019.10.02-22.55.41:311][855]Cmd: DELETE
+[2019.10.02-22.55.41:311][855]Cmd: ACTOR DELETE
+[2019.10.02-22.55.41:328][855]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.02-22.55.41:453][855]LogUObjectHash: Compacting FUObjectHashTables data took  10.05ms
+[2019.10.02-22.55.41:454][855]LogEditorActor: Deleted 1 Actors (0.134 secs)
+[2019.10.02-22.55.41:979][885]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall)
+[2019.10.02-22.55.42:130][887]Cmd: DELETE
+[2019.10.02-22.55.42:130][887]Cmd: ACTOR DELETE
+[2019.10.02-22.55.42:135][887]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.02-22.55.42:257][887]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2019.10.02-22.55.42:258][887]LogEditorActor: Deleted 1 Actors (0.129 secs)
+[2019.10.02-22.55.44:547][ 13]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.02-22.55.46:504][ 96]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2019.10.02-22.55.49:650][219]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-22.55.49:719][222]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.02-22.55.49:765][222]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.02-22.55.49:765][222]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.02-22.55.49:768][222]LogPlayLevel: [PlayLevel] Compiling BP_Diana before play...
+[2019.10.02-22.55.50:506][222]LogUObjectHash: Compacting FUObjectHashTables data took  12.15ms
+[2019.10.02-22.55.50:507][222]LogPlayLevel: PlayLevel: Blueprint regeneration took 741 ms (1 blueprints)
+[2019.10.02-22.55.50:507][222]PIE: New page: PIE session: FirstPersonExampleMap (Oct 3, 2019, 2:55:50 AM)
+[2019.10.02-22.55.50:507][222]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.02-22.55.50:554][222]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046161s)
+[2019.10.02-22.55.50:557][222]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.02-22.55.50:558][222]LogPlayLevel: PIE: World Init took: (0.004195s)
+[2019.10.02-22.55.50:558][222]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.050883s)
+[2019.10.02-22.55.50:689][222]LogUObjectHash: Compacting FUObjectHashTables data took   8.53ms
+[2019.10.02-22.55.50:710][222]LogInit: XAudio2 using 'Altavoces / Auriculares (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.02-22.55.50:809][222]LogInit: FAudioDevice initialized.
+[2019.10.02-22.55.50:826][222]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.02-22.55.50:833][222]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.03-00.55.50
+[2019.10.02-22.55.50:834][222]LogWorld: Bringing up level for play took: 0.005526
+[2019.10.02-22.55.50:835][222]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2019.10.02-22.55.50:841][222]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1.136
+[2019.10.02-22.55.50:842][222]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.02-22.56.18:848][585]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.02-22.56.18:849][585]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.02-22.56.18:849][585]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.02-22.56.18:850][585]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.02-22.56.18:869][585]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.02-22.56.18:870][585]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.02-22.56.19:015][585]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.02-22.56.19:027][585]LogUObjectHash: Compacting FUObjectHashTables data took   8.74ms
+[2019.10.02-22.56.19:075][586]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.10.02-22.56.21:524][707]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-22.56.22:573][738]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Door.BP_Door
+[2019.10.02-22.56.37:822][139]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-22.56.37:957][140]BlueprintLog: New page: Compile BP_Door
+[2019.10.02-22.56.38:779][140]LogUObjectHash: Compacting FUObjectHashTables data took  15.59ms
+[2019.10.02-22.56.39:487][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Door" FILE="../../../../../../Users/fbcim/OneDrive/Documentos/Unreal Projects/Escape_Project/Content/Blueprints/BP_Door.uasset" SILENT=true
+[2019.10.02-22.56.39:630][154]LogSavePackage: Moving '../../../../../../Users/fbcim/OneDrive/Documentos/Unreal Projects/Escape_Project/Saved/BP_Door524DE37643699CEDEED8E2BA99B3C4FE.tmp' to '../../../../../../Users/fbcim/OneDrive/Documentos/Unreal Projects/Escape_Project/Content/Blueprints/BP_Door.uasset'
+[2019.10.02-22.56.43:449][283]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.02-22.56.43:496][283]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.02-22.56.43:496][283]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.02-22.56.43:496][283]PIE: New page: PIE session: FirstPersonExampleMap (Oct 3, 2019, 2:56:43 AM)
+[2019.10.02-22.56.43:497][283]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.02-22.56.43:544][283]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047379s)
+[2019.10.02-22.56.43:548][283]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.02-22.56.43:549][283]LogPlayLevel: PIE: World Init took: (0.004178s)
+[2019.10.02-22.56.43:549][283]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.052101s)
+[2019.10.02-22.56.43:693][283]LogUObjectHash: Compacting FUObjectHashTables data took  14.31ms
+[2019.10.02-22.56.43:715][283]LogInit: XAudio2 using 'Altavoces / Auriculares (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.02-22.56.43:808][283]LogInit: FAudioDevice initialized.
+[2019.10.02-22.56.43:823][283]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.02-22.56.43:829][283]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.03-00.56.43
+[2019.10.02-22.56.43:830][283]LogWorld: Bringing up level for play took: 0.004909
+[2019.10.02-22.56.43:831][283]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2019.10.02-22.56.43:836][283]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.131
+[2019.10.02-22.56.43:837][283]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.02-22.56.52:128][685]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.02-22.56.52:129][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.02-22.56.52:129][685]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.02-22.56.52:130][685]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.02-22.56.52:185][685]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.02-22.56.52:185][685]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.02-22.56.52:329][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.02-22.56.52:341][685]LogUObjectHash: Compacting FUObjectHashTables data took  10.01ms
+[2019.10.02-22.56.52:389][686]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.10.02-22.57.05:925][319]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-22.57.15:507][567]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-22.57.15:570][569]BlueprintLog: New page: Compile BP_Door
+[2019.10.02-22.57.16:361][569]LogUObjectHash: Compacting FUObjectHashTables data took  15.39ms
+[2019.10.02-22.57.17:028][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Door" FILE="../../../../../../Users/fbcim/OneDrive/Documentos/Unreal Projects/Escape_Project/Content/Blueprints/BP_Door.uasset" SILENT=true
+[2019.10.02-22.57.17:153][581]LogSavePackage: Moving '../../../../../../Users/fbcim/OneDrive/Documentos/Unreal Projects/Escape_Project/Saved/BP_DoorF2D4A7504E5509BA4B79AE9659A44B9D.tmp' to '../../../../../../Users/fbcim/OneDrive/Documentos/Unreal Projects/Escape_Project/Content/Blueprints/BP_Door.uasset'
+[2019.10.02-22.57.19:792][676]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.10.02-22.57.24:087][821]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-22.57.24:183][824]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.02-22.57.24:235][824]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.02-22.57.24:235][824]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.02-22.57.24:235][824]PIE: New page: PIE session: FirstPersonExampleMap (Oct 3, 2019, 2:57:24 AM)
+[2019.10.02-22.57.24:236][824]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.02-22.57.24:284][824]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047680s)
+[2019.10.02-22.57.24:289][824]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.02-22.57.24:290][824]LogPlayLevel: PIE: World Init took: (0.006003s)
+[2019.10.02-22.57.24:290][824]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.054270s)
+[2019.10.02-22.57.24:424][824]LogUObjectHash: Compacting FUObjectHashTables data took  13.09ms
+[2019.10.02-22.57.24:445][824]LogInit: XAudio2 using 'Altavoces / Auriculares (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.02-22.57.24:543][824]LogInit: FAudioDevice initialized.
+[2019.10.02-22.57.24:563][824]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.02-22.57.24:570][824]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.03-00.57.24
+[2019.10.02-22.57.24:571][824]LogWorld: Bringing up level for play took: 0.005568
+[2019.10.02-22.57.24:572][824]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2019.10.02-22.57.24:577][824]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.872
+[2019.10.02-22.57.24:578][824]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.02-22.58.25:568][817]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.02-22.58.25:569][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.02-22.58.25:569][817]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.02-22.58.25:569][817]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.02-22.58.25:632][817]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.02-22.58.25:632][817]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.02-22.58.25:778][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.02-22.58.25:791][817]LogUObjectHash: Compacting FUObjectHashTables data took  10.50ms
+[2019.10.02-22.58.25:837][818]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.10.02-22.58.29:085][997]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2019.10.02-22.58.29:904][ 36]Cmd: DELETE
+[2019.10.02-22.58.29:904][ 36]Cmd: ACTOR DELETE
+[2019.10.02-22.58.29:909][ 36]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.02-22.58.30:025][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2019.10.02-22.58.30:026][ 36]LogEditorActor: Deleted 1 Actors (0.121 secs)
+[2019.10.02-22.59.30:374][813]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-22.59.37:720][146]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-22.59.39:195][193]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.02-22.59.54:107][777]Cmd: TRANSACTION UNDO
+[2019.10.02-22.59.54:107][777]LogEditorTransaction: Undo Move Actors
+[2019.10.02-23.00.28:517][235]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-23.00.38:901][639]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-23.00.48:357][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-23.01.05:558][678]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-23.01.25:906][489]Cmd: TRANSACTION UNDO
+[2019.10.02-23.01.25:906][489]LogEditorTransaction: Undo Move Actors
+[2019.10.02-23.01.27:227][530]Cmd: TRANSACTION UNDO
+[2019.10.02-23.01.27:228][530]LogEditorTransaction: Undo Set Scale
+[2019.10.02-23.01.28:211][568]Cmd: TRANSACTION UNDO
+[2019.10.02-23.01.28:211][568]LogEditorTransaction: Undo Set Scale
+[2019.10.02-23.01.33:205][786]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-23.01.38:708][977]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.02-23.01.40:391][ 50]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-23.02.14:735][496]Cmd: DELETE
+[2019.10.02-23.02.14:735][496]Cmd: ACTOR DELETE
+[2019.10.02-23.02.14:745][496]LogEditorActor: Deleted Actor: Brush
+[2019.10.02-23.02.14:890][496]LogUObjectHash: Compacting FUObjectHashTables data took  10.18ms
+[2019.10.02-23.02.14:907][496]LogEditorActor: Deleted 1 Actors (0.171 secs)
+[2019.10.02-23.02.48:268][922]Cmd: DELETE
+[2019.10.02-23.02.48:268][922]Cmd: ACTOR DELETE
+[2019.10.02-23.02.48:276][922]LogEditorActor: Deleted Actor: Brush
+[2019.10.02-23.02.48:402][922]LogUObjectHash: Compacting FUObjectHashTables data took   8.94ms
+[2019.10.02-23.02.48:413][922]LogEditorActor: Deleted 1 Actors (0.144 secs)
+[2019.10.02-23.02.49:340][965]Cmd: TRANSACTION UNDO
+[2019.10.02-23.02.49:340][965]LogEditorTransaction: Undo Delete Actors
+[2019.10.02-23.03.42:475][163]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.02-23.05.17:441][  6]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.02-23.06.03:788][569]LogUObjectHash: Compacting FUObjectHashTables data took   9.27ms
+[2019.10.02-23.06.04:589][569]LogSavePackage: Moving '../../../../../../Users/fbcim/OneDrive/Documentos/Unreal Projects/Escape_Project/Saved/FirstPersonExampleMap_Auto217B8D9B843BF6C0CA2447397F6D72B8D.tmp' to '../../../../../../Users/fbcim/OneDrive/Documentos/Unreal Projects/Escape_Project/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2019.10.02-23.06.04:598][569]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.958
+[2019.10.02-23.06.04:598][569]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.958
+[2019.10.02-23.08.58:794][920]Cmd: EDCALLBACK SURFPROPS
+[2019.10.02-23.09.01:755][ 52]Cmd: EDCALLBACK SURFPROPS
+[2019.10.02-23.09.06:158][219]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.02-23.09.52:786][605]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-23.10.02:059][964]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-23.10.02:891][987]Cmd: BRUSH SUBTRACT SELECTNEWBRUSH
+[2019.10.02-23.10.11:569][345]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-23.10.52:768][109]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.02-23.11.08:822][819]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-23.11.09:847][853]Cmd: BRUSH SUBTRACT SELECTNEWBRUSH
+[2019.10.02-23.11.11:336][914]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-23.11.19:394][195]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-23.11.22:937][349]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.02-23.11.24:219][404]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.02-23.11.24:870][427]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.02-23.11.26:198][477]Cmd: TRANSACTION UNDO
+[2019.10.02-23.11.26:198][477]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.02-23.11.26:346][480]Cmd: TRANSACTION UNDO
+[2019.10.02-23.11.26:347][480]LogEditorTransaction: Undo Brush Add
+[2019.10.02-23.11.26:788][491]Cmd: TRANSACTION UNDO
+[2019.10.02-23.11.26:788][491]LogEditorTransaction: Undo Move Actors
+[2019.10.02-23.11.29:503][587]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-23.11.30:073][606]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.02-23.11.31:267][665]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-23.12.14:798][532]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-23.12.15:984][571]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.02-23.12.17:315][620]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-23.12.43:270][705]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-23.12.45:710][797]Cmd: DELETE
+[2019.10.02-23.12.45:710][797]Cmd: ACTOR DELETE
+[2019.10.02-23.12.45:724][797]LogEditorActor: Deleted Actor: Brush
+[2019.10.02-23.12.45:869][797]LogUObjectHash: Compacting FUObjectHashTables data took  12.16ms
+[2019.10.02-23.12.45:894][797]LogEditorActor: Deleted 1 Actors (0.183 secs)
+[2019.10.02-23.12.48:126][900]Cmd: BRUSH SUBTRACT SELECTNEWBRUSH
+[2019.10.02-23.12.49:479][967]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-23.13.04:851][572]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-23.13.06:213][621]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.02-23.13.06:757][639]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.02-23.13.09:320][728]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-23.13.33:796][792]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.10.02-23.13.38:126][957]Cmd: TRANSACTION UNDO
+[2019.10.02-23.13.38:126][957]LogEditorTransaction: Undo Move Actors
+[2019.10.02-23.13.48:211][314]Cmd: TRANSACTION UNDO
+[2019.10.02-23.13.48:211][314]LogEditorTransaction: Undo Move Actors
+[2019.10.02-23.13.48:235][314]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_329' invalid (288 verts, 0 indices).
+[2019.10.02-23.13.48:236][314]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_329.BodySetup_0 when we are unable to.
+[2019.10.02-23.13.48:236][314]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_330' invalid (288 verts, 0 indices).
+[2019.10.02-23.13.48:237][314]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_330.BodySetup_0 when we are unable to.
+[2019.10.02-23.13.48:237][314]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_331' invalid (288 verts, 0 indices).
+[2019.10.02-23.13.48:238][314]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_331.BodySetup_0 when we are unable to.
+[2019.10.02-23.13.48:238][314]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_332' invalid (288 verts, 0 indices).
+[2019.10.02-23.13.48:238][314]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_332.BodySetup_0 when we are unable to.
+[2019.10.02-23.13.48:239][314]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_333' invalid (288 verts, 0 indices).
+[2019.10.02-23.13.48:239][314]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_333.BodySetup_0 when we are unable to.
+[2019.10.02-23.13.48:240][314]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_334' invalid (288 verts, 0 indices).
+[2019.10.02-23.13.48:240][314]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_334.BodySetup_0 when we are unable to.
+[2019.10.02-23.14.02:852][916]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-23.14.28:691][898]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.02-23.14.38:007][226]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-23.14.38:567][246]Cmd: BRUSH SUBTRACT SELECTNEWBRUSH
+[2019.10.02-23.14.48:330][658]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-23.15.39:530][799]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-23.15.50:087][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-23.16.06:474][793]Cmd: TRANSACTION UNDO
+[2019.10.02-23.16.06:474][793]LogEditorTransaction: Undo Move Actors
+[2019.10.02-23.16.07:667][818]Cmd: TRANSACTION UNDO
+[2019.10.02-23.16.07:668][818]LogEditorTransaction: Undo Move Actors
+[2019.10.02-23.16.08:331][833]Cmd: TRANSACTION UNDO
+[2019.10.02-23.16.08:331][833]LogEditorTransaction: Undo Move Actors
+[2019.10.02-23.16.08:953][848]Cmd: TRANSACTION UNDO
+[2019.10.02-23.16.08:953][848]LogEditorTransaction: Undo Move Actors
+[2019.10.02-23.16.09:600][864]Cmd: TRANSACTION UNDO
+[2019.10.02-23.16.09:600][864]LogEditorTransaction: Undo Move Actors
+[2019.10.02-23.16.10:201][879]Cmd: TRANSACTION UNDO
+[2019.10.02-23.16.10:201][879]LogEditorTransaction: Undo Set Scale
+[2019.10.02-23.16.10:735][892]Cmd: TRANSACTION UNDO
+[2019.10.02-23.16.10:735][892]LogEditorTransaction: Undo Move Actors
+[2019.10.02-23.16.11:400][908]Cmd: TRANSACTION UNDO
+[2019.10.02-23.16.11:401][908]LogEditorTransaction: Undo Set Scale
+[2019.10.02-23.16.14:460][977]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.10.02-23.16.15:368][  3]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.10.02-23.16.21:020][154]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-23.17.25:003][792]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.02-23.17.25:175][792]LogUObjectHash: Compacting FUObjectHashTables data took  10.64ms
+[2019.10.02-23.17.26:002][792]LogSavePackage: Moving '../../../../../../Users/fbcim/OneDrive/Documentos/Unreal Projects/Escape_Project/Saved/FirstPersonExampleMap_Auto3A49CD94347F7A07D26E64692F84A8FCD.tmp' to '../../../../../../Users/fbcim/OneDrive/Documentos/Unreal Projects/Escape_Project/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto3.umap'
+[2019.10.02-23.17.26:014][792]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.959
+[2019.10.02-23.17.26:014][792]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.959
+[2019.10.02-23.18.04:393][442]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.10.02-23.18.08:649][620]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-23.18.38:782][781]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.10.02-23.18.57:016][509]Cmd: TRANSACTION UNDO
+[2019.10.02-23.18.57:016][509]LogEditorTransaction: Undo Move Actors
+[2019.10.02-23.19.04:329][811]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.10.02-23.19.10:394][ 41]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2019.10.02-23.19.14:098][208]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.10.02-23.19.16:409][302]Cmd: TRANSACTION UNDO
+[2019.10.02-23.19.16:409][302]LogEditorTransaction: Undo Move Actors
+[2019.10.02-23.19.17:107][320]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.10.02-23.19.30:327][862]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-23.19.30:410][865]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.02-23.19.30:455][865]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.02-23.19.30:455][865]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.02-23.19.30:455][865]PIE: New page: PIE session: FirstPersonExampleMap (Oct 3, 2019, 3:19:30 AM)
+[2019.10.02-23.19.30:456][865]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.02-23.19.30:512][865]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057060s)
+[2019.10.02-23.19.30:517][865]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.02-23.19.30:518][865]LogPlayLevel: PIE: World Init took: (0.005553s)
+[2019.10.02-23.19.30:518][865]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.063239s)
+[2019.10.02-23.19.30:668][865]LogUObjectHash: Compacting FUObjectHashTables data took  10.90ms
+[2019.10.02-23.19.30:696][865]LogInit: XAudio2 using 'Altavoces / Auriculares (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.02-23.19.30:795][865]LogInit: FAudioDevice initialized.
+[2019.10.02-23.19.30:814][865]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.02-23.19.30:821][865]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2019.10.03-01.19.30
+[2019.10.02-23.19.30:822][865]LogWorld: Bringing up level for play took: 0.005303
+[2019.10.02-23.19.30:822][865]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2019.10.02-23.19.30:827][865]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.10.02-23.19.30:829][865]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1.123
+[2019.10.02-23.19.30:829][865]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.02-23.20.00:572][188]LogCharacterMovement: FirstPersonCharacter_C_1 is stuck and failed to move! Velocity: X=244.99 Y=11.36 Z=0.00 Location: X=154.36 Y=85.41 Z=297.67 Normal: X=0.00 Y=-0.80 Z=-0.60 PenetrationDepth:11.276 Actor:BP_Door_2 Component:Door BoneName:None (0 other events since notify)
+[2019.10.02-23.20.01:576][235]LogCharacterMovement: FirstPersonCharacter_C_1 is stuck and failed to move! Velocity: X=-9.62 Y=-204.76 Z=0.00 Location: X=154.36 Y=85.41 Z=298.15 Normal: X=0.00 Y=-1.00 Z=0.00 PenetrationDepth:20.414 Actor:BP_Door_2 Component:Door BoneName:None (13 other events since notify)
+[2019.10.02-23.20.02:581][295]LogCharacterMovement: FirstPersonCharacter_C_1 is stuck and failed to move! Velocity: X=15.10 Y=599.81 Z=0.00 Location: X=154.36 Y=85.41 Z=298.15 Normal: X=0.00 Y=-1.00 Z=0.00 PenetrationDepth:20.414 Actor:BP_Door_2 Component:Door BoneName:None (54 other events since notify)
+[2019.10.02-23.20.03:598][348]LogCharacterMovement: FirstPersonCharacter_C_1 is stuck and failed to move! Velocity: X=-423.56 Y=424.97 Z=0.00 Location: X=154.44 Y=85.16 Z=298.15 Normal: X=0.00 Y=-1.00 Z=0.00 PenetrationDepth:20.164 Actor:BP_Door_2 Component:Door BoneName:None (52 other events since notify)
+[2019.10.02-23.20.04:611][406]LogCharacterMovement: FirstPersonCharacter_C_1 is stuck and failed to move! Velocity: X=-382.26 Y=409.34 Z=0.00 Location: X=154.44 Y=85.16 Z=298.15 Normal: X=0.00 Y=-1.00 Z=0.00 PenetrationDepth:20.164 Actor:BP_Door_2 Component:Door BoneName:None (56 other events since notify)
+[2019.10.02-23.20.05:616][452]LogCharacterMovement: FirstPersonCharacter_C_1 is stuck and failed to move! Velocity: X=-595.96 Y=-69.51 Z=0.00 Location: X=154.44 Y=85.16 Z=298.15 Normal: X=0.00 Y=-1.00 Z=0.00 PenetrationDepth:20.164 Actor:BP_Door_2 Component:Door BoneName:None (45 other events since notify)
+[2019.10.02-23.20.07:200][523]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.02-23.20.07:201][523]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.02-23.20.07:202][523]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.02-23.20.07:202][523]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.02-23.20.07:234][523]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.02-23.20.07:234][523]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.02-23.20.07:379][523]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.02-23.20.07:393][523]LogUObjectHash: Compacting FUObjectHashTables data took  10.30ms
+[2019.10.02-23.20.07:446][524]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.10.02-23.20.51:795][315]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.02-23.21.14:641][336]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.10.02-23.21.14:858][340]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.10.02-23.21.15:560][366]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.10.02-23.21.15:634][366]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2019.10.02-23.21.41:070][577]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.02-23.21.51:429][966]LogProperty: Warning: Illegal TEXT reference to a private object in external package (DirectionalLight /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LightSource) from referencer (BP_Sky_Sphere_C /Engine/Transient.SkySphereBlueprint).  Import failed...
+[2019.10.02-23.21.51:429][966]LogProperty: Warning: ObjectProperty /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C:Directional light actor: unresolved reference to 'DirectionalLight'"LightSource"''
+[2019.10.02-23.21.51:468][967]LogProperty: Warning: Illegal TEXT reference to a private object in external package (DirectionalLight /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LightSource) from referencer (BP_Sky_Sphere_C /Engine/Transient.SkySphereBlueprint).  Import failed...
+[2019.10.02-23.21.51:468][967]LogProperty: Warning: ObjectProperty /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C:Directional light actor: unresolved reference to 'DirectionalLight'"LightSource"''
+[2019.10.02-23.21.51:491][968]LogProperty: Warning: Illegal TEXT reference to a private object in external package (DirectionalLight /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LightSource) from referencer (BP_Sky_Sphere_C /Engine/Transient.SkySphereBlueprint).  Import failed...
+[2019.10.02-23.21.51:492][968]LogProperty: Warning: ObjectProperty /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C:Directional light actor: unresolved reference to 'DirectionalLight'"LightSource"''
+[2019.10.02-23.21.51:513][969]LogProperty: Warning: Illegal TEXT reference to a private object in external package (DirectionalLight /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LightSource) from referencer (BP_Sky_Sphere_C /Engine/Transient.SkySphereBlueprint).  Import failed...
+[2019.10.02-23.21.51:513][969]LogProperty: Warning: ObjectProperty /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C:Directional light actor: unresolved reference to 'DirectionalLight'"LightSource"''
+[2019.10.02-23.21.51:555][970]LogProperty: Warning: Illegal TEXT reference to a private object in external package (DirectionalLight /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LightSource) from referencer (BP_Sky_Sphere_C /Engine/Transient.SkySphereBlueprint).  Import failed...
+[2019.10.02-23.21.51:555][970]LogProperty: Warning: ObjectProperty /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C:Directional light actor: unresolved reference to 'DirectionalLight'"LightSource"''
+[2019.10.02-23.21.51:577][971]LogProperty: Warning: Illegal TEXT reference to a private object in external package (DirectionalLight /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LightSource) from referencer (BP_Sky_Sphere_C /Engine/Transient.SkySphereBlueprint).  Import failed...
+[2019.10.02-23.21.51:577][971]LogProperty: Warning: ObjectProperty /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C:Directional light actor: unresolved reference to 'DirectionalLight'"LightSource"''
+[2019.10.02-23.21.51:621][972]LogProperty: Warning: Illegal TEXT reference to a private object in external package (DirectionalLight /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LightSource) from referencer (BP_Sky_Sphere_C /Engine/Transient.SkySphereBlueprint).  Import failed...
+[2019.10.02-23.21.51:621][972]LogProperty: Warning: ObjectProperty /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C:Directional light actor: unresolved reference to 'DirectionalLight'"LightSource"''
+[2019.10.02-23.21.51:645][973]LogProperty: Warning: Illegal TEXT reference to a private object in external package (DirectionalLight /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LightSource) from referencer (BP_Sky_Sphere_C /Engine/Transient.SkySphereBlueprint).  Import failed...
+[2019.10.02-23.21.51:645][973]LogProperty: Warning: ObjectProperty /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C:Directional light actor: unresolved reference to 'DirectionalLight'"LightSource"''
+[2019.10.02-23.21.51:688][974]LogProperty: Warning: Illegal TEXT reference to a private object in external package (DirectionalLight /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LightSource) from referencer (BP_Sky_Sphere_C /Engine/Transient.SkySphereBlueprint).  Import failed...
+[2019.10.02-23.21.51:688][974]LogProperty: Warning: ObjectProperty /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C:Directional light actor: unresolved reference to 'DirectionalLight'"LightSource"''
+[2019.10.02-23.21.51:709][975]LogProperty: Warning: Illegal TEXT reference to a private object in external package (DirectionalLight /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LightSource) from referencer (BP_Sky_Sphere_C /Engine/Transient.SkySphereBlueprint).  Import failed...
+[2019.10.02-23.21.51:709][975]LogProperty: Warning: ObjectProperty /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C:Directional light actor: unresolved reference to 'DirectionalLight'"LightSource"''
+[2019.10.02-23.21.51:757][976]LogProperty: Warning: Illegal TEXT reference to a private object in external package (DirectionalLight /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LightSource) from referencer (BP_Sky_Sphere_C /Engine/Transient.SkySphereBlueprint).  Import failed...
+[2019.10.02-23.21.51:757][976]LogProperty: Warning: ObjectProperty /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C:Directional light actor: unresolved reference to 'DirectionalLight'"LightSource"''
+[2019.10.02-23.21.51:778][977]LogProperty: Warning: Illegal TEXT reference to a private object in external package (DirectionalLight /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LightSource) from referencer (BP_Sky_Sphere_C /Engine/Transient.SkySphereBlueprint).  Import failed...
+[2019.10.02-23.21.51:778][977]LogProperty: Warning: ObjectProperty /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C:Directional light actor: unresolved reference to 'DirectionalLight'"LightSource"''
+[2019.10.02-23.21.51:822][978]LogProperty: Warning: Illegal TEXT reference to a private object in external package (DirectionalLight /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LightSource) from referencer (BP_Sky_Sphere_C /Engine/Transient.SkySphereBlueprint).  Import failed...
+[2019.10.02-23.21.51:822][978]LogProperty: Warning: ObjectProperty /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C:Directional light actor: unresolved reference to 'DirectionalLight'"LightSource"''
+[2019.10.02-23.21.51:843][979]LogProperty: Warning: Illegal TEXT reference to a private object in external package (DirectionalLight /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LightSource) from referencer (BP_Sky_Sphere_C /Engine/Transient.SkySphereBlueprint).  Import failed...
+[2019.10.02-23.21.51:843][979]LogProperty: Warning: ObjectProperty /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C:Directional light actor: unresolved reference to 'DirectionalLight'"LightSource"''
+[2019.10.02-23.21.51:888][980]LogProperty: Warning: Illegal TEXT reference to a private object in external package (DirectionalLight /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LightSource) from referencer (BP_Sky_Sphere_C /Engine/Transient.SkySphereBlueprint).  Import failed...
+[2019.10.02-23.21.51:888][980]LogProperty: Warning: ObjectProperty /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C:Directional light actor: unresolved reference to 'DirectionalLight'"LightSource"''
+[2019.10.02-23.21.51:910][981]LogProperty: Warning: Illegal TEXT reference to a private object in external package (DirectionalLight /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LightSource) from referencer (BP_Sky_Sphere_C /Engine/Transient.SkySphereBlueprint).  Import failed...
+[2019.10.02-23.21.51:910][981]LogProperty: Warning: ObjectProperty /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C:Directional light actor: unresolved reference to 'DirectionalLight'"LightSource"''
+[2019.10.02-23.21.51:955][982]LogProperty: Warning: Illegal TEXT reference to a private object in external package (DirectionalLight /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LightSource) from referencer (BP_Sky_Sphere_C /Engine/Transient.SkySphereBlueprint).  Import failed...
+[2019.10.02-23.21.51:955][982]LogProperty: Warning: ObjectProperty /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C:Directional light actor: unresolved reference to 'DirectionalLight'"LightSource"''
+[2019.10.02-23.21.51:979][983]LogProperty: Warning: Illegal TEXT reference to a private object in external package (DirectionalLight /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LightSource) from referencer (BP_Sky_Sphere_C /Engine/Transient.SkySphereBlueprint).  Import failed...
+[2019.10.02-23.21.51:979][983]LogProperty: Warning: ObjectProperty /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C:Directional light actor: unresolved reference to 'DirectionalLight'"LightSource"''
+[2019.10.02-23.21.52:021][984]LogProperty: Warning: Illegal TEXT reference to a private object in external package (DirectionalLight /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LightSource) from referencer (BP_Sky_Sphere_C /Engine/Transient.SkySphereBlueprint).  Import failed...
+[2019.10.02-23.21.52:021][984]LogProperty: Warning: ObjectProperty /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C:Directional light actor: unresolved reference to 'DirectionalLight'"LightSource"''
+[2019.10.02-23.21.52:042][985]LogProperty: Warning: Illegal TEXT reference to a private object in external package (DirectionalLight /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LightSource) from referencer (BP_Sky_Sphere_C /Engine/Transient.SkySphereBlueprint).  Import failed...
+[2019.10.02-23.21.52:042][985]LogProperty: Warning: ObjectProperty /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C:Directional light actor: unresolved reference to 'DirectionalLight'"LightSource"''
+[2019.10.02-23.21.52:087][986]LogProperty: Warning: Illegal TEXT reference to a private object in external package (DirectionalLight /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LightSource) from referencer (BP_Sky_Sphere_C /Engine/Transient.SkySphereBlueprint).  Import failed...
+[2019.10.02-23.21.52:088][986]LogProperty: Warning: ObjectProperty /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C:Directional light actor: unresolved reference to 'DirectionalLight'"LightSource"''
+[2019.10.02-23.21.52:109][987]LogProperty: Warning: Illegal TEXT reference to a private object in external package (DirectionalLight /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LightSource) from referencer (BP_Sky_Sphere_C /Engine/Transient.SkySphereBlueprint).  Import failed...
+[2019.10.02-23.21.52:109][987]LogProperty: Warning: ObjectProperty /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C:Directional light actor: unresolved reference to 'DirectionalLight'"LightSource"''
+[2019.10.02-23.21.52:154][988]LogProperty: Warning: Illegal TEXT reference to a private object in external package (DirectionalLight /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LightSource) from referencer (BP_Sky_Sphere_C /Engine/Transient.SkySphereBlueprint).  Import failed...
+[2019.10.02-23.21.52:154][988]LogProperty: Warning: ObjectProperty /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C:Directional light actor: unresolved reference to 'DirectionalLight'"LightSource"''
+[2019.10.02-23.21.52:178][989]LogProperty: Warning: Illegal TEXT reference to a private object in external package (DirectionalLight /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LightSource) from referencer (BP_Sky_Sphere_C /Engine/Transient.SkySphereBlueprint).  Import failed...
+[2019.10.02-23.21.52:178][989]LogProperty: Warning: ObjectProperty /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C:Directional light actor: unresolved reference to 'DirectionalLight'"LightSource"''
+[2019.10.02-23.21.52:221][990]LogProperty: Warning: Illegal TEXT reference to a private object in external package (DirectionalLight /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LightSource) from referencer (BP_Sky_Sphere_C /Engine/Transient.SkySphereBlueprint).  Import failed...
+[2019.10.02-23.21.52:221][990]LogProperty: Warning: ObjectProperty /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C:Directional light actor: unresolved reference to 'DirectionalLight'"LightSource"''
+[2019.10.02-23.21.52:242][991]LogProperty: Warning: Illegal TEXT reference to a private object in external package (DirectionalLight /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LightSource) from referencer (BP_Sky_Sphere_C /Engine/Transient.SkySphereBlueprint).  Import failed...
+[2019.10.02-23.21.52:242][991]LogProperty: Warning: ObjectProperty /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C:Directional light actor: unresolved reference to 'DirectionalLight'"LightSource"''
+[2019.10.02-23.21.52:288][992]LogProperty: Warning: Illegal TEXT reference to a private object in external package (DirectionalLight /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LightSource) from referencer (BP_Sky_Sphere_C /Engine/Transient.SkySphereBlueprint).  Import failed...
+[2019.10.02-23.21.52:288][992]LogProperty: Warning: ObjectProperty /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C:Directional light actor: unresolved reference to 'DirectionalLight'"LightSource"''
+[2019.10.02-23.21.52:308][993]LogProperty: Warning: Illegal TEXT reference to a private object in external package (DirectionalLight /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LightSource) from referencer (BP_Sky_Sphere_C /Engine/Transient.SkySphereBlueprint).  Import failed...
+[2019.10.02-23.21.52:308][993]LogProperty: Warning: ObjectProperty /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C:Directional light actor: unresolved reference to 'DirectionalLight'"LightSource"''
+[2019.10.02-23.21.52:354][994]LogProperty: Warning: Illegal TEXT reference to a private object in external package (DirectionalLight /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LightSource) from referencer (BP_Sky_Sphere_C /Engine/Transient.SkySphereBlueprint).  Import failed...
+[2019.10.02-23.21.52:354][994]LogProperty: Warning: ObjectProperty /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C:Directional light actor: unresolved reference to 'DirectionalLight'"LightSource"''
+[2019.10.02-23.21.52:378][995]LogProperty: Warning: Illegal TEXT reference to a private object in external package (DirectionalLight /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LightSource) from referencer (BP_Sky_Sphere_C /Engine/Transient.SkySphereBlueprint).  Import failed...
+[2019.10.02-23.21.52:378][995]LogProperty: Warning: ObjectProperty /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C:Directional light actor: unresolved reference to 'DirectionalLight'"LightSource"''
+[2019.10.02-23.21.52:420][996]LogProperty: Warning: Illegal TEXT reference to a private object in external package (DirectionalLight /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LightSource) from referencer (BP_Sky_Sphere_C /Engine/Transient.SkySphereBlueprint).  Import failed...
+[2019.10.02-23.21.52:420][996]LogProperty: Warning: ObjectProperty /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C:Directional light actor: unresolved reference to 'DirectionalLight'"LightSource"''
+[2019.10.02-23.21.52:442][997]LogProperty: Warning: Illegal TEXT reference to a private object in external package (DirectionalLight /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LightSource) from referencer (BP_Sky_Sphere_C /Engine/Transient.SkySphereBlueprint).  Import failed...
+[2019.10.02-23.21.52:442][997]LogProperty: Warning: ObjectProperty /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C:Directional light actor: unresolved reference to 'DirectionalLight'"LightSource"''
+[2019.10.02-23.21.52:487][998]LogProperty: Warning: Illegal TEXT reference to a private object in external package (DirectionalLight /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LightSource) from referencer (BP_Sky_Sphere_C /Engine/Transient.SkySphereBlueprint).  Import failed...
+[2019.10.02-23.21.52:487][998]LogProperty: Warning: ObjectProperty /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C:Directional light actor: unresolved reference to 'DirectionalLight'"LightSource"''
+[2019.10.02-23.21.52:508][999]LogProperty: Warning: Illegal TEXT reference to a private object in external package (DirectionalLight /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LightSource) from referencer (BP_Sky_Sphere_C /Engine/Transient.SkySphereBlueprint).  Import failed...
+[2019.10.02-23.21.52:508][999]LogProperty: Warning: ObjectProperty /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C:Directional light actor: unresolved reference to 'DirectionalLight'"LightSource"''
+[2019.10.02-23.21.52:557][  0]LogProperty: Warning: Illegal TEXT reference to a private object in external package (DirectionalLight /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LightSource) from referencer (BP_Sky_Sphere_C /Engine/Transient.SkySphereBlueprint).  Import failed...
+[2019.10.02-23.21.52:557][  0]LogProperty: Warning: ObjectProperty /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C:Directional light actor: unresolved reference to 'DirectionalLight'"LightSource"''
+[2019.10.02-23.21.52:588][  1]LogProperty: Warning: Illegal TEXT reference to a private object in external package (DirectionalLight /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LightSource) from referencer (BP_Sky_Sphere_C /Engine/Transient.SkySphereBlueprint).  Import failed...
+[2019.10.02-23.21.52:588][  1]LogProperty: Warning: ObjectProperty /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C:Directional light actor: unresolved reference to 'DirectionalLight'"LightSource"''
+[2019.10.02-23.21.52:622][  2]LogProperty: Warning: Illegal TEXT reference to a private object in external package (DirectionalLight /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LightSource) from referencer (BP_Sky_Sphere_C /Engine/Transient.SkySphereBlueprint).  Import failed...
+[2019.10.02-23.21.52:622][  2]LogProperty: Warning: ObjectProperty /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C:Directional light actor: unresolved reference to 'DirectionalLight'"LightSource"''
+[2019.10.02-23.21.52:647][  3]LogProperty: Warning: Illegal TEXT reference to a private object in external package (DirectionalLight /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LightSource) from referencer (BP_Sky_Sphere_C /Engine/Transient.SkySphereBlueprint).  Import failed...
+[2019.10.02-23.21.52:647][  3]LogProperty: Warning: ObjectProperty /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C:Directional light actor: unresolved reference to 'DirectionalLight'"LightSource"''
+[2019.10.02-23.21.52:685][  4]LogProperty: Warning: Illegal TEXT reference to a private object in external package (DirectionalLight /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LightSource) from referencer (BP_Sky_Sphere_C /Engine/Transient.SkySphereBlueprint).  Import failed...
+[2019.10.02-23.21.52:685][  4]LogProperty: Warning: ObjectProperty /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C:Directional light actor: unresolved reference to 'DirectionalLight'"LightSource"''
+[2019.10.02-23.21.52:710][  5]LogProperty: Warning: Illegal TEXT reference to a private object in external package (DirectionalLight /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LightSource) from referencer (BP_Sky_Sphere_C /Engine/Transient.SkySphereBlueprint).  Import failed...
+[2019.10.02-23.21.52:710][  5]LogProperty: Warning: ObjectProperty /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C:Directional light actor: unresolved reference to 'DirectionalLight'"LightSource"''
+[2019.10.02-23.21.52:752][  6]LogProperty: Warning: Illegal TEXT reference to a private object in external package (DirectionalLight /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LightSource) from referencer (BP_Sky_Sphere_C /Engine/Transient.SkySphereBlueprint).  Import failed...
+[2019.10.02-23.21.52:753][  6]LogProperty: Warning: ObjectProperty /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C:Directional light actor: unresolved reference to 'DirectionalLight'"LightSource"''
+[2019.10.02-23.21.52:776][  7]LogProperty: Warning: Illegal TEXT reference to a private object in external package (DirectionalLight /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LightSource) from referencer (BP_Sky_Sphere_C /Engine/Transient.SkySphereBlueprint).  Import failed...
+[2019.10.02-23.21.52:776][  7]LogProperty: Warning: ObjectProperty /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C:Directional light actor: unresolved reference to 'DirectionalLight'"LightSource"''
+[2019.10.02-23.21.52:817][  8]LogProperty: Warning: Illegal TEXT reference to a private object in external package (DirectionalLight /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LightSource) from referencer (BP_Sky_Sphere_C /Engine/Transient.SkySphereBlueprint).  Import failed...
+[2019.10.02-23.21.52:817][  8]LogProperty: Warning: ObjectProperty /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C:Directional light actor: unresolved reference to 'DirectionalLight'"LightSource"''
+[2019.10.02-23.21.52:839][  9]LogProperty: Warning: Illegal TEXT reference to a private object in external package (DirectionalLight /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LightSource) from referencer (BP_Sky_Sphere_C /Engine/Transient.SkySphereBlueprint).  Import failed...
+[2019.10.02-23.21.52:840][  9]LogProperty: Warning: ObjectProperty /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C:Directional light actor: unresolved reference to 'DirectionalLight'"LightSource"''
+[2019.10.02-23.21.52:882][ 10]LogProperty: Warning: Illegal TEXT reference to a private object in external package (DirectionalLight /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LightSource) from referencer (BP_Sky_Sphere_C /Engine/Transient.SkySphereBlueprint).  Import failed...
+[2019.10.02-23.21.52:883][ 10]LogProperty: Warning: ObjectProperty /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C:Directional light actor: unresolved reference to 'DirectionalLight'"LightSource"''
+[2019.10.02-23.21.52:907][ 11]LogProperty: Warning: Illegal TEXT reference to a private object in external package (DirectionalLight /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LightSource) from referencer (BP_Sky_Sphere_C /Engine/Transient.SkySphereBlueprint).  Import failed...
+[2019.10.02-23.21.52:907][ 11]LogProperty: Warning: ObjectProperty /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C:Directional light actor: unresolved reference to 'DirectionalLight'"LightSource"''
+[2019.10.02-23.21.52:947][ 12]LogProperty: Warning: Illegal TEXT reference to a private object in external package (DirectionalLight /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LightSource) from referencer (BP_Sky_Sphere_C /Engine/Transient.SkySphereBlueprint).  Import failed...
+[2019.10.02-23.21.52:948][ 12]LogProperty: Warning: ObjectProperty /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C:Directional light actor: unresolved reference to 'DirectionalLight'"LightSource"''
+[2019.10.02-23.21.52:975][ 13]LogProperty: Warning: Illegal TEXT reference to a private object in external package (DirectionalLight /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LightSource) from referencer (BP_Sky_Sphere_C /Engine/Transient.SkySphereBlueprint).  Import failed...
+[2019.10.02-23.21.52:975][ 13]LogProperty: Warning: ObjectProperty /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C:Directional light actor: unresolved reference to 'DirectionalLight'"LightSource"''
+[2019.10.02-23.21.53:015][ 14]LogProperty: Warning: Illegal TEXT reference to a private object in external package (DirectionalLight /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LightSource) from referencer (BP_Sky_Sphere_C /Engine/Transient.SkySphereBlueprint).  Import failed...
+[2019.10.02-23.21.53:015][ 14]LogProperty: Warning: ObjectProperty /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C:Directional light actor: unresolved reference to 'DirectionalLight'"LightSource"''
+[2019.10.02-23.21.53:036][ 15]LogProperty: Warning: Illegal TEXT reference to a private object in external package (DirectionalLight /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LightSource) from referencer (BP_Sky_Sphere_C /Engine/Transient.SkySphereBlueprint).  Import failed...
+[2019.10.02-23.21.53:036][ 15]LogProperty: Warning: ObjectProperty /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C:Directional light actor: unresolved reference to 'DirectionalLight'"LightSource"''
+[2019.10.02-23.21.53:080][ 16]LogProperty: Warning: Illegal TEXT reference to a private object in external package (DirectionalLight /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.LightSource) from referencer (BP_Sky_Sphere_C /Engine/Transient.SkySphereBlueprint).  Import failed...
+[2019.10.02-23.21.53:080][ 16]LogProperty: Warning: ObjectProperty /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C:Directional light actor: unresolved reference to 'DirectionalLight'"LightSource"''
+[2019.10.02-23.21.53:116][ 18]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2019.10.02-23.22.41:509][428]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.02-23.22.57:773][829]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.02-23.23.17:532][416]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.02-23.28.03:245][597]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2019.10.02-23.28.03:705][597]LogSavePackage: Moving '../../../../../../Users/fbcim/OneDrive/Documentos/Unreal Projects/Escape_Project/Saved/FirstPersonExampleMap_Auto46019CCC14122174BBCF502ACAA120E2C.tmp' to '../../../../../../Users/fbcim/OneDrive/Documentos/Unreal Projects/Escape_Project/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto4.umap'
+[2019.10.02-23.28.03:712][597]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.522
+[2019.10.02-23.28.03:712][597]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.522
+[2019.10.02-23.29.54:843][931]LogHttp: Warning: 000002282FE29F80: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC61B5195-435C-0EEC-A139-F294128EDC0F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=35cb03a9492b4a8477e64290f9200041%7C6037bc51425c4c8f92bfdd7520e9cf70%7Cd46a51d6-7f2b-483d-8fa4-5e80c8e274ef&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.02-23.29.54:844][931]LogHttp: Warning: 000002282FE29F80: request failed, libcurl error: 0 (No error)
+[2019.10.02-23.29.54:844][931]LogHttp: Warning: 000002282FE29F80: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x227d2e33f70 [can pipeline])
+[2019.10.02-23.29.54:844][931]LogHttp: Warning: 000002282FE29F80: libcurl info message cache 1 (Re-using existing connection! (#23) with host datarouter.ol.epicgames.com)
+[2019.10.02-23.29.54:844][931]LogHttp: Warning: 000002282FE29F80: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.230.183.16) port 443 (#23))
+[2019.10.02-23.29.54:844][931]LogHttp: Warning: 000002282FE29F80: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.02-23.29.54:844][931]LogHttp: Warning: 000002282FE29F80: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.02-23.29.54:844][931]LogHttp: Warning: 000002282FE29F80: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.02-23.29.54:844][931]LogHttp: Warning: 000002282FE29F80: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.02-23.29.54:844][931]LogHttp: Warning: 000002282FE29F80: libcurl info message cache 7 (Closing connection 23)
+[2019.10.02-23.29.54:844][931]LogHttp: Warning: 000002282FE29F80: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.02-23.29.55:178][932]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC61B5195-435C-0EEC-A139-F294128EDC0F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=35cb03a9492b4a8477e64290f9200041%7C6037bc51425c4c8f92bfdd7520e9cf70%7Cd46a51d6-7f2b-483d-8fa4-5e80c8e274ef&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.02-23.39.54:777][725]LogHttp: Warning: 000002282FE291C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC61B5195-435C-0EEC-A139-F294128EDC0F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=35cb03a9492b4a8477e64290f9200041%7C6037bc51425c4c8f92bfdd7520e9cf70%7Cd46a51d6-7f2b-483d-8fa4-5e80c8e274ef&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.02-23.39.54:777][725]LogHttp: Warning: 000002282FE291C0: request failed, libcurl error: 0 (No error)
+[2019.10.02-23.39.54:777][725]LogHttp: Warning: 000002282FE291C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x227d2e33f70 [can pipeline])
+[2019.10.02-23.39.54:777][725]LogHttp: Warning: 000002282FE291C0: libcurl info message cache 1 (Re-using existing connection! (#28) with host datarouter.ol.epicgames.com)
+[2019.10.02-23.39.54:777][725]LogHttp: Warning: 000002282FE291C0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.216.167.239) port 443 (#28))
+[2019.10.02-23.39.54:778][725]LogHttp: Warning: 000002282FE291C0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.02-23.39.54:778][725]LogHttp: Warning: 000002282FE291C0: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.02-23.39.54:778][725]LogHttp: Warning: 000002282FE291C0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.02-23.39.54:778][725]LogHttp: Warning: 000002282FE291C0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.02-23.39.54:778][725]LogHttp: Warning: 000002282FE291C0: libcurl info message cache 7 (Closing connection 28)
+[2019.10.02-23.39.54:778][725]LogHttp: Warning: 000002282FE291C0: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.02-23.39.55:110][726]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC61B5195-435C-0EEC-A139-F294128EDC0F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=35cb03a9492b4a8477e64290f9200041%7C6037bc51425c4c8f92bfdd7520e9cf70%7Cd46a51d6-7f2b-483d-8fa4-5e80c8e274ef&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.02-23.44.54:708][623]LogHttp: Warning: 000002282FE291C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC61B5195-435C-0EEC-A139-F294128EDC0F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=35cb03a9492b4a8477e64290f9200041%7C6037bc51425c4c8f92bfdd7520e9cf70%7Cd46a51d6-7f2b-483d-8fa4-5e80c8e274ef&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.02-23.44.54:708][623]LogHttp: Warning: 000002282FE291C0: request failed, libcurl error: 0 (No error)
+[2019.10.02-23.44.54:708][623]LogHttp: Warning: 000002282FE291C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x227d2e33f70 [can pipeline])
+[2019.10.02-23.44.54:708][623]LogHttp: Warning: 000002282FE291C0: libcurl info message cache 1 (Re-using existing connection! (#30) with host datarouter.ol.epicgames.com)
+[2019.10.02-23.44.54:708][623]LogHttp: Warning: 000002282FE291C0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (18.214.237.224) port 443 (#30))
+[2019.10.02-23.44.54:708][623]LogHttp: Warning: 000002282FE291C0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.02-23.44.54:708][623]LogHttp: Warning: 000002282FE291C0: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.02-23.44.54:708][623]LogHttp: Warning: 000002282FE291C0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.02-23.44.54:708][623]LogHttp: Warning: 000002282FE291C0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.02-23.44.54:708][623]LogHttp: Warning: 000002282FE291C0: libcurl info message cache 7 (Closing connection 30)
+[2019.10.02-23.44.54:708][623]LogHttp: Warning: 000002282FE291C0: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.02-23.44.55:043][624]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC61B5195-435C-0EEC-A139-F294128EDC0F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=35cb03a9492b4a8477e64290f9200041%7C6037bc51425c4c8f92bfdd7520e9cf70%7Cd46a51d6-7f2b-483d-8fa4-5e80c8e274ef&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.02-23.47.35:894][276]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2019.10.02-23.47.36:281][295]LogEditorViewport: Clicking on Actor (context menu): LightmassImportanceVolume (LightmassImportanceVolume)
+[2019.10.02-23.47.36:317][295]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.02-23.48.04:656][985]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.02-23.48.08:287][198]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.02-23.48.10:259][314]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-23.48.14:103][460]Cmd: EDCALLBACK SURFPROPS
+[2019.10.02-23.48.16:239][512]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-23.48.16:836][523]Cmd: BRUSH SUBTRACT SELECTNEWBRUSH
+[2019.10.02-23.48.18:151][555]Cmd: DELETE
+[2019.10.02-23.48.18:151][555]Cmd: ACTOR DELETE
+[2019.10.02-23.48.18:175][555]LogEditorActor: Deleted Actor: Brush
+[2019.10.02-23.48.18:325][555]LogUObjectHash: Compacting FUObjectHashTables data took  12.48ms
+[2019.10.02-23.48.18:358][555]LogEditorActor: Deleted 1 Actors (0.206 secs)
+[2019.10.02-23.48.42:810][314]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.02-23.48.42:874][316]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.02-23.48.42:923][316]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.02-23.48.42:923][316]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.02-23.48.42:924][316]PIE: New page: PIE session: FirstPersonExampleMap (Oct 3, 2019, 3:48:42 AM)
+[2019.10.02-23.48.42:924][316]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.02-23.48.42:990][316]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065495s)
+[2019.10.02-23.48.42:994][316]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.02-23.48.42:995][316]LogPlayLevel: PIE: World Init took: (0.005378s)
+[2019.10.02-23.48.42:996][316]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.071501s)
+[2019.10.02-23.48.43:143][316]LogUObjectHash: Compacting FUObjectHashTables data took   9.02ms
+[2019.10.02-23.48.43:169][316]LogInit: XAudio2 using 'Altavoces / Auriculares (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.02-23.48.43:277][316]LogInit: FAudioDevice initialized.
+[2019.10.02-23.48.43:297][316]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.02-23.48.43:307][316]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2019.10.03-01.48.43
+[2019.10.02-23.48.43:308][316]LogWorld: Bringing up level for play took: 0.007374
+[2019.10.02-23.48.43:308][316]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2019.10.02-23.48.43:316][316]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.389
+[2019.10.02-23.48.43:317][316]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.02-23.49.32:481][485]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.02-23.49.32:482][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.02-23.49.32:482][485]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.02-23.49.32:482][485]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.02-23.49.32:546][485]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.02-23.49.32:546][485]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.02-23.49.32:711][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.02-23.49.32:749][485]LogUObjectHash: Compacting FUObjectHashTables data took  11.18ms
+[2019.10.02-23.49.32:812][486]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.10.02-23.49.57:734][588]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.02-23.49.57:919][588]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2019.10.02-23.49.58:980][588]LogSavePackage: Moving '../../../../../../Users/fbcim/OneDrive/Documentos/Unreal Projects/Escape_Project/Saved/FirstPersonExampleMap_Auto5AFFE5D7F4B59AEBCD45364955BA4E7E5.tmp' to '../../../../../../Users/fbcim/OneDrive/Documentos/Unreal Projects/Escape_Project/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto5.umap'
+[2019.10.02-23.49.59:002][588]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 1.220
+[2019.10.02-23.49.59:002][588]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.220
+[2019.10.02-23.50.22:196][673]Cmd: SELECT NONE
+[2019.10.02-23.50.23:497][728]Cmd: SELECT NONE
+[2019.10.02-23.51.02:962][455]Cmd: SELECT NONE
+[2019.10.02-23.51.04:703][519]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.02-23.51.06:095][573]LogUObjectHash: Compacting FUObjectHashTables data took  10.96ms
+[2019.10.02-23.51.06:113][573]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.02-23.51.06:292][573]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2019.10.02-23.51.07:069][573]LogSavePackage: Moving '../../../../../../Users/fbcim/OneDrive/Documentos/Unreal Projects/Escape_Project/Saved/FirstPersonExampleMap843420EA4168BB0C96E8579C15B8B95E.tmp' to '../../../../../../Users/fbcim/OneDrive/Documentos/Unreal Projects/Escape_Project/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.10.02-23.51.07:194][573]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 1.032
+[2019.10.02-23.51.07:248][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Diana" FILE="../../../../../../Users/fbcim/OneDrive/Documentos/Unreal Projects/Escape_Project/Content/Blueprints/BP_Diana.uasset" SILENT=true
+[2019.10.02-23.51.07:302][573]LogSavePackage: Moving '../../../../../../Users/fbcim/OneDrive/Documentos/Unreal Projects/Escape_Project/Saved/BP_Diana3F989F9642A963D2EF3747990CF70833.tmp' to '../../../../../../Users/fbcim/OneDrive/Documentos/Unreal Projects/Escape_Project/Content/Blueprints/BP_Diana.uasset'
