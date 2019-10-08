@@ -1,0 +1,2462 @@
+Begin Object Class=/Script/Engine.Material Name="M_CobbleStone_Rough"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_35"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSampleParameter2D Name="MaterialExpressionTextureSampleParameter2D_8"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSampleParameter2D Name="MaterialExpressionTextureSampleParameter2D_73"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSampleParameter2D Name="MaterialExpressionTextureSampleParameter2D_72"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSampleParameter2D Name="MaterialExpressionTextureSampleParameter2D_69"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSampleParameter2D Name="MaterialExpressionTextureSampleParameter2D_67"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSampleParameter2D Name="MaterialExpressionTextureSampleParameter2D_66"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSampleParameter2D Name="MaterialExpressionTextureSampleParameter2D_65"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSampleParameter2D Name="MaterialExpressionTextureSampleParameter2D_63"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSampleParameter2D Name="MaterialExpressionTextureSampleParameter2D_62"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSampleParameter2D Name="MaterialExpressionTextureSampleParameter2D_60"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSampleParameter2D Name="MaterialExpressionTextureSampleParameter2D_6"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSampleParameter2D Name="MaterialExpressionTextureSampleParameter2D_59"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSampleParameter2D Name="MaterialExpressionTextureSampleParameter2D_57"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSampleParameter2D Name="MaterialExpressionTextureSampleParameter2D_56"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSampleParameter2D Name="MaterialExpressionTextureSampleParameter2D_54"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSampleParameter2D Name="MaterialExpressionTextureSampleParameter2D_53"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSampleParameter2D Name="MaterialExpressionTextureSampleParameter2D_51"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSampleParameter2D Name="MaterialExpressionTextureSampleParameter2D_50"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSampleParameter2D Name="MaterialExpressionTextureSampleParameter2D_48"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSampleParameter2D Name="MaterialExpressionTextureSampleParameter2D_47"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSampleParameter2D Name="MaterialExpressionTextureSampleParameter2D_45"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSampleParameter2D Name="MaterialExpressionTextureSampleParameter2D_43"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSampleParameter2D Name="MaterialExpressionTextureSampleParameter2D_42"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSampleParameter2D Name="MaterialExpressionTextureSampleParameter2D_41"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSampleParameter2D Name="MaterialExpressionTextureSampleParameter2D_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSampleParameter2D Name="MaterialExpressionTextureSampleParameter2D_39"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSampleParameter2D Name="MaterialExpressionTextureSampleParameter2D_22"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSampleParameter2D Name="MaterialExpressionTextureSampleParameter2D_20"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSampleParameter2D Name="MaterialExpressionTextureSampleParameter2D_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSampleParameter2D Name="MaterialExpressionTextureSampleParameter2D_18"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSampleParameter2D Name="MaterialExpressionTextureSampleParameter2D_16"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSampleParameter2D Name="MaterialExpressionTextureSampleParameter2D_14"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSampleParameter2D Name="MaterialExpressionTextureSampleParameter2D_12"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSampleParameter2D Name="MaterialExpressionTextureSampleParameter2D_10"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSampleParameter2D Name="MaterialExpressionTextureSampleParameter2D_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_31"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_19"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureCoordinate Name="MaterialExpressionTextureCoordinate_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_23"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_22"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_21"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_20"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_19"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_18"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_17"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_16"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_15"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_14"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_13"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_84"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_82"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_80"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_75"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_74"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_73"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_72"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_70"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_69"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_68"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_66"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_65"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_64"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_63"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_62"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_61"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_60"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_59"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_58"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_57"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_56"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_55"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_54"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_53"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_52"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_51"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_50"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_49"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_48"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_47"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_46"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_45"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_44"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_43"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_42"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_41"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_40"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_39"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_51"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_50"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_49"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_48"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_47"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_46"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_45"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_43"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_42"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_41"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_40"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_39"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_38"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_37"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_36"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_35"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_34"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_33"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_32"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_31"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_30"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_29"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_27"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_26"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFeatureLevelSwitch Name="MaterialExpressionFeatureLevelSwitch_6"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFeatureLevelSwitch Name="MaterialExpressionFeatureLevelSwitch_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFeatureLevelSwitch Name="MaterialExpressionFeatureLevelSwitch_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant2Vector Name="MaterialExpressionConstant2Vector_23"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant2Vector Name="MaterialExpressionConstant2Vector_22"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant2Vector Name="MaterialExpressionConstant2Vector_21"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant2Vector Name="MaterialExpressionConstant2Vector_20"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant2Vector Name="MaterialExpressionConstant2Vector_19"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant2Vector Name="MaterialExpressionConstant2Vector_18"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant2Vector Name="MaterialExpressionConstant2Vector_17"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant2Vector Name="MaterialExpressionConstant2Vector_16"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant2Vector Name="MaterialExpressionConstant2Vector_15"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant2Vector Name="MaterialExpressionConstant2Vector_14"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant2Vector Name="MaterialExpressionConstant2Vector_13"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_93"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_91"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_89"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_87"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_86"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_85"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_84"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_82"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_81"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_79"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_77"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_75"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_74"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_71"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_70"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_69"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_68"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_67"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_66"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_65"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_64"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_63"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_62"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_61"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_60"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_59"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_58"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_57"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_56"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_55"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_54"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_53"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_52"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_51"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_50"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_49"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_48"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_47"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_46"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_45"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_44"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionClamp Name="MaterialExpressionClamp_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionClamp Name="MaterialExpressionClamp_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionClamp Name="MaterialExpressionClamp_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionBumpOffset Name="MaterialExpressionBumpOffset_25"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionBumpOffset Name="MaterialExpressionBumpOffset_23"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionBumpOffset Name="MaterialExpressionBumpOffset_22"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionBumpOffset Name="MaterialExpressionBumpOffset_21"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionBumpOffset Name="MaterialExpressionBumpOffset_20"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionBumpOffset Name="MaterialExpressionBumpOffset_19"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionBumpOffset Name="MaterialExpressionBumpOffset_18"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionBumpOffset Name="MaterialExpressionBumpOffset_17"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionBumpOffset Name="MaterialExpressionBumpOffset_16"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionBumpOffset Name="MaterialExpressionBumpOffset_15"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionBumpOffset Name="MaterialExpressionBumpOffset_14"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionBumpOffset Name="MaterialExpressionBumpOffset_13"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_59"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_55"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_52"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_47"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_46"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_45"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_44"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_43"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_42"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_41"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_40"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_39"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_38"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_37"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_36"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_35"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_34"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_33"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_32"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_31"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_30"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_29"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_28"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_27"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_26"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_25"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_35"
+   End Object
+   Begin Object Name="MaterialExpressionTextureSampleParameter2D_8"
+      ParameterName="CutOutGradient"
+      ExpressionGUID=53866F184FED9986CC82B58E0E2BDCC2
+      Coordinates=(Expression=MaterialExpressionAdd'"M_CobbleStone_Rough:MaterialExpressionAdd_30"')
+      Texture=Texture2D'"/Game/StarterContent/Textures/T_Gradinet_01.T_Gradinet_01"'
+      MaterialExpressionEditorX=-4163
+      MaterialExpressionEditorY=-3655
+      MaterialExpressionGuid=1792C71C43B51427DA2E969E674A390F
+      Material=Material'"M_CobbleStone_Rough"'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionTextureSampleParameter2D_73"
+      ParameterName="DiffuseTexture"
+      ExpressionGUID=56FFD276486504D22B3A6EB95411FD6A
+      Coordinates=(Expression=MaterialExpressionAdd'"M_CobbleStone_Rough:MaterialExpressionAdd_46"')
+      Texture=Texture2D'"/Game/StarterContent/Textures/T_Rock_Smooth_Granite_D.T_Rock_Smooth_Granite_D"'
+      MaterialExpressionEditorX=-4720
+      MaterialExpressionEditorY=-6120
+      MaterialExpressionGuid=9332F1FE4646EAC49B9B6F8164127F9A
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSampleParameter2D_72"
+      ParameterName="NormalTexture"
+      ExpressionGUID=E77668064D7F15D5D0C9609B43F90802
+      Coordinates=(Expression=MaterialExpressionBumpOffset'"M_CobbleStone_Rough:MaterialExpressionBumpOffset_25"')
+      Texture=Texture2D'"/Game/StarterContent/Textures/T_CobbleStone_Rough_N.T_CobbleStone_Rough_N"'
+      SamplerType=SAMPLERTYPE_Normal
+      MaterialExpressionEditorX=-4720
+      MaterialExpressionEditorY=-6345
+      MaterialExpressionGuid=D763603940E4C127C80C248A4A4FEE47
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSampleParameter2D_69"
+      ParameterName="NormalTexture"
+      ExpressionGUID=AD2CCE55409B333C0DD611B48C53D1FB
+      Coordinates=(Expression=MaterialExpressionTextureCoordinate'"M_CobbleStone_Rough:MaterialExpressionTextureCoordinate_1"')
+      Texture=Texture2D'"/Game/StarterContent/Textures/T_CobbleStone_Rough_N.T_CobbleStone_Rough_N"'
+      SamplerType=SAMPLERTYPE_Normal
+      MaterialExpressionEditorX=-4780
+      MaterialExpressionEditorY=400
+      MaterialExpressionGuid=FE516AE54FF3A41A0DD902B3ABF0ACA9
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSampleParameter2D_67"
+      ParameterName="DiffuseTexture"
+      ExpressionGUID=B61A0C2C4C838509CD6DE09004F1B0F9
+      Coordinates=(Expression=MaterialExpressionAdd'"M_CobbleStone_Rough:MaterialExpressionAdd_43"')
+      Texture=Texture2D'"/Game/StarterContent/Textures/T_Rock_Smooth_Granite_D.T_Rock_Smooth_Granite_D"'
+      MaterialExpressionEditorX=-4720
+      MaterialExpressionEditorY=-7200
+      MaterialExpressionGuid=BAF40713431F5088A4A966B0CAF4155D
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSampleParameter2D_66"
+      ParameterName="NormalTexture"
+      ExpressionGUID=3BC29C904E827CA7C3CA7BB8096AE797
+      Coordinates=(Expression=MaterialExpressionBumpOffset'"M_CobbleStone_Rough:MaterialExpressionBumpOffset_23"')
+      Texture=Texture2D'"/Game/StarterContent/Textures/T_CobbleStone_Rough_N.T_CobbleStone_Rough_N"'
+      SamplerType=SAMPLERTYPE_Normal
+      MaterialExpressionEditorX=-4720
+      MaterialExpressionEditorY=-7420
+      MaterialExpressionGuid=A0337EF441286B0FA0BE19AB2CFB1AC1
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSampleParameter2D_65"
+      ParameterName="DiffuseTexture"
+      ExpressionGUID=4C7E4FD2408FEF0FB37C5196B1961B36
+      Coordinates=(Expression=MaterialExpressionAdd'"M_CobbleStone_Rough:MaterialExpressionAdd_41"')
+      Texture=Texture2D'"/Game/StarterContent/Textures/T_Rock_Smooth_Granite_D.T_Rock_Smooth_Granite_D"'
+      MaterialExpressionEditorX=-4740
+      MaterialExpressionEditorY=-720
+      MaterialExpressionGuid=061E92BF4BB34B922C99A998B05E5B75
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSampleParameter2D_63"
+      ParameterName="NormalTexture"
+      ExpressionGUID=6A8A62CA45FF993D988B468DE7C8C6D7
+      Coordinates=(Expression=MaterialExpressionBumpOffset'"M_CobbleStone_Rough:MaterialExpressionBumpOffset_22"')
+      Texture=Texture2D'"/Game/StarterContent/Textures/T_CobbleStone_Rough_N.T_CobbleStone_Rough_N"'
+      SamplerType=SAMPLERTYPE_Normal
+      MaterialExpressionEditorX=-4740
+      MaterialExpressionEditorY=-940
+      MaterialExpressionGuid=2D5DAB18463EF4B95A4BA5BD022C9FF6
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSampleParameter2D_62"
+      ParameterName="DiffuseTexture"
+      ExpressionGUID=6A9A530D43EE3DAF080B439AFE7D7C3B
+      Coordinates=(Expression=MaterialExpressionAdd'"M_CobbleStone_Rough:MaterialExpressionAdd_39"')
+      Texture=Texture2D'"/Game/StarterContent/Textures/T_Rock_Smooth_Granite_D.T_Rock_Smooth_Granite_D"'
+      MaterialExpressionEditorX=-4700
+      MaterialExpressionEditorY=-8340
+      MaterialExpressionGuid=0EFD7526445DEE82A933F8A6A7A046AA
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSampleParameter2D_60"
+      ParameterName="NormalTexture"
+      ExpressionGUID=55DC0F664B617BD159CAD59B61A393D7
+      Coordinates=(Expression=MaterialExpressionBumpOffset'"M_CobbleStone_Rough:MaterialExpressionBumpOffset_21"')
+      Texture=Texture2D'"/Game/StarterContent/Textures/T_CobbleStone_Rough_N.T_CobbleStone_Rough_N"'
+      SamplerType=SAMPLERTYPE_Normal
+      MaterialExpressionEditorX=-4700
+      MaterialExpressionEditorY=-8560
+      MaterialExpressionGuid=833BC3514504043A11563DBBBD4FF26A
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSampleParameter2D_6"
+      ParameterName="CutOutGradient"
+      ExpressionGUID=446757A944154B0D79BE259B4E604931
+      Coordinates=(Expression=MaterialExpressionAdd'"M_CobbleStone_Rough:MaterialExpressionAdd_34"')
+      Texture=Texture2D'"/Game/StarterContent/Textures/T_Gradinet_01.T_Gradinet_01"'
+      MaterialExpressionEditorX=-4256
+      MaterialExpressionEditorY=-2526
+      MaterialExpressionGuid=EB913A33408FEA74F00402A7FFCAA92C
+      Material=Material'"M_CobbleStone_Rough"'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionTextureSampleParameter2D_59"
+      ParameterName="DiffuseTexture"
+      ExpressionGUID=97FE08D84F17230237834DADDFF3B1DA
+      Coordinates=(Expression=MaterialExpressionAdd'"M_CobbleStone_Rough:MaterialExpressionAdd_37"')
+      Texture=Texture2D'"/Game/StarterContent/Textures/T_Rock_Smooth_Granite_D.T_Rock_Smooth_Granite_D"'
+      MaterialExpressionEditorX=-4740
+      MaterialExpressionEditorY=-1800
+      MaterialExpressionGuid=7FE46EFC451AC38E012AFC955058414E
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSampleParameter2D_57"
+      ParameterName="NormalTexture"
+      ExpressionGUID=B681D2AB43128D239DA822BFE60AFEED
+      Coordinates=(Expression=MaterialExpressionBumpOffset'"M_CobbleStone_Rough:MaterialExpressionBumpOffset_20"')
+      Texture=Texture2D'"/Game/StarterContent/Textures/T_CobbleStone_Rough_N.T_CobbleStone_Rough_N"'
+      SamplerType=SAMPLERTYPE_Normal
+      MaterialExpressionEditorX=-4740
+      MaterialExpressionEditorY=-2020
+      MaterialExpressionGuid=1629416340F0AE4D54192C9F09E5726C
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSampleParameter2D_56"
+      ParameterName="DiffuseTexture"
+      ExpressionGUID=D1062E45423578D67634D7822BA036BD
+      Coordinates=(Expression=MaterialExpressionAdd'"M_CobbleStone_Rough:MaterialExpressionAdd_35"')
+      Texture=Texture2D'"/Game/StarterContent/Textures/T_Rock_Smooth_Granite_D.T_Rock_Smooth_Granite_D"'
+      MaterialExpressionEditorX=-4700
+      MaterialExpressionEditorY=-9400
+      MaterialExpressionGuid=C046B10B4B9E754FD2CDB7977F83D978
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSampleParameter2D_54"
+      ParameterName="NormalTexture"
+      ExpressionGUID=8214D19E422A6D5C76E92CA969511DF8
+      Coordinates=(Expression=MaterialExpressionBumpOffset'"M_CobbleStone_Rough:MaterialExpressionBumpOffset_19"')
+      Texture=Texture2D'"/Game/StarterContent/Textures/T_CobbleStone_Rough_N.T_CobbleStone_Rough_N"'
+      SamplerType=SAMPLERTYPE_Normal
+      MaterialExpressionEditorX=-4700
+      MaterialExpressionEditorY=-9620
+      MaterialExpressionGuid=38895DB4437B992BACDDABBA9A56085F
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSampleParameter2D_53"
+      ParameterName="DiffuseTexture"
+      ExpressionGUID=79B950294D58778A2F3ADA9358DD08DF
+      Coordinates=(Expression=MaterialExpressionAdd'"M_CobbleStone_Rough:MaterialExpressionAdd_33"')
+      Texture=Texture2D'"/Game/StarterContent/Textures/T_Rock_Smooth_Granite_D.T_Rock_Smooth_Granite_D"'
+      MaterialExpressionEditorX=-4740
+      MaterialExpressionEditorY=-2840
+      MaterialExpressionGuid=E82AFFF846F599B05548E7B7D39D3E76
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSampleParameter2D_51"
+      ParameterName="NormalTexture"
+      ExpressionGUID=E8D41A0047B6B881320FD8B9149F6B20
+      Coordinates=(Expression=MaterialExpressionBumpOffset'"M_CobbleStone_Rough:MaterialExpressionBumpOffset_18"')
+      Texture=Texture2D'"/Game/StarterContent/Textures/T_CobbleStone_Rough_N.T_CobbleStone_Rough_N"'
+      SamplerType=SAMPLERTYPE_Normal
+      MaterialExpressionEditorX=-4740
+      MaterialExpressionEditorY=-3060
+      MaterialExpressionGuid=0EAAC1C044EF3C10431DE9B49E70098D
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSampleParameter2D_50"
+      ParameterName="DiffuseTexture"
+      ExpressionGUID=8AB2FDAE46F44AEBABF8B0BAF748AE0A
+      Coordinates=(Expression=MaterialExpressionAdd'"M_CobbleStone_Rough:MaterialExpressionAdd_31"')
+      Texture=Texture2D'"/Game/StarterContent/Textures/T_Rock_Smooth_Granite_D.T_Rock_Smooth_Granite_D"'
+      MaterialExpressionEditorX=-4700
+      MaterialExpressionEditorY=-10480
+      MaterialExpressionGuid=759CD1544AA514F0D038719461680ED5
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSampleParameter2D_48"
+      ParameterName="NormalTexture"
+      ExpressionGUID=71B6324F4A19FA4C5F24F99A1729CCB2
+      Coordinates=(Expression=MaterialExpressionBumpOffset'"M_CobbleStone_Rough:MaterialExpressionBumpOffset_17"')
+      Texture=Texture2D'"/Game/StarterContent/Textures/T_CobbleStone_Rough_N.T_CobbleStone_Rough_N"'
+      SamplerType=SAMPLERTYPE_Normal
+      MaterialExpressionEditorX=-4700
+      MaterialExpressionEditorY=-10700
+      MaterialExpressionGuid=97605BF244E4A70A638CE4B1CAC90110
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSampleParameter2D_47"
+      ParameterName="DiffuseTexture"
+      ExpressionGUID=120B345240F3FEE563FB478402AE2C15
+      Coordinates=(Expression=MaterialExpressionAdd'"M_CobbleStone_Rough:MaterialExpressionAdd_29"')
+      Texture=Texture2D'"/Game/StarterContent/Textures/T_Rock_Smooth_Granite_D.T_Rock_Smooth_Granite_D"'
+      MaterialExpressionEditorX=-4740
+      MaterialExpressionEditorY=-3900
+      MaterialExpressionGuid=20C77E954587C942DCD55B8253D189B1
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSampleParameter2D_45"
+      ParameterName="NormalTexture"
+      ExpressionGUID=D780FDA147A3FD6F2EC2BC85B8EB6038
+      Coordinates=(Expression=MaterialExpressionBumpOffset'"M_CobbleStone_Rough:MaterialExpressionBumpOffset_16"')
+      Texture=Texture2D'"/Game/StarterContent/Textures/T_CobbleStone_Rough_N.T_CobbleStone_Rough_N"'
+      SamplerType=SAMPLERTYPE_Normal
+      MaterialExpressionEditorX=-4740
+      MaterialExpressionEditorY=-4140
+      MaterialExpressionGuid=72AFAA7B44E5006FE87C3FA1E3DAF365
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSampleParameter2D_43"
+      ParameterName="DiffuseTexture"
+      ExpressionGUID=EE12A4054A21E9AAEE978182C15C1E02
+      Coordinates=(Expression=MaterialExpressionAdd'"M_CobbleStone_Rough:MaterialExpressionAdd_27"')
+      Texture=Texture2D'"/Game/StarterContent/Textures/T_Rock_Smooth_Granite_D.T_Rock_Smooth_Granite_D"'
+      MaterialExpressionEditorX=-4700
+      MaterialExpressionEditorY=-11620
+      MaterialExpressionGuid=A09E032D43AF1C83832181A970C211A7
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSampleParameter2D_42"
+      ParameterName="NormalTexture"
+      ExpressionGUID=FDCD63F04BA9CD28409B8D84F9C750DC
+      Coordinates=(Expression=MaterialExpressionBumpOffset'"M_CobbleStone_Rough:MaterialExpressionBumpOffset_15"')
+      Texture=Texture2D'"/Game/StarterContent/Textures/T_CobbleStone_Rough_N.T_CobbleStone_Rough_N"'
+      SamplerType=SAMPLERTYPE_Normal
+      MaterialExpressionEditorX=-4700
+      MaterialExpressionEditorY=-11860
+      MaterialExpressionGuid=6BEC8E9D4FD6849A646BB2BC24BD67C2
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSampleParameter2D_41"
+      ParameterName="DiffuseTexture"
+      ExpressionGUID=819A129147F6F75C64A02DB53DAE1814
+      Coordinates=(Expression=MaterialExpressionAdd'"M_CobbleStone_Rough:MaterialExpressionAdd_25"')
+      Texture=Texture2D'"/Game/StarterContent/Textures/T_Rock_Smooth_Granite_D.T_Rock_Smooth_Granite_D"'
+      MaterialExpressionEditorX=-4740
+      MaterialExpressionEditorY=-5060
+      MaterialExpressionGuid=F30D2D49453B9E89AC5EADADB53BE9EE
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSampleParameter2D_4"
+      ParameterName="CutOutGradient"
+      ExpressionGUID=7D4301CC4FA0C2FF89A75E855FE4E77C
+      Coordinates=(Expression=MaterialExpressionAdd'"M_CobbleStone_Rough:MaterialExpressionAdd_38"')
+      Texture=Texture2D'"/Game/StarterContent/Textures/T_Gradinet_01.T_Gradinet_01"'
+      MaterialExpressionEditorX=-4200
+      MaterialExpressionEditorY=-1540
+      MaterialExpressionGuid=6481BCC44B36D72629EEED80D09FBBF0
+      Material=Material'"M_CobbleStone_Rough"'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionTextureSampleParameter2D_39"
+      ParameterName="NormalTexture"
+      ExpressionGUID=7A9B4C1341268161D4F6DD8CABB0899F
+      Coordinates=(Expression=MaterialExpressionBumpOffset'"M_CobbleStone_Rough:MaterialExpressionBumpOffset_14"')
+      Texture=Texture2D'"/Game/StarterContent/Textures/T_CobbleStone_Rough_N.T_CobbleStone_Rough_N"'
+      SamplerType=SAMPLERTYPE_Normal
+      MaterialExpressionEditorX=-4740
+      MaterialExpressionEditorY=-5280
+      MaterialExpressionGuid=123AABE2461D56C2E9A60797B4B10C68
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSampleParameter2D_22"
+      ParameterName="CutOutGradient"
+      ExpressionGUID=139B72E349B9ABB89320BCB9725199D4
+      Coordinates=(Expression=MaterialExpressionAdd'"M_CobbleStone_Rough:MaterialExpressionAdd_28"')
+      Texture=Texture2D'"/Game/StarterContent/Textures/T_Gradinet_01.T_Gradinet_01"'
+      MaterialExpressionEditorX=-4100
+      MaterialExpressionEditorY=-11380
+      MaterialExpressionGuid=C2DD119E422DEB03EE29FFBD56DCCEDA
+      Material=Material'"M_CobbleStone_Rough"'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionTextureSampleParameter2D_20"
+      ParameterName="CutOutGradient"
+      ExpressionGUID=FCAED5604E9968C45870FF9ABCB0E22E
+      Coordinates=(Expression=MaterialExpressionAdd'"M_CobbleStone_Rough:MaterialExpressionAdd_32"')
+      Texture=Texture2D'"/Game/StarterContent/Textures/T_Gradinet_01.T_Gradinet_01"'
+      MaterialExpressionEditorX=-4138
+      MaterialExpressionEditorY=-10221
+      MaterialExpressionGuid=AF0CCC1544DB14EB34376F83710C4CB2
+      Material=Material'"M_CobbleStone_Rough"'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionTextureSampleParameter2D_2"
+      ParameterName="CutOutGradient"
+      ExpressionGUID=98627EF6498684996FF6D98D08B0DB8D
+      Coordinates=(Expression=MaterialExpressionAdd'"M_CobbleStone_Rough:MaterialExpressionAdd_42"')
+      Texture=Texture2D'"/Game/StarterContent/Textures/T_Gradinet_01.T_Gradinet_01"'
+      MaterialExpressionEditorX=-4260
+      MaterialExpressionEditorY=-440
+      MaterialExpressionGuid=54F9749A4E3C68B4760F0B99FC11CC41
+      Material=Material'"M_CobbleStone_Rough"'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionTextureSampleParameter2D_18"
+      ParameterName="CutOutGradient"
+      ExpressionGUID=425CDA784EAD7ADECE94CB9EF7B3FBDF
+      Coordinates=(Expression=MaterialExpressionAdd'"M_CobbleStone_Rough:MaterialExpressionAdd_36"')
+      Texture=Texture2D'"/Game/StarterContent/Textures/T_Gradinet_01.T_Gradinet_01"'
+      MaterialExpressionEditorX=-4160
+      MaterialExpressionEditorY=-9160
+      MaterialExpressionGuid=8E4388F446D737E2B43E2F942DF7E18B
+      Material=Material'"M_CobbleStone_Rough"'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionTextureSampleParameter2D_16"
+      ParameterName="CutOutGradient"
+      ExpressionGUID=00D3946042152FDF0EC991851D142F93
+      Coordinates=(Expression=MaterialExpressionAdd'"M_CobbleStone_Rough:MaterialExpressionAdd_40"')
+      Texture=Texture2D'"/Game/StarterContent/Textures/T_Gradinet_01.T_Gradinet_01"'
+      MaterialExpressionEditorX=-4132
+      MaterialExpressionEditorY=-8097
+      MaterialExpressionGuid=819B8FF8475976EFF9FB08AE4DB3AE2E
+      Material=Material'"M_CobbleStone_Rough"'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionTextureSampleParameter2D_14"
+      ParameterName="CutOutGradient"
+      ExpressionGUID=EE59FF86468C6326FEA77AAF1A56B384
+      Coordinates=(Expression=MaterialExpressionAdd'"M_CobbleStone_Rough:MaterialExpressionAdd_44"')
+      Texture=Texture2D'"/Game/StarterContent/Textures/T_Gradinet_01.T_Gradinet_01"'
+      MaterialExpressionEditorX=-4102
+      MaterialExpressionEditorY=-6878
+      MaterialExpressionGuid=B3651485435CCCEF7CEC7AA4F5B85F43
+      Material=Material'"M_CobbleStone_Rough"'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionTextureSampleParameter2D_12"
+      ParameterName="CutOutGradient"
+      ExpressionGUID=C5135440481F5AF0FEED638CA7B5DA9F
+      Coordinates=(Expression=MaterialExpressionAdd'"M_CobbleStone_Rough:MaterialExpressionAdd_47"')
+      Texture=Texture2D'"/Game/StarterContent/Textures/T_Gradinet_01.T_Gradinet_01"'
+      MaterialExpressionEditorX=-4100
+      MaterialExpressionEditorY=-5880
+      MaterialExpressionGuid=8DDA44C34DBB5568D545BA94097F8D57
+      Material=Material'"M_CobbleStone_Rough"'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionTextureSampleParameter2D_10"
+      ParameterName="CutOutGradient"
+      ExpressionGUID=AF62981D45956915D0641897BF18EC93
+      Coordinates=(Expression=MaterialExpressionAdd'"M_CobbleStone_Rough:MaterialExpressionAdd_26"')
+      Texture=Texture2D'"/Game/StarterContent/Textures/T_Gradinet_01.T_Gradinet_01"'
+      MaterialExpressionEditorX=-4108
+      MaterialExpressionEditorY=-4777
+      MaterialExpressionGuid=D6BFBFD64D10D378C835FBAEF3BDB3FE
+      Material=Material'"M_CobbleStone_Rough"'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionTextureSampleParameter2D_0"
+      ParameterName="CutOutGradient"
+      ExpressionGUID=9CFB9E1A4B61D66DB1AE7992C4C86B93
+      Coordinates=(Expression=MaterialExpressionAdd'"M_CobbleStone_Rough:MaterialExpressionAdd_45"')
+      Texture=Texture2D'"/Game/StarterContent/Textures/T_Gradinet_01.T_Gradinet_01"'
+      MaterialExpressionEditorX=-4260
+      MaterialExpressionEditorY=873
+      MaterialExpressionGuid=98CCCB3F49B4F51BD0FAD4A5B53CAB40
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_31"
+      Coordinates=(Expression=MaterialExpressionTextureCoordinate'"M_CobbleStone_Rough:MaterialExpressionTextureCoordinate_1"')
+      Texture=Texture2D'"/Game/StarterContent/Textures/T_CobbleStone_Rough_D.T_CobbleStone_Rough_D"'
+      MaterialExpressionEditorX=-4800
+      MaterialExpressionEditorY=640
+      MaterialExpressionGuid=85E1F9C04B7D5CB741936BB5B2C7DCDB
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_19"
+      Coordinates=(Expression=MaterialExpressionBumpOffset'"M_CobbleStone_Rough:MaterialExpressionBumpOffset_13"')
+      Texture=Texture2D'"/Game/StarterContent/Textures/T_CobbleStone_Rough_D.T_CobbleStone_Rough_D"'
+      MaterialExpressionEditorX=-4680
+      MaterialExpressionEditorY=-12240
+      MaterialExpressionGuid=D2A208E64ED6758BE9A3AF84DE463AEF
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureCoordinate_1"
+      MaterialExpressionEditorX=-6640
+      MaterialExpressionEditorY=552
+      MaterialExpressionGuid=EECFCD674AAA0C1AEC695ABF0EE8FB11
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_23"
+      DefaultValue=3.000000
+      ParameterName="TileInset"
+      ExpressionGUID=B987100244DFA643F538E2AD13BE3BE7
+      MaterialExpressionEditorX=-5348
+      MaterialExpressionEditorY=-6140
+      MaterialExpressionGuid=E8C730D34B63085580311EB07F4655C1
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_22"
+      DefaultValue=3.000000
+      ParameterName="TileInset"
+      ExpressionGUID=96DAEC184894D12888CD288D8A862D1C
+      MaterialExpressionEditorX=-5420
+      MaterialExpressionEditorY=-7120
+      MaterialExpressionGuid=2096E1184BA83EDA7BD497A43079EF25
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_21"
+      DefaultValue=3.000000
+      ParameterName="TileInset"
+      ExpressionGUID=07D89F884988A927852B94966DF2B382
+      MaterialExpressionEditorX=-5400
+      MaterialExpressionEditorY=-700
+      MaterialExpressionGuid=E9C4D6804A4773954593BAACB815DDC0
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_20"
+      DefaultValue=3.000000
+      ParameterName="TileInset"
+      ExpressionGUID=A94A5E8147AFD62294306B8C7BD15C1C
+      MaterialExpressionEditorX=-5380
+      MaterialExpressionEditorY=-8340
+      MaterialExpressionGuid=9A2618D840B374B199E5699F522431EF
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_19"
+      DefaultValue=3.000000
+      ParameterName="TileInset"
+      ExpressionGUID=887FF27040B3DE09CA20A2BD6692D34C
+      MaterialExpressionEditorX=-5360
+      MaterialExpressionEditorY=-1840
+      MaterialExpressionGuid=4D05AFF84C1E9915524A68A98F531AA2
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_18"
+      DefaultValue=3.000000
+      ParameterName="TileInset"
+      ExpressionGUID=A74970634FF27CA75F9E64915181E651
+      MaterialExpressionEditorX=-5388
+      MaterialExpressionEditorY=-9400
+      MaterialExpressionGuid=B67C20E3427D15466DBEF08298478EFD
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_17"
+      DefaultValue=3.000000
+      ParameterName="TileInset"
+      ExpressionGUID=EFED6BA3440989023E8C6DBD34275235
+      MaterialExpressionEditorX=-5430
+      MaterialExpressionEditorY=-2900
+      MaterialExpressionGuid=0347CFED4A42DF26EEB29C9B16CB692D
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_16"
+      DefaultValue=3.000000
+      ParameterName="TileInset"
+      ExpressionGUID=6A667DC14243B63B45C61AB67709E210
+      MaterialExpressionEditorX=-5320
+      MaterialExpressionEditorY=-10520
+      MaterialExpressionGuid=98EBC7284FC0EB72602A6F8AFD3A18FD
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_15"
+      DefaultValue=3.000000
+      ParameterName="TileInset"
+      ExpressionGUID=D8F5E9004C5C016A3FE0BCA047E5A94F
+      MaterialExpressionEditorX=-5410
+      MaterialExpressionEditorY=-3980
+      MaterialExpressionGuid=A344ED3D4075A86E79D2468A7C442BB0
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_14"
+      DefaultValue=3.000000
+      ParameterName="TileInset"
+      ExpressionGUID=EBA99FB84BB3CB13080B4AA592D95DE9
+      MaterialExpressionEditorX=-5260
+      MaterialExpressionEditorY=-11680
+      MaterialExpressionGuid=F11D78AD47D8C07C736F6BBB775F27BB
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_13"
+      DefaultValue=3.000000
+      ParameterName="TileInset"
+      ExpressionGUID=922C57A4418AE2DE39957B9172C7BC3D
+      MaterialExpressionEditorX=-5468
+      MaterialExpressionEditorY=-5080
+      MaterialExpressionGuid=ECF3D77A44979104275930805724D2EA
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_84"
+      A=(Expression=MaterialExpressionMultiply'"M_CobbleStone_Rough:MaterialExpressionMultiply_52"')
+      B=(Expression=MaterialExpressionClamp'"M_CobbleStone_Rough:MaterialExpressionClamp_5"')
+      MaterialExpressionEditorX=-3400
+      MaterialExpressionEditorY=-2280
+      MaterialExpressionGuid=05378BDA4A1B17204C512A811D2DF327
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_82"
+      A=(Expression=MaterialExpressionMultiply'"M_CobbleStone_Rough:MaterialExpressionMultiply_58"')
+      B=(Expression=MaterialExpressionClamp'"M_CobbleStone_Rough:MaterialExpressionClamp_3"')
+      MaterialExpressionEditorX=-3240
+      MaterialExpressionEditorY=-1180
+      MaterialExpressionGuid=AA0EBDA146D23284928B50B8003F5C6F
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_80"
+      A=(Expression=MaterialExpressionMultiply'"M_CobbleStone_Rough:MaterialExpressionMultiply_63"')
+      B=(Expression=MaterialExpressionClamp'"M_CobbleStone_Rough:MaterialExpressionClamp_1"')
+      MaterialExpressionEditorX=-3396
+      MaterialExpressionEditorY=-265
+      MaterialExpressionGuid=0B7766B14187D12DFE5976A287D2DD6A
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_75"
+      A=(Expression=MaterialExpressionMultiply'"M_CobbleStone_Rough:MaterialExpressionMultiply_70"')
+      B=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_12"',OutputIndex=1,Mask=1,MaskR=1)
+      MaterialExpressionEditorX=-3082
+      MaterialExpressionEditorY=-5961
+      MaterialExpressionGuid=03AD70BC4AE251BDBE7A1CACAFA6DF64
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_74"
+      A=(Expression=MaterialExpressionBumpOffset'"M_CobbleStone_Rough:MaterialExpressionBumpOffset_25"')
+      B=(Expression=MaterialExpressionScalarParameter'"M_CobbleStone_Rough:MaterialExpressionScalarParameter_23"')
+      MaterialExpressionEditorX=-5080
+      MaterialExpressionEditorY=-6160
+      MaterialExpressionGuid=E82C8F8D486C8BE06AC8B6B3F92A2479
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_73"
+      A=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_73"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionConstant'"M_CobbleStone_Rough:MaterialExpressionConstant_84"')
+      MaterialExpressionEditorX=-4300
+      MaterialExpressionEditorY=-6100
+      MaterialExpressionGuid=C41B2E484953C8141FE26AA9866E0777
+      Material=Material'"M_CobbleStone_Rough"'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_72"
+      A=(Expression=MaterialExpressionTextureSample'"M_CobbleStone_Rough:MaterialExpressionTextureSample_31"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionConstant'"M_CobbleStone_Rough:MaterialExpressionConstant_82"')
+      MaterialExpressionEditorX=-4502
+      MaterialExpressionEditorY=621
+      MaterialExpressionGuid=83DBA3AA4C2CA3816437EE9D2F8D74F5
+      Material=Material'"M_CobbleStone_Rough"'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_70"
+      A=(Expression=MaterialExpressionMultiply'"M_CobbleStone_Rough:MaterialExpressionMultiply_62"')
+      B=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_14"',OutputIndex=1,Mask=1,MaskR=1)
+      MaterialExpressionEditorX=-3040
+      MaterialExpressionEditorY=-6996
+      MaterialExpressionGuid=B6026D9B419770302C29DD8889227544
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_69"
+      A=(Expression=MaterialExpressionBumpOffset'"M_CobbleStone_Rough:MaterialExpressionBumpOffset_23"')
+      B=(Expression=MaterialExpressionScalarParameter'"M_CobbleStone_Rough:MaterialExpressionScalarParameter_22"')
+      MaterialExpressionEditorX=-5200
+      MaterialExpressionEditorY=-7140
+      MaterialExpressionGuid=006EBB00447AD5FDE65FD18FDF1792CB
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_68"
+      A=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_67"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionConstant'"M_CobbleStone_Rough:MaterialExpressionConstant_75"')
+      MaterialExpressionEditorX=-4326
+      MaterialExpressionEditorY=-7161
+      MaterialExpressionGuid=5BC8139D4F54243BE5CB88BDD0CC4FED
+      Material=Material'"M_CobbleStone_Rough"'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_66"
+      A=(Expression=MaterialExpressionMultiply'"M_CobbleStone_Rough:MaterialExpressionMultiply_65"')
+      B=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_0"',OutputIndex=1,Mask=1,MaskR=1)
+      MaterialExpressionEditorX=-3102
+      MaterialExpressionEditorY=-318
+      MaterialExpressionGuid=55F999134ED4F8D6DDF4B9B12123B0B0
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_65"
+      A=(Expression=MaterialExpressionMultiply'"M_CobbleStone_Rough:MaterialExpressionMultiply_59"')
+      B=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_2"',OutputIndex=1,Mask=1,MaskR=1)
+      MaterialExpressionEditorX=-3386
+      MaterialExpressionEditorY=-518
+      MaterialExpressionGuid=C952F1624754BEC57F9C05862528AC39
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_64"
+      A=(Expression=MaterialExpressionBumpOffset'"M_CobbleStone_Rough:MaterialExpressionBumpOffset_22"')
+      B=(Expression=MaterialExpressionScalarParameter'"M_CobbleStone_Rough:MaterialExpressionScalarParameter_21"')
+      MaterialExpressionEditorX=-5180
+      MaterialExpressionEditorY=-720
+      MaterialExpressionGuid=2F3FA6CC4F6CE48A07611486901D8A82
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_63"
+      A=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_65"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionConstant'"M_CobbleStone_Rough:MaterialExpressionConstant_70"')
+      MaterialExpressionEditorX=-4380
+      MaterialExpressionEditorY=-700
+      MaterialExpressionGuid=0EEA593E4C43FFF39E4A4F85552BD474
+      Material=Material'"M_CobbleStone_Rough"'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_62"
+      A=(Expression=MaterialExpressionMultiply'"M_CobbleStone_Rough:MaterialExpressionMultiply_56"')
+      B=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_16"',OutputIndex=1,Mask=1,MaskR=1)
+      MaterialExpressionEditorX=-3227
+      MaterialExpressionEditorY=-8122
+      MaterialExpressionGuid=9DE0ED7C444CA42ADC6442BC85FD6C4C
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_61"
+      A=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_62"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionConstant'"M_CobbleStone_Rough:MaterialExpressionConstant_67"')
+      MaterialExpressionEditorX=-4240
+      MaterialExpressionEditorY=-8300
+      MaterialExpressionGuid=AA4D864644FBA7692B2294BD8F363244
+      Material=Material'"M_CobbleStone_Rough"'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_60"
+      A=(Expression=MaterialExpressionBumpOffset'"M_CobbleStone_Rough:MaterialExpressionBumpOffset_21"')
+      B=(Expression=MaterialExpressionScalarParameter'"M_CobbleStone_Rough:MaterialExpressionScalarParameter_20"')
+      MaterialExpressionEditorX=-5140
+      MaterialExpressionEditorY=-8360
+      MaterialExpressionGuid=D5D27DC74DE7D2D2E4AE68AFE7C6E2A6
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_59"
+      A=(Expression=MaterialExpressionMultiply'"M_CobbleStone_Rough:MaterialExpressionMultiply_53"')
+      B=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_4"',OutputIndex=1,Mask=1,MaskR=1)
+      MaterialExpressionEditorX=-3296
+      MaterialExpressionEditorY=-1565
+      MaterialExpressionGuid=DDE08F2D4BB5D25E84A874828A5CE5D2
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_58"
+      A=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_59"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionConstant'"M_CobbleStone_Rough:MaterialExpressionConstant_64"')
+      MaterialExpressionEditorX=-4300
+      MaterialExpressionEditorY=-1780
+      MaterialExpressionGuid=AA71F6774C905CDB1E211E90CCBC6A00
+      Material=Material'"M_CobbleStone_Rough"'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_57"
+      A=(Expression=MaterialExpressionBumpOffset'"M_CobbleStone_Rough:MaterialExpressionBumpOffset_20"')
+      B=(Expression=MaterialExpressionScalarParameter'"M_CobbleStone_Rough:MaterialExpressionScalarParameter_19"')
+      MaterialExpressionEditorX=-5140
+      MaterialExpressionEditorY=-1860
+      MaterialExpressionGuid=97A4D5704CCF2F7D1D1C9E965E0FD7EA
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_56"
+      A=(Expression=MaterialExpressionMultiply'"M_CobbleStone_Rough:MaterialExpressionMultiply_50"')
+      B=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_18"',OutputIndex=1,Mask=1,MaskR=1)
+      MaterialExpressionEditorX=-3240
+      MaterialExpressionEditorY=-9162
+      MaterialExpressionGuid=EE102A654898F0100F6AA39F0124184C
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_55"
+      A=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_56"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionConstant'"M_CobbleStone_Rough:MaterialExpressionConstant_61"')
+      MaterialExpressionEditorX=-4320
+      MaterialExpressionEditorY=-9380
+      MaterialExpressionGuid=BFE9F9D54838E13F6FD8C7A42B0DB0D2
+      Material=Material'"M_CobbleStone_Rough"'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_54"
+      A=(Expression=MaterialExpressionBumpOffset'"M_CobbleStone_Rough:MaterialExpressionBumpOffset_19"')
+      B=(Expression=MaterialExpressionScalarParameter'"M_CobbleStone_Rough:MaterialExpressionScalarParameter_18"')
+      MaterialExpressionEditorX=-5120
+      MaterialExpressionEditorY=-9420
+      MaterialExpressionGuid=F38817E44684533C79AA6EA49D3D659F
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_53"
+      A=(Expression=MaterialExpressionMultiply'"M_CobbleStone_Rough:MaterialExpressionMultiply_47"')
+      B=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_6"',OutputIndex=1,Mask=1,MaskR=1)
+      MaterialExpressionEditorX=-3293
+      MaterialExpressionEditorY=-2578
+      MaterialExpressionGuid=3BF2708E427A9654DE8D239C79D439C5
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_52"
+      A=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_53"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionConstant'"M_CobbleStone_Rough:MaterialExpressionConstant_58"')
+      MaterialExpressionEditorX=-4423
+      MaterialExpressionEditorY=-2793
+      MaterialExpressionGuid=CF5847CC4B9873A39DCE65A2BAA55497
+      Material=Material'"M_CobbleStone_Rough"'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_51"
+      A=(Expression=MaterialExpressionBumpOffset'"M_CobbleStone_Rough:MaterialExpressionBumpOffset_18"')
+      B=(Expression=MaterialExpressionScalarParameter'"M_CobbleStone_Rough:MaterialExpressionScalarParameter_17"')
+      MaterialExpressionEditorX=-5160
+      MaterialExpressionEditorY=-2920
+      MaterialExpressionGuid=699977A14812910B176B40B50C088234
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_50"
+      A=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_22"',OutputIndex=1,Mask=1,MaskR=1)
+      B=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_20"',OutputIndex=1,Mask=1,MaskR=1)
+      MaterialExpressionEditorX=-3162
+      MaterialExpressionEditorY=-10327
+      MaterialExpressionGuid=AADBF7B04BC393B7D587B3A16324FA68
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_49"
+      A=(Expression=MaterialExpressionBumpOffset'"M_CobbleStone_Rough:MaterialExpressionBumpOffset_17"')
+      B=(Expression=MaterialExpressionScalarParameter'"M_CobbleStone_Rough:MaterialExpressionScalarParameter_16"')
+      MaterialExpressionEditorX=-5120
+      MaterialExpressionEditorY=-10540
+      MaterialExpressionGuid=CEC3C27E4FCF70C234765FB5864EC176
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_48"
+      A=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_50"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionConstant'"M_CobbleStone_Rough:MaterialExpressionConstant_55"')
+      MaterialExpressionEditorX=-4320
+      MaterialExpressionEditorY=-10460
+      MaterialExpressionGuid=F0E24B0E4605E4C5DB30BFB8B917475D
+      Material=Material'"M_CobbleStone_Rough"'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_47"
+      A=(Expression=MaterialExpressionMultiply'"M_CobbleStone_Rough:MaterialExpressionMultiply_42"')
+      B=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_8"',OutputIndex=1,Mask=1,MaskR=1)
+      MaterialExpressionEditorX=-3223
+      MaterialExpressionEditorY=-3635
+      MaterialExpressionGuid=5C4450E94B7DE4C8ADFD2281C4717DEA
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_46"
+      A=(Expression=MaterialExpressionBumpOffset'"M_CobbleStone_Rough:MaterialExpressionBumpOffset_16"')
+      B=(Expression=MaterialExpressionScalarParameter'"M_CobbleStone_Rough:MaterialExpressionScalarParameter_15"')
+      MaterialExpressionEditorX=-5100
+      MaterialExpressionEditorY=-4000
+      MaterialExpressionGuid=B95DA3234730BDF96753FB89651A1F0E
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_45"
+      A=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_47"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionConstant'"M_CobbleStone_Rough:MaterialExpressionConstant_52"')
+      MaterialExpressionEditorX=-4405
+      MaterialExpressionEditorY=-3833
+      MaterialExpressionGuid=3FD84F3243838CB6C08047834CA0B982
+      Material=Material'"M_CobbleStone_Rough"'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_44"
+      A=(Expression=MaterialExpressionBumpOffset'"M_CobbleStone_Rough:MaterialExpressionBumpOffset_15"')
+      B=(Expression=MaterialExpressionScalarParameter'"M_CobbleStone_Rough:MaterialExpressionScalarParameter_14"')
+      MaterialExpressionEditorX=-5060
+      MaterialExpressionEditorY=-11680
+      MaterialExpressionGuid=13BC0EE94A17DB78468AE7A33F4345C8
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_43"
+      A=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_43"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionConstant'"M_CobbleStone_Rough:MaterialExpressionConstant_48"')
+      MaterialExpressionEditorX=-4298
+      MaterialExpressionEditorY=-11650
+      MaterialExpressionGuid=42D57986469EE61AA2B4399EA56964A5
+      Material=Material'"M_CobbleStone_Rough"'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_42"
+      A=(Expression=MaterialExpressionMultiply'"M_CobbleStone_Rough:MaterialExpressionMultiply_75"')
+      B=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_10"',OutputIndex=1,Mask=1,MaskR=1)
+      MaterialExpressionEditorX=-3115
+      MaterialExpressionEditorY=-4825
+      MaterialExpressionGuid=83F9E21447506BD0B89CA8AB90E0CAB5
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_41"
+      A=(Expression=MaterialExpressionBumpOffset'"M_CobbleStone_Rough:MaterialExpressionBumpOffset_14"')
+      B=(Expression=MaterialExpressionScalarParameter'"M_CobbleStone_Rough:MaterialExpressionScalarParameter_13"')
+      MaterialExpressionEditorX=-5200
+      MaterialExpressionEditorY=-5100
+      MaterialExpressionGuid=356CBAF244C3E8B7630F3F97BF682AD2
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_40"
+      A=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_41"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionConstant'"M_CobbleStone_Rough:MaterialExpressionConstant_46"')
+      MaterialExpressionEditorX=-4341
+      MaterialExpressionEditorY=-5046
+      MaterialExpressionGuid=05211A1747172377FE2D589A64F513E4
+      Material=Material'"M_CobbleStone_Rough"'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_39"
+      A=(Expression=MaterialExpressionTextureSample'"M_CobbleStone_Rough:MaterialExpressionTextureSample_19"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionConstant'"M_CobbleStone_Rough:MaterialExpressionConstant_45"')
+      MaterialExpressionEditorX=-4291
+      MaterialExpressionEditorY=-12230
+      MaterialExpressionGuid=F9020DD64EDEEFE10A50678129F54371
+      Material=Material'"M_CobbleStone_Rough"'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_51"
+      A=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_72"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionLinearInterpolate'"M_CobbleStone_Rough:MaterialExpressionLinearInterpolate_46"')
+      Alpha=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_12"',OutputIndex=1,Mask=1,MaskR=1)
+      MaterialExpressionEditorX=-3400
+      MaterialExpressionEditorY=-6140
+      MaterialExpressionGuid=F8A8227C429C20456D90EBA974320379
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_50"
+      A=(Expression=MaterialExpressionMultiply'"M_CobbleStone_Rough:MaterialExpressionMultiply_73"')
+      B=(Expression=MaterialExpressionLinearInterpolate'"M_CobbleStone_Rough:MaterialExpressionLinearInterpolate_45"')
+      Alpha=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_12"',OutputIndex=1,Mask=1,MaskR=1)
+      MaterialExpressionEditorX=-3840
+      MaterialExpressionEditorY=-6140
+      MaterialExpressionGuid=5F8D58E54F84337644B529AB63266EF6
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_49"
+      A=(Expression=MaterialExpressionMultiply'"M_CobbleStone_Rough:MaterialExpressionMultiply_72"')
+      B=(Expression=MaterialExpressionLinearInterpolate'"M_CobbleStone_Rough:MaterialExpressionLinearInterpolate_42"')
+      Alpha=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_0"',OutputIndex=1,Mask=1,MaskR=1)
+      MaterialExpressionEditorX=-3560
+      MaterialExpressionEditorY=820
+      MaterialExpressionGuid=20999E994E7CF56DDEE6B4AA6E50935D
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_48"
+      A=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_69"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionLinearInterpolate'"M_CobbleStone_Rough:MaterialExpressionLinearInterpolate_43"')
+      Alpha=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_0"',OutputIndex=1,Mask=1,MaskR=1)
+      MaterialExpressionEditorX=-3741
+      MaterialExpressionEditorY=641
+      MaterialExpressionGuid=BE3BAFEB4D9DF6231D43B4BAA86B7D6D
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_47"
+      A=(Expression=MaterialExpressionConstant'"M_CobbleStone_Rough:MaterialExpressionConstant_1"')
+      B=(Expression=MaterialExpressionConstant'"M_CobbleStone_Rough:MaterialExpressionConstant_81"')
+      Alpha=(Expression=MaterialExpressionMultiply'"M_CobbleStone_Rough:MaterialExpressionMultiply_66"')
+      MaterialExpressionEditorX=-2460
+      MaterialExpressionEditorY=-40
+      MaterialExpressionGuid=D968A1674D17755A2B1B19B806457F6B
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_46"
+      A=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_66"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionLinearInterpolate'"M_CobbleStone_Rough:MaterialExpressionLinearInterpolate_41"')
+      Alpha=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_14"',OutputIndex=1,Mask=1,MaskR=1)
+      MaterialExpressionEditorX=-3491
+      MaterialExpressionEditorY=-6981
+      MaterialExpressionGuid=C5130B8440DD9A92D2C36B95D70354CF
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_45"
+      A=(Expression=MaterialExpressionMultiply'"M_CobbleStone_Rough:MaterialExpressionMultiply_68"')
+      B=(Expression=MaterialExpressionLinearInterpolate'"M_CobbleStone_Rough:MaterialExpressionLinearInterpolate_40"')
+      Alpha=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_14"',OutputIndex=1,Mask=1,MaskR=1)
+      MaterialExpressionEditorX=-3867
+      MaterialExpressionEditorY=-6987
+      MaterialExpressionGuid=76EFA44A467612D69019CBAF0618633D
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_43"
+      A=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_63"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionLinearInterpolate'"M_CobbleStone_Rough:MaterialExpressionLinearInterpolate_39"')
+      Alpha=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_2"',OutputIndex=1,Mask=1,MaskR=1)
+      MaterialExpressionEditorX=-3600
+      MaterialExpressionEditorY=-620
+      MaterialExpressionGuid=C35A6F5543DE788E04F1DBBBFBC76A70
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_42"
+      A=(Expression=MaterialExpressionMultiply'"M_CobbleStone_Rough:MaterialExpressionMultiply_80"')
+      B=(Expression=MaterialExpressionLinearInterpolate'"M_CobbleStone_Rough:MaterialExpressionLinearInterpolate_38"')
+      Alpha=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_2"',OutputIndex=1,Mask=1,MaskR=1)
+      MaterialExpressionEditorX=-3860
+      MaterialExpressionEditorY=-780
+      MaterialExpressionGuid=00F15D0C4ACE38ACA6F7B28886DA4CE2
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_41"
+      A=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_60"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionLinearInterpolate'"M_CobbleStone_Rough:MaterialExpressionLinearInterpolate_37"')
+      Alpha=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_16"',OutputIndex=1,Mask=1,MaskR=1)
+      MaterialExpressionEditorX=-3613
+      MaterialExpressionEditorY=-8141
+      MaterialExpressionGuid=6D68ECAB4279330E96FF98807DF838F6
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_40"
+      A=(Expression=MaterialExpressionMultiply'"M_CobbleStone_Rough:MaterialExpressionMultiply_61"')
+      B=(Expression=MaterialExpressionLinearInterpolate'"M_CobbleStone_Rough:MaterialExpressionLinearInterpolate_36"')
+      Alpha=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_16"',OutputIndex=1,Mask=1,MaskR=1)
+      MaterialExpressionEditorX=-3882
+      MaterialExpressionEditorY=-8212
+      MaterialExpressionGuid=67CA6E994E35C83ECAE783AD645AEA65
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_39"
+      A=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_57"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionLinearInterpolate'"M_CobbleStone_Rough:MaterialExpressionLinearInterpolate_34"')
+      Alpha=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_4"',OutputIndex=1,Mask=1,MaskR=1)
+      MaterialExpressionEditorX=-3580
+      MaterialExpressionEditorY=-1640
+      MaterialExpressionGuid=5740A42E4015F495850F0E93F684BC8C
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_38"
+      A=(Expression=MaterialExpressionMultiply'"M_CobbleStone_Rough:MaterialExpressionMultiply_82"')
+      B=(Expression=MaterialExpressionLinearInterpolate'"M_CobbleStone_Rough:MaterialExpressionLinearInterpolate_35"')
+      Alpha=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_4"',OutputIndex=1,Mask=1,MaskR=1)
+      MaterialExpressionEditorX=-3840
+      MaterialExpressionEditorY=-1840
+      MaterialExpressionGuid=BC43E8894F445D9CD11BE1A4A886CB35
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_37"
+      A=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_54"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionLinearInterpolate'"M_CobbleStone_Rough:MaterialExpressionLinearInterpolate_33"')
+      Alpha=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_18"',OutputIndex=1,Mask=1,MaskR=1)
+      MaterialExpressionEditorX=-3520
+      MaterialExpressionEditorY=-9320
+      MaterialExpressionGuid=03011FEA4C969DA9F105BB83C1862CAD
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_36"
+      A=(Expression=MaterialExpressionMultiply'"M_CobbleStone_Rough:MaterialExpressionMultiply_55"')
+      B=(Expression=MaterialExpressionLinearInterpolate'"M_CobbleStone_Rough:MaterialExpressionLinearInterpolate_32"')
+      Alpha=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_18"',OutputIndex=1,Mask=1,MaskR=1)
+      MaterialExpressionEditorX=-3860
+      MaterialExpressionEditorY=-9280
+      MaterialExpressionGuid=097F837242CB998122C3AFBBC0AFEFCD
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_35"
+      A=(Expression=MaterialExpressionMultiply'"M_CobbleStone_Rough:MaterialExpressionMultiply_84"')
+      B=(Expression=MaterialExpressionLinearInterpolate'"M_CobbleStone_Rough:MaterialExpressionLinearInterpolate_30"')
+      Alpha=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_6"',OutputIndex=1,Mask=1,MaskR=1)
+      MaterialExpressionEditorX=-3800
+      MaterialExpressionEditorY=-2880
+      MaterialExpressionGuid=B2FBBF2B4854A4FEB83359BA4C4EE195
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_34"
+      A=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_51"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionLinearInterpolate'"M_CobbleStone_Rough:MaterialExpressionLinearInterpolate_31"')
+      Alpha=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_6"',OutputIndex=1,Mask=1,MaskR=1)
+      MaterialExpressionEditorX=-3520
+      MaterialExpressionEditorY=-2720
+      MaterialExpressionGuid=C845250B4993BE36FD43D0A58895A5BD
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_33"
+      A=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_48"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_42"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      Alpha=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_20"',OutputIndex=1,Mask=1,MaskR=1)
+      MaterialExpressionEditorX=-3480
+      MaterialExpressionEditorY=-10400
+      MaterialExpressionGuid=323AB6EE48DCF6CBBBA346B9596B55A9
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_32"
+      A=(Expression=MaterialExpressionMultiply'"M_CobbleStone_Rough:MaterialExpressionMultiply_48"')
+      B=(Expression=MaterialExpressionLinearInterpolate'"M_CobbleStone_Rough:MaterialExpressionLinearInterpolate_29"')
+      Alpha=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_20"',OutputIndex=1,Mask=1,MaskR=1)
+      MaterialExpressionEditorX=-3820
+      MaterialExpressionEditorY=-10580
+      MaterialExpressionGuid=C20D12F6448F6CF691EE97BAFBFA61C0
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_31"
+      A=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_45"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionLinearInterpolate'"M_CobbleStone_Rough:MaterialExpressionLinearInterpolate_27"')
+      Alpha=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_8"',OutputIndex=1,Mask=1,MaskR=1)
+      MaterialExpressionEditorX=-3480
+      MaterialExpressionEditorY=-3800
+      MaterialExpressionGuid=BC3D195B4D773DBA85AB078356AD79C3
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_30"
+      A=(Expression=MaterialExpressionMultiply'"M_CobbleStone_Rough:MaterialExpressionMultiply_45"')
+      B=(Expression=MaterialExpressionLinearInterpolate'"M_CobbleStone_Rough:MaterialExpressionLinearInterpolate_26"')
+      Alpha=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_8"',OutputIndex=1,Mask=1,MaskR=1)
+      MaterialExpressionEditorX=-3820
+      MaterialExpressionEditorY=-4000
+      MaterialExpressionGuid=996B3C56447BDDD5CF176682E0132FD9
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_29"
+      A=(Expression=MaterialExpressionMultiply'"M_CobbleStone_Rough:MaterialExpressionMultiply_43"')
+      B=(Expression=MaterialExpressionMultiply'"M_CobbleStone_Rough:MaterialExpressionMultiply_39"')
+      Alpha=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_22"',OutputIndex=1,Mask=1,MaskR=1)
+      MaterialExpressionEditorX=-3840
+      MaterialExpressionEditorY=-11476
+      MaterialExpressionGuid=617D95504C6C1C2F4ED39390968945DE
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_27"
+      A=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_39"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionLinearInterpolate'"M_CobbleStone_Rough:MaterialExpressionLinearInterpolate_51"')
+      Alpha=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_10"',OutputIndex=1,Mask=1,MaskR=1)
+      MaterialExpressionEditorX=-3500
+      MaterialExpressionEditorY=-5040
+      MaterialExpressionGuid=F864D81E4CD428CC998537B1DBAEA23E
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_26"
+      A=(Expression=MaterialExpressionMultiply'"M_CobbleStone_Rough:MaterialExpressionMultiply_40"')
+      B=(Expression=MaterialExpressionLinearInterpolate'"M_CobbleStone_Rough:MaterialExpressionLinearInterpolate_50"')
+      Alpha=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_10"',OutputIndex=1,Mask=1,MaskR=1)
+      MaterialExpressionEditorX=-3880
+      MaterialExpressionEditorY=-5020
+      MaterialExpressionGuid=E445AF1746DF04B1EFFCD38B6D6D5F78
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionFeatureLevelSwitch_6"
+      Default=(Expression=MaterialExpressionLinearInterpolate'"M_CobbleStone_Rough:MaterialExpressionLinearInterpolate_47"')
+      Inputs(0)=(Expression=MaterialExpressionConstant'"M_CobbleStone_Rough:MaterialExpressionConstant_3"')
+      Inputs(1)=(Expression=MaterialExpressionConstant'"M_CobbleStone_Rough:MaterialExpressionConstant_3"')
+      MaterialExpressionEditorX=-2160
+      MaterialExpressionEditorY=-60
+      MaterialExpressionGuid=A869090D4F5F99528FF445B17CDC9E88
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionFeatureLevelSwitch_5"
+      Default=(Expression=MaterialExpressionLinearInterpolate'"M_CobbleStone_Rough:MaterialExpressionLinearInterpolate_49"')
+      Inputs(0)=(Expression=MaterialExpressionTextureSample'"M_CobbleStone_Rough:MaterialExpressionTextureSample_31"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      Inputs(1)=(Expression=MaterialExpressionTextureSample'"M_CobbleStone_Rough:MaterialExpressionTextureSample_31"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      MaterialExpressionEditorX=-2360
+      MaterialExpressionEditorY=360
+      MaterialExpressionGuid=C4FBA5644F5797C7C4DCDC98182ABF7D
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionFeatureLevelSwitch_3"
+      Default=(Expression=MaterialExpressionLinearInterpolate'"M_CobbleStone_Rough:MaterialExpressionLinearInterpolate_48"')
+      Inputs(0)=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_69"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      Inputs(1)=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_69"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      MaterialExpressionEditorX=-2300
+      MaterialExpressionEditorY=620
+      MaterialExpressionGuid=88CCD72F45D8ED6D49143DBEC243BCD0
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant2Vector_23"
+      R=0.300000
+      G=0.300000
+      MaterialExpressionEditorX=-5030
+      MaterialExpressionEditorY=-6035
+      MaterialExpressionGuid=9F5A5138415759B76BE02C91778BC1F8
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant2Vector_22"
+      R=0.250000
+      G=0.250000
+      MaterialExpressionEditorX=-5100
+      MaterialExpressionEditorY=-7040
+      MaterialExpressionGuid=DA069CFC4B68F373AFDC83A61B405FEF
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant2Vector_21"
+      R=0.800000
+      G=0.800000
+      MaterialExpressionEditorX=-5000
+      MaterialExpressionEditorY=-640
+      MaterialExpressionGuid=1DFA793449A806DB9D391795DD18FED1
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant2Vector_20"
+      R=0.200000
+      G=0.200000
+      MaterialExpressionEditorX=-5032
+      MaterialExpressionEditorY=-8260
+      MaterialExpressionGuid=3AF399E341291049561CFDB6E8737DB8
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant2Vector_19"
+      R=0.700000
+      G=0.700000
+      MaterialExpressionEditorX=-5020
+      MaterialExpressionEditorY=-1720
+      MaterialExpressionGuid=E01CEAF9400DBF83532C2A99D0371D7E
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant2Vector_18"
+      R=0.100000
+      G=0.100000
+      MaterialExpressionEditorX=-5080
+      MaterialExpressionEditorY=-9300
+      MaterialExpressionGuid=05764BF24F9B7273748A5B8329248224
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant2Vector_17"
+      R=0.600000
+      G=0.600000
+      MaterialExpressionEditorX=-5161
+      MaterialExpressionEditorY=-2787
+      MaterialExpressionGuid=A35F4EBA44BA16A7609220880D018C9C
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant2Vector_16"
+      R=-0.100000
+      G=-0.100000
+      MaterialExpressionEditorX=-5120
+      MaterialExpressionEditorY=-10400
+      MaterialExpressionGuid=0DE24BC5478A68AE8E0C91B93A113D09
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant2Vector_15"
+      R=0.500000
+      G=0.500000
+      MaterialExpressionEditorX=-5040
+      MaterialExpressionEditorY=-3820
+      MaterialExpressionGuid=9F2037E24B06AEE9D38931973913F696
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant2Vector_14"
+      R=-0.200000
+      G=-0.200000
+      MaterialExpressionEditorX=-4980
+      MaterialExpressionEditorY=-11560
+      MaterialExpressionGuid=F8DF94D04013E4231F835E82E0D2649A
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant2Vector_13"
+      R=0.400000
+      G=0.400000
+      MaterialExpressionEditorX=-5100
+      MaterialExpressionEditorY=-4920
+      MaterialExpressionGuid=07F73B13408B68BC6343D59AE754B0CF
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_93"
+      R=0.600000
+      MaterialExpressionEditorX=-3960
+      MaterialExpressionEditorY=-2340
+      MaterialExpressionGuid=21AB00374E350A1199C996B1B8C09B5A
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_91"
+      R=0.600000
+      MaterialExpressionEditorX=-3840
+      MaterialExpressionEditorY=-1240
+      MaterialExpressionGuid=08F99E2048B036EBE9C350A80EA57FAF
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_89"
+      R=0.600000
+      MaterialExpressionEditorX=-3960
+      MaterialExpressionEditorY=-260
+      MaterialExpressionGuid=7B4232484954371A37E3968A3C2ECD0D
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_87"
+      R=-0.400000
+      MaterialExpressionEditorX=-4428
+      MaterialExpressionEditorY=-5818
+      MaterialExpressionGuid=83B82B1F4328FA236A1A4B88DC6CB219
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_86"
+      R=-0.060000
+      MaterialExpressionEditorX=-5681
+      MaterialExpressionEditorY=-5961
+      MaterialExpressionGuid=39C2877D47D71A1DF385CE94C6A7937A
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_85"
+      R=-0.900000
+      MaterialExpressionEditorX=-4550
+      MaterialExpressionEditorY=971
+      MaterialExpressionGuid=F62C385346F46E1B2D287282B18620CD
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_84"
+      R=0.500000
+      MaterialExpressionEditorX=-4441
+      MaterialExpressionEditorY=-6032
+      MaterialExpressionGuid=1F283EC44B3DAAD3E3DAD288EDA670E5
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_82"
+      R=1.000000
+      MaterialExpressionEditorX=-4600
+      MaterialExpressionEditorY=700
+      MaterialExpressionGuid=A95F6DAC4BF05EC7ABC7E4A3E627232F
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_81"
+      R=0.800000
+      MaterialExpressionEditorX=-2580
+      MaterialExpressionEditorY=-40
+      MaterialExpressionGuid=62ECB6CD4963D0494C3C9BB76FA29F34
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_79"
+      R=-0.300000
+      MaterialExpressionEditorX=-4465
+      MaterialExpressionEditorY=-6835
+      MaterialExpressionGuid=B06B450F46E6169004B8EF8FF62E386A
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_77"
+      R=-0.070000
+      MaterialExpressionEditorX=-5720
+      MaterialExpressionEditorY=-6880
+      MaterialExpressionGuid=6FCDD1124FD478BDB0C8C98B0BA5B339
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_75"
+      R=0.400000
+      MaterialExpressionEditorX=-4440
+      MaterialExpressionEditorY=-7100
+      MaterialExpressionGuid=995D7D4C47FF938FA1AA408FAB234933
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_74"
+      R=-0.760000
+      MaterialExpressionEditorX=-4520
+      MaterialExpressionEditorY=-340
+      MaterialExpressionGuid=14FD80B047A01132BCEA10B4BF2AB4BB
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_71"
+      R=-0.010000
+      MaterialExpressionEditorX=-5740
+      MaterialExpressionEditorY=-540
+      MaterialExpressionGuid=4B3F86794E891B0C7DA194B1D6ED822E
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_70"
+      R=1.500000
+      MaterialExpressionEditorX=-4520
+      MaterialExpressionEditorY=-620
+      MaterialExpressionGuid=A71346054EA6D30D997E5B91A24AAED0
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_69"
+      R=-0.200000
+      MaterialExpressionEditorX=-4396
+      MaterialExpressionEditorY=-8007
+      MaterialExpressionGuid=4503FE634614B6C844E9B78A7A7CE4EF
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_68"
+      R=-0.082000
+      MaterialExpressionEditorX=-5700
+      MaterialExpressionEditorY=-8140
+      MaterialExpressionGuid=D38EA5A84291990C23F4C99687CE50DB
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_67"
+      R=0.300000
+      MaterialExpressionEditorX=-4400
+      MaterialExpressionEditorY=-8240
+      MaterialExpressionGuid=EF921A0E42D5BF67CAF23F87458D9B5B
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_66"
+      R=-0.740000
+      MaterialExpressionEditorX=-4473
+      MaterialExpressionEditorY=-1442
+      MaterialExpressionGuid=D13A7A244B3A3B79B3C87D8D731D44B4
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_65"
+      R=-0.020000
+      MaterialExpressionEditorX=-5738
+      MaterialExpressionEditorY=-1673
+      MaterialExpressionGuid=143712BF421CBB60AF298294A1D50F73
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_64"
+      R=1.200000
+      MaterialExpressionEditorX=-4440
+      MaterialExpressionEditorY=-1720
+      MaterialExpressionGuid=A81C78F14F07AE82D3ACE3921618643D
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_63"
+      R=-0.100000
+      MaterialExpressionEditorX=-4480
+      MaterialExpressionEditorY=-9040
+      MaterialExpressionGuid=D896E43348681F7E72ABC38B41B8B12C
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_62"
+      R=-0.094000
+      MaterialExpressionEditorX=-5700
+      MaterialExpressionEditorY=-9200
+      MaterialExpressionGuid=DA3C406E42D4840C5730228A1B8809F3
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_61"
+      R=0.200000
+      MaterialExpressionEditorX=-4480
+      MaterialExpressionEditorY=-9280
+      MaterialExpressionGuid=7C853F8B4CEAA7BE5D6A7BB7E8B694D0
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_60"
+      R=-0.700000
+      MaterialExpressionEditorX=-4540
+      MaterialExpressionEditorY=-2460
+      MaterialExpressionGuid=BD22216343259CFF70B62BA513187505
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_59"
+      R=-0.030000
+      MaterialExpressionEditorX=-5756
+      MaterialExpressionEditorY=-2716
+      MaterialExpressionGuid=EAA32ECF46BC620D97FF3C9BF8436172
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_58"
+      R=1.000000
+      MaterialExpressionEditorX=-4540
+      MaterialExpressionEditorY=-2720
+      MaterialExpressionGuid=EB4E92064D4A6CDB541003A3F3E7A733
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_57"
+      R=-0.050000
+      MaterialExpressionEditorX=-4473
+      MaterialExpressionEditorY=-10130
+      MaterialExpressionGuid=4882A28A45D8484927CD8B937AE95253
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_56"
+      R=-0.110000
+      MaterialExpressionEditorX=-5680
+      MaterialExpressionEditorY=-10320
+      MaterialExpressionGuid=D6989B6342CEA29D182D43B41FF7B832
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_55"
+      R=0.150000
+      MaterialExpressionEditorX=-4480
+      MaterialExpressionEditorY=-10380
+      MaterialExpressionGuid=20F1BEF54FA2737833E090BE91991745
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_54"
+      R=-0.600000
+      MaterialExpressionEditorX=-4480
+      MaterialExpressionEditorY=-3540
+      MaterialExpressionGuid=B91488474777A0DA398FE9A3225D4158
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_53"
+      R=-0.040000
+      MaterialExpressionEditorX=-5696
+      MaterialExpressionEditorY=-3796
+      MaterialExpressionGuid=183E741940D2B9B3B7815EB1DF33993F
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_52"
+      R=0.700000
+      MaterialExpressionEditorX=-4500
+      MaterialExpressionEditorY=-3760
+      MaterialExpressionGuid=F441621148B6A2FF5547B7977071D66E
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_51"
+      R=-0.025000
+      MaterialExpressionEditorX=-4460
+      MaterialExpressionEditorY=-11280
+      MaterialExpressionGuid=D3C63ECB4050F82CF1C9E68754AD2C2D
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_50"
+      R=-0.128000
+      MaterialExpressionEditorX=-5660
+      MaterialExpressionEditorY=-11420
+      MaterialExpressionGuid=E8223B2044DC5AFBE9F696919CF53759
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_49"
+      R=-0.500000
+      MaterialExpressionEditorX=-4480
+      MaterialExpressionEditorY=-4720
+      MaterialExpressionGuid=9B81615B4FD7F3BE08DB449F60617BC9
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_48"
+      R=0.138000
+      MaterialExpressionEditorX=-4440
+      MaterialExpressionEditorY=-11560
+      MaterialExpressionGuid=05119C2E44B92E1128548180F79CAFF7
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_47"
+      R=-0.050000
+      MaterialExpressionEditorX=-5796
+      MaterialExpressionEditorY=-4856
+      MaterialExpressionGuid=9BD9C453470C2A13B47236BB6768B5C1
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_46"
+      R=0.600000
+      MaterialExpressionEditorX=-4480
+      MaterialExpressionEditorY=-4960
+      MaterialExpressionGuid=B6D1D0B6434E020478F679870C3801F9
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_45"
+      R=0.300000
+      MaterialExpressionEditorX=-4420
+      MaterialExpressionEditorY=-12160
+      MaterialExpressionGuid=C4F25900447FAB53DC88D88F4E486C67
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_44"
+      R=-0.128000
+      MaterialExpressionEditorX=-5722
+      MaterialExpressionEditorY=-12225
+      MaterialExpressionGuid=F9D7825F4D8FAB216C64CF9C7564A3EA
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_3"
+      R=0.600000
+      MaterialExpressionEditorX=-2520
+      MaterialExpressionEditorY=160
+      MaterialExpressionGuid=4B5A931F415E83238D578DBF6B56D1C2
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_2"
+      R=0.400000
+      MaterialExpressionEditorX=-1820
+      MaterialExpressionEditorY=460
+      MaterialExpressionGuid=FDDFA3284B18658BC04F9B8AF239C134
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_1"
+      R=0.600000
+      MaterialExpressionEditorX=-2580
+      MaterialExpressionEditorY=-120
+      MaterialExpressionGuid=D6C3FBAE4ADF68548AA2918B41065781
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionClamp_5"
+      Input=(Expression=MaterialExpressionAdd'"M_CobbleStone_Rough:MaterialExpressionAdd_59"')
+      MaterialExpressionEditorX=-3660
+      MaterialExpressionEditorY=-2200
+      MaterialExpressionGuid=6AD224FB4C4C50080AE72E8DBAF026A7
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionClamp_3"
+      Input=(Expression=MaterialExpressionAdd'"M_CobbleStone_Rough:MaterialExpressionAdd_55"')
+      MaterialExpressionEditorX=-3517
+      MaterialExpressionEditorY=-1117
+      MaterialExpressionGuid=AE5601A34DA65B3DA6DED28C07F8EAEB
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionClamp_1"
+      Input=(Expression=MaterialExpressionAdd'"M_CobbleStone_Rough:MaterialExpressionAdd_52"')
+      MaterialExpressionEditorX=-3720
+      MaterialExpressionEditorY=-200
+      MaterialExpressionGuid=6B7AA300407DD04C975CB2935F7D27B3
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionBumpOffset_25"
+      Coordinate=(Expression=MaterialExpressionTextureCoordinate'"M_CobbleStone_Rough:MaterialExpressionTextureCoordinate_1"')
+      Height=(Expression=MaterialExpressionConstant'"M_CobbleStone_Rough:MaterialExpressionConstant_86"')
+      HeightRatio=0.310000
+      ReferencePlane=0.000000
+      MaterialExpressionEditorX=-5440
+      MaterialExpressionEditorY=-5980
+      MaterialExpressionGuid=2A7159034007DC1A3DE8F1A5E3198119
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionBumpOffset_23"
+      Coordinate=(Expression=MaterialExpressionTextureCoordinate'"M_CobbleStone_Rough:MaterialExpressionTextureCoordinate_1"')
+      Height=(Expression=MaterialExpressionConstant'"M_CobbleStone_Rough:MaterialExpressionConstant_77"')
+      HeightRatio=0.310000
+      ReferencePlane=0.000000
+      MaterialExpressionEditorX=-5540
+      MaterialExpressionEditorY=-6900
+      MaterialExpressionGuid=B0A8A91040193F2F2B2B78A1B23FD5F1
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionBumpOffset_22"
+      Coordinate=(Expression=MaterialExpressionTextureCoordinate'"M_CobbleStone_Rough:MaterialExpressionTextureCoordinate_1"')
+      Height=(Expression=MaterialExpressionConstant'"M_CobbleStone_Rough:MaterialExpressionConstant_71"')
+      HeightRatio=0.310000
+      ReferencePlane=0.000000
+      MaterialExpressionEditorX=-5520
+      MaterialExpressionEditorY=-560
+      MaterialExpressionGuid=186D7F4B4C794AE0AA446B94EBDE0009
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionBumpOffset_21"
+      Coordinate=(Expression=MaterialExpressionTextureCoordinate'"M_CobbleStone_Rough:MaterialExpressionTextureCoordinate_1"')
+      Height=(Expression=MaterialExpressionConstant'"M_CobbleStone_Rough:MaterialExpressionConstant_68"')
+      HeightRatio=0.310000
+      ReferencePlane=0.000000
+      MaterialExpressionEditorX=-5560
+      MaterialExpressionEditorY=-8160
+      MaterialExpressionGuid=8D0D0DCB4E20E4DA7F1333AC67AF577D
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionBumpOffset_20"
+      Coordinate=(Expression=MaterialExpressionTextureCoordinate'"M_CobbleStone_Rough:MaterialExpressionTextureCoordinate_1"')
+      Height=(Expression=MaterialExpressionConstant'"M_CobbleStone_Rough:MaterialExpressionConstant_65"')
+      HeightRatio=0.310000
+      ReferencePlane=0.000000
+      MaterialExpressionEditorX=-5520
+      MaterialExpressionEditorY=-1700
+      MaterialExpressionGuid=40FE79E948C418366051569FEBF6BB1A
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionBumpOffset_19"
+      Coordinate=(Expression=MaterialExpressionTextureCoordinate'"M_CobbleStone_Rough:MaterialExpressionTextureCoordinate_1"')
+      Height=(Expression=MaterialExpressionConstant'"M_CobbleStone_Rough:MaterialExpressionConstant_62"')
+      HeightRatio=0.310000
+      ReferencePlane=0.000000
+      MaterialExpressionEditorX=-5520
+      MaterialExpressionEditorY=-9240
+      MaterialExpressionGuid=A0EF14E64AF54083FA1D139E616460B4
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionBumpOffset_18"
+      Coordinate=(Expression=MaterialExpressionTextureCoordinate'"M_CobbleStone_Rough:MaterialExpressionTextureCoordinate_1"')
+      Height=(Expression=MaterialExpressionConstant'"M_CobbleStone_Rough:MaterialExpressionConstant_59"')
+      HeightRatio=0.310000
+      ReferencePlane=0.000000
+      MaterialExpressionEditorX=-5540
+      MaterialExpressionEditorY=-2740
+      MaterialExpressionGuid=8C0D197541CDF2D074EE10AF374AB056
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionBumpOffset_17"
+      Coordinate=(Expression=MaterialExpressionTextureCoordinate'"M_CobbleStone_Rough:MaterialExpressionTextureCoordinate_1"')
+      Height=(Expression=MaterialExpressionConstant'"M_CobbleStone_Rough:MaterialExpressionConstant_56"')
+      HeightRatio=0.310000
+      ReferencePlane=0.000000
+      MaterialExpressionEditorX=-5500
+      MaterialExpressionEditorY=-10340
+      MaterialExpressionGuid=B6C81DF443AE70FFECBD67A91EF992D5
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionBumpOffset_16"
+      Coordinate=(Expression=MaterialExpressionTextureCoordinate'"M_CobbleStone_Rough:MaterialExpressionTextureCoordinate_1"')
+      Height=(Expression=MaterialExpressionConstant'"M_CobbleStone_Rough:MaterialExpressionConstant_53"')
+      HeightRatio=0.310000
+      ReferencePlane=0.000000
+      MaterialExpressionEditorX=-5480
+      MaterialExpressionEditorY=-3820
+      MaterialExpressionGuid=E33F0EDF4B6D528E78079BA6D2544D69
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionBumpOffset_15"
+      Coordinate=(Expression=MaterialExpressionTextureCoordinate'"M_CobbleStone_Rough:MaterialExpressionTextureCoordinate_1"')
+      Height=(Expression=MaterialExpressionConstant'"M_CobbleStone_Rough:MaterialExpressionConstant_50"')
+      HeightRatio=0.310000
+      ReferencePlane=0.000000
+      MaterialExpressionEditorX=-5500
+      MaterialExpressionEditorY=-11440
+      MaterialExpressionGuid=088FDEA54926A9FD85EA6C9BC40C703D
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionBumpOffset_14"
+      Coordinate=(Expression=MaterialExpressionTextureCoordinate'"M_CobbleStone_Rough:MaterialExpressionTextureCoordinate_1"')
+      Height=(Expression=MaterialExpressionConstant'"M_CobbleStone_Rough:MaterialExpressionConstant_47"')
+      HeightRatio=0.310000
+      ReferencePlane=0.000000
+      MaterialExpressionEditorX=-5580
+      MaterialExpressionEditorY=-4880
+      MaterialExpressionGuid=A98816794F097E8F6E6779BF9F9440D9
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionBumpOffset_13"
+      Coordinate=(Expression=MaterialExpressionTextureCoordinate'"M_CobbleStone_Rough:MaterialExpressionTextureCoordinate_1"')
+      Height=(Expression=MaterialExpressionConstant'"M_CobbleStone_Rough:MaterialExpressionConstant_44"')
+      HeightRatio=0.310000
+      ReferencePlane=0.000000
+      MaterialExpressionEditorX=-5480
+      MaterialExpressionEditorY=-12240
+      MaterialExpressionGuid=CAFFDF31495C7C8D054B0F88A9593C75
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_59"
+      A=(Expression=MaterialExpressionConstant'"M_CobbleStone_Rough:MaterialExpressionConstant_93"')
+      B=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_6"',OutputIndex=1,Mask=1,MaskR=1)
+      MaterialExpressionEditorX=-3860
+      MaterialExpressionEditorY=-2300
+      MaterialExpressionGuid=30DD4418405B72D126F4B4A083EC8A44
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_55"
+      A=(Expression=MaterialExpressionConstant'"M_CobbleStone_Rough:MaterialExpressionConstant_91"')
+      B=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_4"',OutputIndex=1,Mask=1,MaskR=1)
+      MaterialExpressionEditorX=-3725
+      MaterialExpressionEditorY=-1198
+      MaterialExpressionGuid=8D6442FD446E6E4C2100E0ADD8983571
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_52"
+      A=(Expression=MaterialExpressionConstant'"M_CobbleStone_Rough:MaterialExpressionConstant_89"')
+      B=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_2"',OutputIndex=1,Mask=1,MaskR=1)
+      MaterialExpressionEditorX=-3860
+      MaterialExpressionEditorY=-200
+      MaterialExpressionGuid=50D7434D4E6BE70D1031E98A3AA4961E
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_47"
+      A=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_72"',OutputIndex=4,Mask=1,MaskA=1)
+      B=(Expression=MaterialExpressionConstant'"M_CobbleStone_Rough:MaterialExpressionConstant_87"')
+      MaterialExpressionEditorX=-4268
+      MaterialExpressionEditorY=-5878
+      MaterialExpressionGuid=296668C745FFB17904E7E5AC4B3EEB7C
+      Material=Material'"M_CobbleStone_Rough"'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionAdd_46"
+      A=(Expression=MaterialExpressionMultiply'"M_CobbleStone_Rough:MaterialExpressionMultiply_74"')
+      B=(Expression=MaterialExpressionConstant2Vector'"M_CobbleStone_Rough:MaterialExpressionConstant2Vector_23"')
+      MaterialExpressionEditorX=-4880
+      MaterialExpressionEditorY=-6100
+      MaterialExpressionGuid=6DE51FC54D0FD65186191DAAC7D469DD
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_45"
+      A=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_69"',OutputIndex=4,Mask=1,MaskA=1)
+      B=(Expression=MaterialExpressionConstant'"M_CobbleStone_Rough:MaterialExpressionConstant_85"')
+      MaterialExpressionEditorX=-4390
+      MaterialExpressionEditorY=891
+      MaterialExpressionGuid=92512AE84BF40CFAC9446098F5564CD8
+      Material=Material'"M_CobbleStone_Rough"'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionAdd_44"
+      A=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_66"',OutputIndex=4,Mask=1,MaskA=1)
+      B=(Expression=MaterialExpressionConstant'"M_CobbleStone_Rough:MaterialExpressionConstant_79"')
+      MaterialExpressionEditorX=-4305
+      MaterialExpressionEditorY=-6875
+      MaterialExpressionGuid=5A203AE74C5499DF83C647A8AC0B2C3E
+      Material=Material'"M_CobbleStone_Rough"'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionAdd_43"
+      A=(Expression=MaterialExpressionMultiply'"M_CobbleStone_Rough:MaterialExpressionMultiply_69"')
+      B=(Expression=MaterialExpressionConstant2Vector'"M_CobbleStone_Rough:MaterialExpressionConstant2Vector_22"')
+      MaterialExpressionEditorX=-4891
+      MaterialExpressionEditorY=-7090
+      MaterialExpressionGuid=3BB0397444604D7651BBDCA21B741E3E
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_42"
+      A=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_63"',OutputIndex=4,Mask=1,MaskA=1)
+      B=(Expression=MaterialExpressionConstant'"M_CobbleStone_Rough:MaterialExpressionConstant_74"')
+      MaterialExpressionEditorX=-4380
+      MaterialExpressionEditorY=-420
+      MaterialExpressionGuid=DDB51FF6460B556A8521BF9BA3FB3D2B
+      Material=Material'"M_CobbleStone_Rough"'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionAdd_41"
+      A=(Expression=MaterialExpressionMultiply'"M_CobbleStone_Rough:MaterialExpressionMultiply_64"')
+      B=(Expression=MaterialExpressionConstant2Vector'"M_CobbleStone_Rough:MaterialExpressionConstant2Vector_21"')
+      MaterialExpressionEditorX=-4860
+      MaterialExpressionEditorY=-700
+      MaterialExpressionGuid=B1724C6D4A17A4811CC1FCADC0FF72EB
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_40"
+      A=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_60"',OutputIndex=4,Mask=1,MaskA=1)
+      B=(Expression=MaterialExpressionConstant'"M_CobbleStone_Rough:MaterialExpressionConstant_69"')
+      MaterialExpressionEditorX=-4256
+      MaterialExpressionEditorY=-8087
+      MaterialExpressionGuid=5A0964FC4703518D821FCBAD027E58CE
+      Material=Material'"M_CobbleStone_Rough"'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionAdd_39"
+      A=(Expression=MaterialExpressionMultiply'"M_CobbleStone_Rough:MaterialExpressionMultiply_60"')
+      B=(Expression=MaterialExpressionConstant2Vector'"M_CobbleStone_Rough:MaterialExpressionConstant2Vector_20"')
+      MaterialExpressionEditorX=-4880
+      MaterialExpressionEditorY=-8320
+      MaterialExpressionGuid=BDABCF4F4DDEB7E65CE7C7AC902F5E99
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_38"
+      A=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_57"',OutputIndex=4,Mask=1,MaskA=1)
+      B=(Expression=MaterialExpressionConstant'"M_CobbleStone_Rough:MaterialExpressionConstant_66"')
+      MaterialExpressionEditorX=-4340
+      MaterialExpressionEditorY=-1520
+      MaterialExpressionGuid=1E96D0C14CA0EC760DAFA6A445C3A4F5
+      Material=Material'"M_CobbleStone_Rough"'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionAdd_37"
+      A=(Expression=MaterialExpressionMultiply'"M_CobbleStone_Rough:MaterialExpressionMultiply_57"')
+      B=(Expression=MaterialExpressionConstant2Vector'"M_CobbleStone_Rough:MaterialExpressionConstant2Vector_19"')
+      MaterialExpressionEditorX=-4880
+      MaterialExpressionEditorY=-1780
+      MaterialExpressionGuid=F3FE24C94336E04434BCA6A586B94E0B
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_36"
+      A=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_54"',OutputIndex=4,Mask=1,MaskA=1)
+      B=(Expression=MaterialExpressionConstant'"M_CobbleStone_Rough:MaterialExpressionConstant_63"')
+      MaterialExpressionEditorX=-4320
+      MaterialExpressionEditorY=-9120
+      MaterialExpressionGuid=F5DD223A467A12918C3B19A76EC79D4A
+      Material=Material'"M_CobbleStone_Rough"'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionAdd_35"
+      A=(Expression=MaterialExpressionMultiply'"M_CobbleStone_Rough:MaterialExpressionMultiply_54"')
+      B=(Expression=MaterialExpressionConstant2Vector'"M_CobbleStone_Rough:MaterialExpressionConstant2Vector_18"')
+      MaterialExpressionEditorX=-4860
+      MaterialExpressionEditorY=-9380
+      MaterialExpressionGuid=E6756DE04576DA73D77C48B722BC9527
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_34"
+      A=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_51"',OutputIndex=4,Mask=1,MaskA=1)
+      B=(Expression=MaterialExpressionConstant'"M_CobbleStone_Rough:MaterialExpressionConstant_60"')
+      MaterialExpressionEditorX=-4420
+      MaterialExpressionEditorY=-2520
+      MaterialExpressionGuid=E7D8B8F14F8A94427EE959AE25F5CB22
+      Material=Material'"M_CobbleStone_Rough"'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionAdd_33"
+      A=(Expression=MaterialExpressionMultiply'"M_CobbleStone_Rough:MaterialExpressionMultiply_51"')
+      B=(Expression=MaterialExpressionConstant2Vector'"M_CobbleStone_Rough:MaterialExpressionConstant2Vector_17"')
+      MaterialExpressionEditorX=-4960
+      MaterialExpressionEditorY=-2820
+      MaterialExpressionGuid=9A6DAC2A4514B43EB85E72AE498B8174
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_32"
+      A=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_48"',OutputIndex=4,Mask=1,MaskA=1)
+      B=(Expression=MaterialExpressionConstant'"M_CobbleStone_Rough:MaterialExpressionConstant_57"')
+      MaterialExpressionEditorX=-4313
+      MaterialExpressionEditorY=-10210
+      MaterialExpressionGuid=CC9BFD1B4969F4556C0341B87B40B3FC
+      Material=Material'"M_CobbleStone_Rough"'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionAdd_31"
+      A=(Expression=MaterialExpressionMultiply'"M_CobbleStone_Rough:MaterialExpressionMultiply_49"')
+      B=(Expression=MaterialExpressionConstant2Vector'"M_CobbleStone_Rough:MaterialExpressionConstant2Vector_16"')
+      MaterialExpressionEditorX=-4880
+      MaterialExpressionEditorY=-10460
+      MaterialExpressionGuid=93B9F5F244496631E43A12B4CF3F1296
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_30"
+      A=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_45"',OutputIndex=4,Mask=1,MaskA=1)
+      B=(Expression=MaterialExpressionConstant'"M_CobbleStone_Rough:MaterialExpressionConstant_54"')
+      MaterialExpressionEditorX=-4320
+      MaterialExpressionEditorY=-3620
+      MaterialExpressionGuid=055757744D87FA6F6D466DA12423ADF3
+      Material=Material'"M_CobbleStone_Rough"'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionAdd_29"
+      A=(Expression=MaterialExpressionMultiply'"M_CobbleStone_Rough:MaterialExpressionMultiply_46"')
+      B=(Expression=MaterialExpressionConstant2Vector'"M_CobbleStone_Rough:MaterialExpressionConstant2Vector_15"')
+      MaterialExpressionEditorX=-4900
+      MaterialExpressionEditorY=-3880
+      MaterialExpressionGuid=AB2F6412454F942FB88E49935FB9689A
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_28"
+      A=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_42"',OutputIndex=4,Mask=1,MaskA=1)
+      B=(Expression=MaterialExpressionConstant'"M_CobbleStone_Rough:MaterialExpressionConstant_51"')
+      MaterialExpressionEditorX=-4320
+      MaterialExpressionEditorY=-11360
+      MaterialExpressionGuid=5F18A21441E34E364E392CB9891C9217
+      Material=Material'"M_CobbleStone_Rough"'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionAdd_27"
+      A=(Expression=MaterialExpressionMultiply'"M_CobbleStone_Rough:MaterialExpressionMultiply_44"')
+      B=(Expression=MaterialExpressionConstant2Vector'"M_CobbleStone_Rough:MaterialExpressionConstant2Vector_14"')
+      MaterialExpressionEditorX=-4812
+      MaterialExpressionEditorY=-11635
+      MaterialExpressionGuid=23DBE70949279BC614CCF59C1583DA3A
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_26"
+      A=(Expression=MaterialExpressionTextureSampleParameter2D'"M_CobbleStone_Rough:MaterialExpressionTextureSampleParameter2D_39"',OutputIndex=4,Mask=1,MaskA=1)
+      B=(Expression=MaterialExpressionConstant'"M_CobbleStone_Rough:MaterialExpressionConstant_49"')
+      MaterialExpressionEditorX=-4320
+      MaterialExpressionEditorY=-4780
+      MaterialExpressionGuid=9CC549244FE12A3DF9B5D0A6FC967C2E
+      Material=Material'"M_CobbleStone_Rough"'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionAdd_25"
+      A=(Expression=MaterialExpressionMultiply'"M_CobbleStone_Rough:MaterialExpressionMultiply_41"')
+      B=(Expression=MaterialExpressionConstant2Vector'"M_CobbleStone_Rough:MaterialExpressionConstant2Vector_13"')
+      MaterialExpressionEditorX=-4920
+      MaterialExpressionEditorY=-5060
+      MaterialExpressionGuid=6B69A7184B2BA5A8749349862F6256B2
+      Material=Material'"M_CobbleStone_Rough"'
+   End Object
+   BaseColor=(Expression=MaterialExpressionFeatureLevelSwitch'"MaterialExpressionFeatureLevelSwitch_5"')
+   Specular=(Expression=MaterialExpressionConstant'"MaterialExpressionConstant_2"')
+   Roughness=(Constant=0.423800,Expression=MaterialExpressionFeatureLevelSwitch'"MaterialExpressionFeatureLevelSwitch_6"')
+   Normal=(Expression=MaterialExpressionFeatureLevelSwitch'"MaterialExpressionFeatureLevelSwitch_3"')
+   bUsedWithStaticLighting=True
+   EditorX=-1280
+   EditorY=240
+   Expressions(0)=MaterialExpressionFeatureLevelSwitch'"MaterialExpressionFeatureLevelSwitch_5"'
+   Expressions(1)=MaterialExpressionConstant'"MaterialExpressionConstant_2"'
+   Expressions(2)=MaterialExpressionFeatureLevelSwitch'"MaterialExpressionFeatureLevelSwitch_6"'
+   Expressions(3)=MaterialExpressionFeatureLevelSwitch'"MaterialExpressionFeatureLevelSwitch_3"'
+   Expressions(4)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_49"'
+   Expressions(5)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_47"'
+   Expressions(6)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_48"'
+   Expressions(7)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_19"'
+   Expressions(8)=MaterialExpressionTextureSampleParameter2D'"MaterialExpressionTextureSampleParameter2D_39"'
+   Expressions(9)=MaterialExpressionBumpOffset'"MaterialExpressionBumpOffset_13"'
+   Expressions(10)=MaterialExpressionMultiply'"MaterialExpressionMultiply_39"'
+   Expressions(11)=MaterialExpressionConstant'"MaterialExpressionConstant_44"'
+   Expressions(12)=MaterialExpressionConstant'"MaterialExpressionConstant_45"'
+   Expressions(13)=MaterialExpressionTextureSampleParameter2D'"MaterialExpressionTextureSampleParameter2D_41"'
+   Expressions(14)=MaterialExpressionMultiply'"MaterialExpressionMultiply_40"'
+   Expressions(15)=MaterialExpressionMultiply'"MaterialExpressionMultiply_41"'
+   Expressions(16)=MaterialExpressionAdd'"MaterialExpressionAdd_25"'
+   Expressions(17)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_13"'
+   Expressions(18)=MaterialExpressionTextureSampleParameter2D'"MaterialExpressionTextureSampleParameter2D_42"'
+   Expressions(19)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_26"'
+   Expressions(20)=MaterialExpressionConstant'"MaterialExpressionConstant_46"'
+   Expressions(21)=MaterialExpressionConstant2Vector'"MaterialExpressionConstant2Vector_13"'
+   Expressions(22)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_27"'
+   Expressions(23)=MaterialExpressionMultiply'"MaterialExpressionMultiply_42"'
+   Expressions(24)=MaterialExpressionBumpOffset'"MaterialExpressionBumpOffset_14"'
+   Expressions(25)=MaterialExpressionConstant'"MaterialExpressionConstant_47"'
+   Expressions(26)=MaterialExpressionTextureSampleParameter2D'"MaterialExpressionTextureSampleParameter2D_43"'
+   Expressions(27)=MaterialExpressionMultiply'"MaterialExpressionMultiply_43"'
+   Expressions(28)=MaterialExpressionMultiply'"MaterialExpressionMultiply_44"'
+   Expressions(29)=MaterialExpressionAdd'"MaterialExpressionAdd_26"'
+   Expressions(30)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_14"'
+   Expressions(31)=MaterialExpressionAdd'"MaterialExpressionAdd_27"'
+   Expressions(32)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_29"'
+   Expressions(33)=MaterialExpressionConstant'"MaterialExpressionConstant_48"'
+   Expressions(34)=MaterialExpressionConstant'"MaterialExpressionConstant_49"'
+   Expressions(35)=MaterialExpressionBumpOffset'"MaterialExpressionBumpOffset_15"'
+   Expressions(36)=MaterialExpressionConstant'"MaterialExpressionConstant_50"'
+   Expressions(37)=MaterialExpressionConstant2Vector'"MaterialExpressionConstant2Vector_14"'
+   Expressions(38)=MaterialExpressionTextureSampleParameter2D'"MaterialExpressionTextureSampleParameter2D_45"'
+   Expressions(39)=MaterialExpressionAdd'"MaterialExpressionAdd_28"'
+   Expressions(40)=MaterialExpressionTextureSampleParameter2D'"MaterialExpressionTextureSampleParameter2D_47"'
+   Expressions(41)=MaterialExpressionMultiply'"MaterialExpressionMultiply_45"'
+   Expressions(42)=MaterialExpressionConstant'"MaterialExpressionConstant_51"'
+   Expressions(43)=MaterialExpressionMultiply'"MaterialExpressionMultiply_46"'
+   Expressions(44)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_15"'
+   Expressions(45)=MaterialExpressionAdd'"MaterialExpressionAdd_29"'
+   Expressions(46)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_30"'
+   Expressions(47)=MaterialExpressionConstant'"MaterialExpressionConstant_52"'
+   Expressions(48)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_31"'
+   Expressions(49)=MaterialExpressionMultiply'"MaterialExpressionMultiply_47"'
+   Expressions(50)=MaterialExpressionConstant2Vector'"MaterialExpressionConstant2Vector_15"'
+   Expressions(51)=MaterialExpressionBumpOffset'"MaterialExpressionBumpOffset_16"'
+   Expressions(52)=MaterialExpressionConstant'"MaterialExpressionConstant_53"'
+   Expressions(53)=MaterialExpressionTextureSampleParameter2D'"MaterialExpressionTextureSampleParameter2D_48"'
+   Expressions(54)=MaterialExpressionAdd'"MaterialExpressionAdd_30"'
+   Expressions(55)=MaterialExpressionTextureSampleParameter2D'"MaterialExpressionTextureSampleParameter2D_50"'
+   Expressions(56)=MaterialExpressionMultiply'"MaterialExpressionMultiply_48"'
+   Expressions(57)=MaterialExpressionMultiply'"MaterialExpressionMultiply_49"'
+   Expressions(58)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_16"'
+   Expressions(59)=MaterialExpressionConstant'"MaterialExpressionConstant_54"'
+   Expressions(60)=MaterialExpressionAdd'"MaterialExpressionAdd_31"'
+   Expressions(61)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_32"'
+   Expressions(62)=MaterialExpressionMultiply'"MaterialExpressionMultiply_50"'
+   Expressions(63)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_33"'
+   Expressions(64)=MaterialExpressionConstant'"MaterialExpressionConstant_55"'
+   Expressions(65)=MaterialExpressionBumpOffset'"MaterialExpressionBumpOffset_17"'
+   Expressions(66)=MaterialExpressionTextureSampleParameter2D'"MaterialExpressionTextureSampleParameter2D_51"'
+   Expressions(67)=MaterialExpressionConstant'"MaterialExpressionConstant_56"'
+   Expressions(68)=MaterialExpressionConstant2Vector'"MaterialExpressionConstant2Vector_16"'
+   Expressions(69)=MaterialExpressionAdd'"MaterialExpressionAdd_32"'
+   Expressions(70)=MaterialExpressionTextureSampleParameter2D'"MaterialExpressionTextureSampleParameter2D_53"'
+   Expressions(71)=MaterialExpressionMultiply'"MaterialExpressionMultiply_51"'
+   Expressions(72)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_17"'
+   Expressions(73)=MaterialExpressionMultiply'"MaterialExpressionMultiply_52"'
+   Expressions(74)=MaterialExpressionAdd'"MaterialExpressionAdd_33"'
+   Expressions(75)=MaterialExpressionConstant'"MaterialExpressionConstant_57"'
+   Expressions(76)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_34"'
+   Expressions(77)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_35"'
+   Expressions(78)=MaterialExpressionConstant'"MaterialExpressionConstant_58"'
+   Expressions(79)=MaterialExpressionMultiply'"MaterialExpressionMultiply_53"'
+   Expressions(80)=MaterialExpressionConstant2Vector'"MaterialExpressionConstant2Vector_17"'
+   Expressions(81)=MaterialExpressionBumpOffset'"MaterialExpressionBumpOffset_18"'
+   Expressions(82)=MaterialExpressionConstant'"MaterialExpressionConstant_59"'
+   Expressions(83)=MaterialExpressionTextureSampleParameter2D'"MaterialExpressionTextureSampleParameter2D_54"'
+   Expressions(84)=MaterialExpressionAdd'"MaterialExpressionAdd_34"'
+   Expressions(85)=MaterialExpressionTextureSampleParameter2D'"MaterialExpressionTextureSampleParameter2D_56"'
+   Expressions(86)=MaterialExpressionMultiply'"MaterialExpressionMultiply_54"'
+   Expressions(87)=MaterialExpressionMultiply'"MaterialExpressionMultiply_55"'
+   Expressions(88)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_18"'
+   Expressions(89)=MaterialExpressionConstant'"MaterialExpressionConstant_60"'
+   Expressions(90)=MaterialExpressionAdd'"MaterialExpressionAdd_35"'
+   Expressions(91)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_36"'
+   Expressions(92)=MaterialExpressionConstant'"MaterialExpressionConstant_61"'
+   Expressions(93)=MaterialExpressionMultiply'"MaterialExpressionMultiply_56"'
+   Expressions(94)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_37"'
+   Expressions(95)=MaterialExpressionTextureSampleParameter2D'"MaterialExpressionTextureSampleParameter2D_57"'
+   Expressions(96)=MaterialExpressionBumpOffset'"MaterialExpressionBumpOffset_19"'
+   Expressions(97)=MaterialExpressionConstant'"MaterialExpressionConstant_62"'
+   Expressions(98)=MaterialExpressionConstant2Vector'"MaterialExpressionConstant2Vector_18"'
+   Expressions(99)=MaterialExpressionAdd'"MaterialExpressionAdd_36"'
+   Expressions(100)=MaterialExpressionTextureSampleParameter2D'"MaterialExpressionTextureSampleParameter2D_59"'
+   Expressions(101)=MaterialExpressionMultiply'"MaterialExpressionMultiply_57"'
+   Expressions(102)=MaterialExpressionMultiply'"MaterialExpressionMultiply_58"'
+   Expressions(103)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_19"'
+   Expressions(104)=MaterialExpressionAdd'"MaterialExpressionAdd_37"'
+   Expressions(105)=MaterialExpressionConstant'"MaterialExpressionConstant_63"'
+   Expressions(106)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_38"'
+   Expressions(107)=MaterialExpressionConstant'"MaterialExpressionConstant_64"'
+   Expressions(108)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_39"'
+   Expressions(109)=MaterialExpressionConstant2Vector'"MaterialExpressionConstant2Vector_19"'
+   Expressions(110)=MaterialExpressionMultiply'"MaterialExpressionMultiply_59"'
+   Expressions(111)=MaterialExpressionBumpOffset'"MaterialExpressionBumpOffset_20"'
+   Expressions(112)=MaterialExpressionConstant'"MaterialExpressionConstant_65"'
+   Expressions(113)=MaterialExpressionTextureSampleParameter2D'"MaterialExpressionTextureSampleParameter2D_60"'
+   Expressions(114)=MaterialExpressionAdd'"MaterialExpressionAdd_38"'
+   Expressions(115)=MaterialExpressionTextureSampleParameter2D'"MaterialExpressionTextureSampleParameter2D_62"'
+   Expressions(116)=MaterialExpressionMultiply'"MaterialExpressionMultiply_60"'
+   Expressions(117)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_20"'
+   Expressions(118)=MaterialExpressionMultiply'"MaterialExpressionMultiply_61"'
+   Expressions(119)=MaterialExpressionAdd'"MaterialExpressionAdd_39"'
+   Expressions(120)=MaterialExpressionConstant'"MaterialExpressionConstant_66"'
+   Expressions(121)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_40"'
+   Expressions(122)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_41"'
+   Expressions(123)=MaterialExpressionConstant'"MaterialExpressionConstant_67"'
+   Expressions(124)=MaterialExpressionConstant2Vector'"MaterialExpressionConstant2Vector_20"'
+   Expressions(125)=MaterialExpressionMultiply'"MaterialExpressionMultiply_62"'
+   Expressions(126)=MaterialExpressionBumpOffset'"MaterialExpressionBumpOffset_21"'
+   Expressions(127)=MaterialExpressionConstant'"MaterialExpressionConstant_68"'
+   Expressions(128)=MaterialExpressionTextureSampleParameter2D'"MaterialExpressionTextureSampleParameter2D_63"'
+   Expressions(129)=MaterialExpressionAdd'"MaterialExpressionAdd_40"'
+   Expressions(130)=MaterialExpressionTextureSampleParameter2D'"MaterialExpressionTextureSampleParameter2D_65"'
+   Expressions(131)=MaterialExpressionMultiply'"MaterialExpressionMultiply_63"'
+   Expressions(132)=MaterialExpressionMultiply'"MaterialExpressionMultiply_64"'
+   Expressions(133)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_21"'
+   Expressions(134)=MaterialExpressionConstant'"MaterialExpressionConstant_69"'
+   Expressions(135)=MaterialExpressionAdd'"MaterialExpressionAdd_41"'
+   Expressions(136)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_42"'
+   Expressions(137)=MaterialExpressionConstant'"MaterialExpressionConstant_70"'
+   Expressions(138)=MaterialExpressionMultiply'"MaterialExpressionMultiply_65"'
+   Expressions(139)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_43"'
+   Expressions(140)=MaterialExpressionConstant2Vector'"MaterialExpressionConstant2Vector_21"'
+   Expressions(141)=MaterialExpressionTextureSampleParameter2D'"MaterialExpressionTextureSampleParameter2D_66"'
+   Expressions(142)=MaterialExpressionBumpOffset'"MaterialExpressionBumpOffset_22"'
+   Expressions(143)=MaterialExpressionConstant'"MaterialExpressionConstant_71"'
+   Expressions(144)=MaterialExpressionMultiply'"MaterialExpressionMultiply_66"'
+   Expressions(145)=MaterialExpressionTextureSampleParameter2D'"MaterialExpressionTextureSampleParameter2D_67"'
+   Expressions(146)=MaterialExpressionAdd'"MaterialExpressionAdd_42"'
+   Expressions(147)=MaterialExpressionMultiply'"MaterialExpressionMultiply_68"'
+   Expressions(148)=MaterialExpressionMultiply'"MaterialExpressionMultiply_69"'
+   Expressions(149)=MaterialExpressionAdd'"MaterialExpressionAdd_43"'
+   Expressions(150)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_22"'
+   Expressions(151)=MaterialExpressionMultiply'"MaterialExpressionMultiply_70"'
+   Expressions(152)=MaterialExpressionConstant'"MaterialExpressionConstant_74"'
+   Expressions(153)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_45"'
+   Expressions(154)=MaterialExpressionConstant'"MaterialExpressionConstant_75"'
+   Expressions(155)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_46"'
+   Expressions(156)=MaterialExpressionConstant2Vector'"MaterialExpressionConstant2Vector_22"'
+   Expressions(157)=MaterialExpressionBumpOffset'"MaterialExpressionBumpOffset_23"'
+   Expressions(158)=MaterialExpressionConstant'"MaterialExpressionConstant_77"'
+   Expressions(159)=MaterialExpressionTextureSampleParameter2D'"MaterialExpressionTextureSampleParameter2D_69"'
+   Expressions(160)=MaterialExpressionAdd'"MaterialExpressionAdd_44"'
+   Expressions(161)=MaterialExpressionConstant'"MaterialExpressionConstant_1"'
+   Expressions(162)=MaterialExpressionConstant'"MaterialExpressionConstant_79"'
+   Expressions(163)=MaterialExpressionMultiply'"MaterialExpressionMultiply_72"'
+   Expressions(164)=MaterialExpressionConstant'"MaterialExpressionConstant_81"'
+   Expressions(165)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_31"'
+   Expressions(166)=MaterialExpressionConstant'"MaterialExpressionConstant_82"'
+   Expressions(167)=MaterialExpressionTextureCoordinate'"MaterialExpressionTextureCoordinate_1"'
+   Expressions(168)=MaterialExpressionTextureSampleParameter2D'"MaterialExpressionTextureSampleParameter2D_72"'
+   Expressions(169)=MaterialExpressionTextureSampleParameter2D'"MaterialExpressionTextureSampleParameter2D_73"'
+   Expressions(170)=MaterialExpressionMultiply'"MaterialExpressionMultiply_73"'
+   Expressions(171)=MaterialExpressionAdd'"MaterialExpressionAdd_45"'
+   Expressions(172)=MaterialExpressionMultiply'"MaterialExpressionMultiply_74"'
+   Expressions(173)=MaterialExpressionAdd'"MaterialExpressionAdd_46"'
+   Expressions(174)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_23"'
+   Expressions(175)=MaterialExpressionMultiply'"MaterialExpressionMultiply_75"'
+   Expressions(176)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_50"'
+   Expressions(177)=MaterialExpressionConstant'"MaterialExpressionConstant_84"'
+   Expressions(178)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_51"'
+   Expressions(179)=MaterialExpressionConstant'"MaterialExpressionConstant_85"'
+   Expressions(180)=MaterialExpressionConstant2Vector'"MaterialExpressionConstant2Vector_23"'
+   Expressions(181)=MaterialExpressionBumpOffset'"MaterialExpressionBumpOffset_25"'
+   Expressions(182)=MaterialExpressionConstant'"MaterialExpressionConstant_86"'
+   Expressions(183)=MaterialExpressionAdd'"MaterialExpressionAdd_47"'
+   Expressions(184)=MaterialExpressionConstant'"MaterialExpressionConstant_87"'
+   Expressions(185)=MaterialExpressionConstant'"MaterialExpressionConstant_89"'
+   Expressions(186)=MaterialExpressionAdd'"MaterialExpressionAdd_52"'
+   Expressions(187)=MaterialExpressionClamp'"MaterialExpressionClamp_1"'
+   Expressions(188)=MaterialExpressionMultiply'"MaterialExpressionMultiply_80"'
+   Expressions(189)=MaterialExpressionAdd'"MaterialExpressionAdd_55"'
+   Expressions(190)=MaterialExpressionMultiply'"MaterialExpressionMultiply_82"'
+   Expressions(191)=MaterialExpressionConstant'"MaterialExpressionConstant_91"'
+   Expressions(192)=MaterialExpressionClamp'"MaterialExpressionClamp_3"'
+   Expressions(193)=MaterialExpressionAdd'"MaterialExpressionAdd_59"'
+   Expressions(194)=MaterialExpressionMultiply'"MaterialExpressionMultiply_84"'
+   Expressions(195)=MaterialExpressionConstant'"MaterialExpressionConstant_93"'
+   Expressions(196)=MaterialExpressionClamp'"MaterialExpressionClamp_5"'
+   Expressions(197)=MaterialExpressionTextureSampleParameter2D'"MaterialExpressionTextureSampleParameter2D_0"'
+   Expressions(198)=MaterialExpressionTextureSampleParameter2D'"MaterialExpressionTextureSampleParameter2D_2"'
+   Expressions(199)=MaterialExpressionTextureSampleParameter2D'"MaterialExpressionTextureSampleParameter2D_4"'
+   Expressions(200)=MaterialExpressionTextureSampleParameter2D'"MaterialExpressionTextureSampleParameter2D_6"'
+   Expressions(201)=MaterialExpressionTextureSampleParameter2D'"MaterialExpressionTextureSampleParameter2D_8"'
+   Expressions(202)=MaterialExpressionTextureSampleParameter2D'"MaterialExpressionTextureSampleParameter2D_10"'
+   Expressions(203)=MaterialExpressionTextureSampleParameter2D'"MaterialExpressionTextureSampleParameter2D_12"'
+   Expressions(204)=MaterialExpressionTextureSampleParameter2D'"MaterialExpressionTextureSampleParameter2D_14"'
+   Expressions(205)=MaterialExpressionTextureSampleParameter2D'"MaterialExpressionTextureSampleParameter2D_16"'
+   Expressions(206)=MaterialExpressionTextureSampleParameter2D'"MaterialExpressionTextureSampleParameter2D_18"'
+   Expressions(207)=MaterialExpressionTextureSampleParameter2D'"MaterialExpressionTextureSampleParameter2D_20"'
+   Expressions(208)=MaterialExpressionTextureSampleParameter2D'"MaterialExpressionTextureSampleParameter2D_22"'
+   Expressions(209)=MaterialExpressionConstant'"MaterialExpressionConstant_3"'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=6AAF109E4874CEE98F50A4986B6943A2
+   ReferencedTextureGuids(0)=4622C44D405BD83A4E5010ADEABF5BFA
+   ReferencedTextureGuids(1)=54C057284912BEE539FB559B5B90229F
+   ReferencedTextureGuids(2)=70337CCE43CB8F51B5CEC58270B01BC6
+   ReferencedTextureGuids(3)=227CCB03433F72CE730676872D57282B
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_35"'
+   LightingGuid=977E989845D078452C74FA93503A70D3
+End Object
